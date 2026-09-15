@@ -59,7 +59,7 @@ class ExtractJobInfo:
     process() runs both and returns one combined dict.
     """
 
-    def __init__(self, model_name="deepseek-chat", temperature=0,
+    def __init__(self, model_name="deepseek-flash", temperature=0,
                  api_key=None, prompts_dir=PROMPTS_DIR):
         # API key: use the one passed in, otherwise read it from .env
         api_key = api_key or os.getenv("DEEPSEEK_API_KEY")
@@ -166,5 +166,6 @@ if __name__ == "__main__":
 
     extractor = ExtractJobInfo()
     result = extractor.process(sample_jd)
+    print(result)
 
     print(json.dumps(result, indent=2, ensure_ascii=False))
