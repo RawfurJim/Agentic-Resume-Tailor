@@ -5,7 +5,7 @@
 - Step 0 (plan + tests written first): done
 - Part 1 (pipeline, `app/batch_pipeline.py`): done
 - Part 2 (backend API, `app/batch.py`): done
-- Part 3 (frontend, `static/batch.html` + `static/batch.js`): not started
+- Part 3 (frontend, `static/batch.html` + `static/batch.js`): done
 
 Work on one part per fresh context: read this file and the part's test file, implement, run
 `.venv/bin/pytest -m "not integration" -q` until green, update the Status line above, commit, stop.

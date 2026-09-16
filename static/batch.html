@@ -3,21 +3,25 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CV Optimiser</title>
+  <title>CV Optimiser – Batch</title>
   <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-  <main class="card">
+  <main class="card wide">
     <h1>CV Optimiser</h1>
-    <nav class="nav"><a href="/" aria-current="page">Single job</a> · <a href="/batch">Batch (CSV / Excel)</a></nav>
-    <p class="lede">Paste a job description, click Generate, and download a CV tailored to that role.</p>
+    <nav class="nav"><a href="/">Single job</a> · <a href="/batch" aria-current="page">Batch (CSV / Excel)</a></nav>
+    <p class="lede">
+      Upload a CSV or Excel file with the columns <code>title</code>, <code>company</code>,
+      <code>link</code> and <code>description</code> (company and description are required).
+      One CV is made per row, one at a time; each finished CV appears in the table below.
+    </p>
 
-    <!-- novalidate: app.js does its own checks so the messages match the API's wording -->
-    <form id="cv-form" novalidate>
+    <!-- novalidate: batch.js does its own checks so the messages match the API's wording -->
+    <form id="batch-form" novalidate>
       <div class="field">
-        <label for="job_description">Job description</label>
-        <textarea id="job_description" name="job_description" rows="12" required
-                  placeholder="Paste the full job description here…"></textarea>
+        <label for="file">Jobs file</label>
+        <input id="file" name="file" type="file" accept=".csv,.xlsx">
+        <p class="help">.csv or .xlsx, first row = column names. Example: <code>samples/jobs_sample.csv</code>.</p>
       </div>
 
       <div class="row">
@@ -46,27 +50,35 @@
       </div>
 
       <div class="actions">
-        <button type="submit" id="generate">Generate CV</button>
+        <button type="submit" id="start">Start batch</button>
       </div>
     </form>
 
-    <!-- Progress: shown while the request is running -->
+    <!-- Progress: shown while the batch is running -->
     <div id="status" class="status" role="status" aria-live="polite" hidden>
       <span class="spinner" aria-hidden="true"></span>
-      <span id="status_text">Generating your CV… this usually takes 1–3 minutes.</span>
+      <span id="status_text">Working… each CV takes 1–3 minutes.</span>
       <span id="elapsed" class="elapsed"></span>
     </div>
 
     <!-- Error: JSON detail from the API, or a network failure -->
     <div id="error" class="box error" role="alert" hidden></div>
 
-    <!-- Success: shown after the download has been triggered -->
-    <div id="success" class="box success" hidden>
-      <span id="success_text"></span>
-      <a href="#" id="download_again">Download again</a>
+    <!-- Results: one row per job, filled in as the server finishes them -->
+    <div id="results" hidden>
+      <div class="progress">
+        <span id="progress_text"></span>
+        <a id="zip_link" class="dl" href="#" download hidden>Download all (zip)</a>
+      </div>
+      <table class="batch">
+        <thead>
+          <tr><th>#</th><th>Title</th><th>Company</th><th>Link</th><th>Status</th><th>CV</th></tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
     </div>
   </main>
 
-  <script src="/static/app.js"></script>
+  <script src="/static/batch.js"></script>
 </body>
 </html>
