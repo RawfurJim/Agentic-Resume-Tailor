@@ -1,0 +1,6 @@
+title,company,link,description
+Senior AI Engineer,Acme,https://acme.example/jobs/101,"Acme is hiring a Senior AI Engineer to build LLM-powered features in Python.
+You will design REST APIs with FastAPI, fine-tune models and deploy them on AWS.
+Requirements: strong Python, experience with LLM APIs and prompt engineering, Docker."
+Data Scientist,Beta Ltd,,"Beta Ltd needs a Data Scientist to analyse customer data, build predictive models with scikit-learn and present findings to stakeholders. SQL and Python required."
+Machine Learning Engineer,Acme,https://acme.example/jobs/202,"Acme is looking for an ML Engineer to productionise NLP models: PyTorch, MLOps, CI/CD and monitoring in production."

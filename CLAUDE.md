@@ -13,6 +13,13 @@ Three LLM/docx stages run in one synchronous request (1–3 minutes). See `PLAN.
 - `static/` – the frontend: `index.html`, `style.css`, `app.js`. Plain HTML/CSS/JS, no build step.
 - `prompts/` – the four prompt text files used by the pipeline.
 - `tests/` – pytest suite (see below).
+- Batch feature (CSV of jobs -> one CV per row -> zip), built in 3 parts, see `PLAN_BATCH.md` for the
+  plan and status: `app/batch_pipeline.py` (Part 1, read rows / run one row at a time / zip),
+  `app/batch.py` (Part 2, job API, in-memory jobs, output in `batch_output/`),
+  `static/batch.html` + `static/batch.js` (Part 3, the second page). Tests were written first:
+  `tests/test_batch_pipeline.py`, `tests/test_batch_api.py`, `tests/test_batch_frontend.py`.
+  `samples/jobs_sample.csv` is an example input. Batch jobs live in memory: run uvicorn without
+  `--reload` for a real batch, and the job status JSON must never contain the API key.
 - Data files at the root: `cv_map.json` (current CV content), `profile.md` (background),
   `profile_experience.md` (project write-ups). `.env` holds `DEEPSEEK_API_KEY` (git-ignored).
 
