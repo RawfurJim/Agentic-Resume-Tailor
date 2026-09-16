@@ -1,0 +1,20 @@
+# Direct dependencies, pinned to the versions installed in .venv (2026-09).
+# Install with:  pip install -r requirements.txt   (or: uv pip install -r requirements.txt)
+
+# web backend
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+python-multipart==0.0.32
+
+# LLM pipeline
+langchain-core==1.6.3
+langchain-deepseek==1.1.0
+langchain-google-genai==4.4.0
+
+# docx output and .env loading
+python-docx==1.2.0
+python-dotenv==1.2.3
+
+# tests
+pytest==9.1.1
+httpx==0.28.1

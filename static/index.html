@@ -4,9 +4,68 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CV Optimiser</title>
+  <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-  <h1>CV Optimiser – frontend coming soon</h1>
-  <p>The API is running. Try <a href="/api/health">/api/health</a> or <a href="/api/defaults">/api/defaults</a>.</p>
+  <main class="card">
+    <h1>CV Optimiser</h1>
+    <p class="lede">Paste a job description, click Generate, and download a CV tailored to that role.</p>
+
+    <!-- novalidate: app.js does its own checks so the messages match the API's wording -->
+    <form id="cv-form" novalidate>
+      <div class="field">
+        <label for="job_description">Job description</label>
+        <textarea id="job_description" name="job_description" rows="12" required
+                  placeholder="Paste the full job description here…"></textarea>
+      </div>
+
+      <div class="row">
+        <div class="field">
+          <label for="provider">Provider</label>
+          <select id="provider" name="provider">
+            <option value="deepseek" selected>DeepSeek</option>
+            <option value="gemini">Gemini</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="model">Model <span class="optional">(optional)</span></label>
+          <input id="model" name="model" type="text" autocomplete="off" spellcheck="false">
+          <p class="help" id="model_help"></p>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="api_key">API key</label>
+        <div class="key-row">
+          <input id="api_key" name="api_key" type="password" autocomplete="off" spellcheck="false">
+          <button type="button" id="toggle_key" class="ghost" aria-pressed="false">Show</button>
+        </div>
+        <p class="help" id="api_key_help"></p>
+      </div>
+
+      <div class="actions">
+        <button type="submit" id="generate">Generate CV</button>
+      </div>
+    </form>
+
+    <!-- Progress: shown while the request is running -->
+    <div id="status" class="status" role="status" aria-live="polite" hidden>
+      <span class="spinner" aria-hidden="true"></span>
+      <span id="status_text">Generating your CV… this usually takes 1–3 minutes.</span>
+      <span id="elapsed" class="elapsed"></span>
+    </div>
+
+    <!-- Error: JSON detail from the API, or a network failure -->
+    <div id="error" class="box error" role="alert" hidden></div>
+
+    <!-- Success: shown after the download has been triggered -->
+    <div id="success" class="box success" hidden>
+      <span id="success_text"></span>
+      <a href="#" id="download_again">Download again</a>
+    </div>
+  </main>
+
+  <script src="/static/app.js"></script>
 </body>
 </html>

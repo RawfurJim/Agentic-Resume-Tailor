@@ -128,6 +128,7 @@ Wires the three existing classes together for one request.
 - Stage 1: `ExtractJobInfo(llm=...).process(...)`.
 - Stage 2: `UpdateCv(llm=...).process(...)`.
 - Stage 3: writes the dict to a temp JSON file, runs `CVRewriter(json_path=temp, output_path=temp_docx).rewrite()`.
+- The temp folder is created **next to the output file** (not in the system temp dir), because `os.replace` must stay on the same filesystem to be atomic and to avoid cross-device errors.
 - Atomically replaces `Md_Rawfur_Monzur_Jim_CV_new.docx` with the temp docx (`os.replace`). If the file is locked (open in Word) the error surfaces as a readable message.
 - Cleans up temp files in a `finally` block.
 - Defines a small `PipelineError` so the API layer can turn failures into proper HTTP responses.
@@ -157,7 +158,7 @@ One page with:
 
 ### `tests/` (new)
 
-Tests call the real DeepSeek API using the key in `.env`. A run costs a few cents and takes 1–3 minutes because of the reasoner stage. Gemini is **not** tested automatically (no key available); it is tested by hand in the browser.
+Tests that call the real DeepSeek API (key from `.env`) are marked with the `integration` pytest marker (declared in `pytest.ini`). A run costs a few cents and takes 1–3 minutes because of the reasoner stage, so they are deselected by default: run `pytest -m "not integration"` for the free offline suite and `pytest -m integration` only when a real run is wanted. Gemini is **not** tested automatically (no key available); it is tested by hand in the browser.
 
 - `test_llm_factory.py` (no network): default resolves to flash + reasoner; Gemini with a key resolves both slots to the same model; Gemini without a key raises; unknown provider raises.
 - `test_pipeline.py` (real DeepSeek): runs `run_pipeline` on a short sample job description and asserts
@@ -176,6 +177,8 @@ Tests call the real DeepSeek API using the key in `.env`. A run costs a few cent
 Standing notes for future Claude sessions: what the project is, how to run it, how to run tests, where prompts live, and the rule "never modify the master docx".
 
 ## 6. Step-by-step build order
+
+Status: all six steps complete (see git log).
 
 Each step ends in something runnable, so problems show up early.
 
@@ -232,5 +235,6 @@ Each step ends in something runnable, so problems show up early.
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 # open http://localhost:8000
-pytest
+pytest -m "not integration"      # offline tests
+pytest -m integration            # real DeepSeek run, costs money
 ```
