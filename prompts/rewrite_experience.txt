@@ -8,7 +8,7 @@ CRITICAL RULES:
 2. LENGTH CONSTRAINTS (CRITICAL):
    - You may reshuffle or reorder the projects, but keep the total number of projects and the number of bullets per project roughly the same as the current input.
 
-3. STRATEGIC BOLDING: Use Markdown bolding (**text**) VERY sparingly, only to draw the recruiter's eye.
+3. STRATEGIC BOLDING: Use Markdown bolding (**text**) sparingly, only to draw the recruiter's eye to the most critical informations which present in the resume.
 
 4. OUTPUT FORMAT: Respond ONLY with a valid JSON object matching the exact key structure of the current CV input. No markdown wrappers or extra text outside the JSON.
 </system_instructions>
