@@ -60,17 +60,21 @@ class ExtractJobInfo:
     """
 
     def __init__(self, model_name="deepseek-flash", temperature=0,
-                 api_key=None, prompts_dir=PROMPTS_DIR):
-        # API key: use the one passed in, otherwise read it from .env
-        api_key = api_key or os.getenv("DEEPSEEK_API_KEY")
-        if not api_key:
-            raise ValueError(
-                "DEEPSEEK_API_KEY not found. Add it to your .env file "
-                "or pass api_key='...' when creating ExtractJobInfo."
-            )
+                 api_key=None, prompts_dir=PROMPTS_DIR, llm=None):
+        if llm is not None:
+            # A ready-made LangChain chat model was injected (e.g. by the web app)
+            self.llm = llm
+        else:
+            # API key: use the one passed in, otherwise read it from .env
+            api_key = api_key or os.getenv("DEEPSEEK_API_KEY")
+            if not api_key:
+                raise ValueError(
+                    "DEEPSEEK_API_KEY not found. Add it to your .env file "
+                    "or pass api_key='...' when creating ExtractJobInfo."
+                )
 
-        # One LLM, shared by both agents (only the prompt differs)
-        self.llm = ChatDeepSeek(model=model_name, temperature=temperature, api_key=api_key)
+            # One LLM, shared by both agents (only the prompt differs)
+            self.llm = ChatDeepSeek(model=model_name, temperature=temperature, api_key=api_key)
 
         # Load the prompt text from the .txt files
         rewrite_prompt = load_prompt("rewrite_job_description.txt", prompts_dir)

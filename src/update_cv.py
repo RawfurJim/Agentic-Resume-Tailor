@@ -83,17 +83,21 @@ def to_pretty_json(data) -> str:
 class UpdateCv:
     """Rewrites cv_map.json to match the job described in a job_info dict."""
 
-    def __init__(self, model_name="deepseek-reasoner", temperature=0, api_key=None):
-        # API key: use the one passed in, otherwise read it from .env
-        api_key = api_key or os.getenv("DEEPSEEK_API_KEY")
-        if not api_key:
-            raise ValueError(
-                "DEEPSEEK_API_KEY not found. Add it to your .env file "
-                "or pass api_key='...' when creating UpdateCv."
-            )
+    def __init__(self, model_name="deepseek-reasoner", temperature=0, api_key=None, llm=None):
+        if llm is not None:
+            # A ready-made LangChain chat model was injected (e.g. by the web app)
+            self.llm = llm
+        else:
+            # API key: use the one passed in, otherwise read it from .env
+            api_key = api_key or os.getenv("DEEPSEEK_API_KEY")
+            if not api_key:
+                raise ValueError(
+                    "DEEPSEEK_API_KEY not found. Add it to your .env file "
+                    "or pass api_key='...' when creating UpdateCv."
+                )
 
-        # One LLM, shared by both agents (only the prompt differs)
-        self.llm = ChatDeepSeek(model=model_name, temperature=temperature, api_key=api_key)
+            # One LLM, shared by both agents (only the prompt differs)
+            self.llm = ChatDeepSeek(model=model_name, temperature=temperature, api_key=api_key)
 
         # Your current CV + the two detailed background files (loaded once)
         self.cv_map             = json.loads(read_file(CV_MAP_PATH))
