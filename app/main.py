@@ -46,6 +46,7 @@ if PROJECT_ROOT not in sys.path:
 
 from app.llm_factory import DEFAULTS, ConfigError, resolve_config          # noqa: E402
 from app.pipeline import PipelineError, run_pipeline, safe_filename        # noqa: E402
+from app.batch import router as batch_router                               # noqa: E402
 
 logger = logging.getLogger("cv_optimiser")
 
@@ -145,6 +146,9 @@ def generate(req: GenerateRequest) -> FileResponse:
         headers={"X-Job-Title": ascii_header_value(result.job_title)},
     )
 
+
+# Batch feature (CSV -> many CVs), see app/batch.py and PLAN_BATCH.md.
+app.include_router(batch_router)
 
 # Everything else under /static/ (style.css, app.js, ...) is served as-is.
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
