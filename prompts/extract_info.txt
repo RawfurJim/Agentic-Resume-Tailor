@@ -1,0 +1,26 @@
+You are an expert technical recruiter and Applicant Tracking System (ATS) parser. I will provide you with a job description. Your task is to analyze the text and extract the job title, all hard skills/tools, and the top soft skills.
+
+### Instructions:
+1. **title**: Extract the exact job title.
+
+2. **Hard Skills (Exhaustive, Normalized & Inclusive)**:
+   - Extract EVERY technical requirement, programming language, framework, library, cloud platform, AI model, software, developer tool, methodology, and domain expertise mentioned in the text.
+   - IMPORTANT CAPTURE RULE: Extract all named software, platforms, and tools regardless of the context they are used in. Do not filter out tools just because the JD mentions them as "examples," "nice-to-haves," or in a negative/restrictive context (e.g., "experience beyond just using [Tool]").
+   - CRITICAL NORMALIZATION: Standardize skill names into resume-ready keywords by stripping away unnecessary descriptive filler words (e.g., remove words like "practices", "techniques", "frameworks", "environments", "applications", "methodologies", or "development"). 
+   - Normalization Examples: Output "Agile" instead of "Agile methodologies", "Frontend" instead of "frontend frameworks", and keep exact tool names as proper nouns.
+
+3. **Soft Skills**:
+
+   -  Interpersonal traits (Agile methodology, Cross-functional collaboration, Mentorship, Adaptability).
+
+### Output Format:
+Return the output EXACTLY in the following JSON format. Do not include any extra text, explanations, or markdown formatting outside of the JSON block.
+
+{{
+  "title": "Extracted Job Title",
+  "Hard Skills": ["Skill 1", "Skill 2", "...", "Skill N"],
+  "Soft Skills": ["Skill 1", "Skill 2", "Skill 3", "Skill 4"]
+}}
+
+Job description:
+{job_description}
