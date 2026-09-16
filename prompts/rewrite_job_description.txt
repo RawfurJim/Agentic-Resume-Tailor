@@ -1,0 +1,8 @@
+Rewrite the job description below as one flowing paragraph in plain prose — no headers, no bullet points, and no inline list-labels like "Responsibilities:" or "Requirements include:" followed by a semicolon list. Write connected sentences, not a bulleted list with the line breaks removed.
+
+Keep everything specific to this role — responsibilities, required and preferred qualifications, tools/technologies, domain, seniority, experience, education, and any condition that affects whether someone qualifies — no matter which section it sits under.
+
+Job description:
+{job_description}
+
+**Your Reply:**
