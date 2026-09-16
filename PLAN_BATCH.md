@@ -3,7 +3,7 @@
 ## Status
 
 - Step 0 (plan + tests written first): done
-- Part 1 (pipeline, `app/batch_pipeline.py`): not started
+- Part 1 (pipeline, `app/batch_pipeline.py`): done
 - Part 2 (backend API, `app/batch.py`): not started
 - Part 3 (frontend, `static/batch.html` + `static/batch.js`): not started
 

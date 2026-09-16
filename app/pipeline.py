@@ -132,10 +132,17 @@ def write_docx(updated_cv: dict, output_path: str = OUTPUT_CV, master_cv: str = 
 # ---------------------------------------------------------------------------
 # THE PIPELINE
 # ---------------------------------------------------------------------------
-def run_pipeline(job_description: str, config: ModelConfig) -> PipelineResult:
-    """Run extract -> rewrite -> docx for one job description."""
+def run_pipeline(job_description: str, config: ModelConfig,
+                 output_path: str | None = None) -> PipelineResult:
+    """
+    Run extract -> rewrite -> docx for one job description.
+
+    `output_path` is where the docx is written; None (the default) means the usual
+    Md_Rawfur_Monzur_Jim_CV_new.docx. The batch feature passes one path per company.
+    """
     if not job_description or not job_description.strip():
         raise PipelineError("Job description is required.", kind="config")
+    output_path = output_path or OUTPUT_CV
 
     # --- build the two LLMs ------------------------------------------------
     try:
@@ -172,11 +179,11 @@ def run_pipeline(job_description: str, config: ModelConfig) -> PipelineResult:
         raise PipelineError(f"CV rewrite failed: {_short(e)}", kind="llm") from e
 
     # --- stage 3: build the docx in a temp folder, then swap it in ---------
-    write_docx(updated_cv, OUTPUT_CV)
+    write_docx(updated_cv, output_path)
 
     job_title = (job_info.get("title") or "").strip() or "CV"
     return PipelineResult(
-        docx_path=OUTPUT_CV,
+        docx_path=output_path,
         job_title=job_title,
         updated_cv=updated_cv,
         job_info=job_info,
