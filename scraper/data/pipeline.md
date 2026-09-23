@@ -1,0 +1,151 @@
+# Pipeline — Pending URLs
+
+Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
+
+## Pending
+
+- [ ] https://www.amazon.jobs/en/jobs/10498462/senior-genai-infra-specialist-wwso-startups | AWS EMEA SARL (UK Branch) | Senior GenAI Infra Specialist, WWSO Startups | London, England, GBR | posted: 2026-08-10
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8759577002 | GitLab | Senior Backend Engineer (Ruby), AI Catalog: External Agents | Remote, United Kingdom | posted: 2026-08-31
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8693103002 | GitLab | Senior Software Engineer (Typescript), AI Clients: Duo CLI | Remote, United Kingdom | posted: 2026-08-12
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717105005 | Scale AI | AI Infrastructure Engineer, Sandbox Platform | London, UK | posted: 2026-07-23
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717977005 | Scale AI | AI Infrastructure Engineer, Serving Platform | London, UK | posted: 2026-07-24
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720050005 | Scale AI | Staff Applied AI Engineer | London, UK | posted: 2026-07-30
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | posted: 2026-07-30
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656204002 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | posted: 2026-09-09
+- [ ] https://jobs.ashbyhq.com/notion/77861b77-9493-4869-bbaf-eaa11477a251 | Notion | Forward Deployed Architect | Dublin, Ireland | posted: 2026-08-14
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8202399 | Deliveroo | Machine Learning Engineer - Growth & Personalisation | London, United Kingdom - Deliveroo | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8202372 | Deliveroo | Senior Data Scientist | London, United Kingdom - Deliveroo | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8202582 | Deliveroo | Senior Data Scientist - Business Operations | London, United Kingdom - Deliveroo | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8202532 | Deliveroo | Senior Machine Learning Engineer | London, United Kingdom - Deliveroo | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206423 | Deliveroo | Software Engineer, GenAI Platform | London, United Kingdom - Deliveroo | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8206645 | Deliveroo | Staff Machine Learning Engineer - Ads Bidding | London, United Kingdom - Deliveroo | posted: 2026-09-18
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390765008 | Anthropic | Applied AI Architect, Industries | London, UK | posted: 2026-08-19
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413642008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences) | London, UK | posted: 2026-09-09
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5423029008 | Anthropic | Forward Deployed Engineer | London, UK | posted: 2026-09-14
+- [ ] https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294 | OpenAI | Applied AI Engineer, Digital Natives | London, UK | posted: 2026-09-08
+- [ ] https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4 | OpenAI | Applied AI Architect, Education | London, UK | posted: 2026-09-02
+- [ ] https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | posted: 2026-09-08
+- [ ] https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875 | OpenAI | Applied AI Engineer, Codex | London, UK | posted: 2026-09-11
+- [ ] https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a | OpenAI | Applied AI Engineer, Government, International | London, UK | posted: 2026-09-14
+- [ ] https://jobs.ashbyhq.com/openai/6d8facff-ce1d-4069-884b-dc1177cc1a06 | OpenAI | Applied AI Engineer, Quants | London, UK | posted: 2026-09-18
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2d7f9a7c-a9e6-4877-bb38-34e4d989054c | ElevenLabs | Research Engineer - Inference | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-08-28
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a89a7892-3d9d-40ab-a3f1-1c6ed1f7b84f | ElevenLabs | Research Engineer - Web Crawlers | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-08-28
+- [ ] https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed | ElevenLabs | Research Engineer - Data Infrastructure | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-08-28
+- [ ] https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760 | ElevenLabs | Data Scientist - AI Safety | London | posted: 2026-09-01
+- [ ] https://coreweave.com/careers/job?4703842006&board=coreweave&gh_jid=4703842006 | Weights & Biases (CoreWeave) | Senior Software Engineer - Physical AI | London, England | posted: 2026-08-20
+- [ ] https://coreweave.com/careers/job?4703844006&board=coreweave&gh_jid=4703844006 | Weights & Biases (CoreWeave) | Staff Software Engineer - Physical AI | London, England | posted: 2026-08-21
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101 | Speechmatics | ML Data & Platform Engineer | Cambridge, England, United Kingdom | posted: 2026-09-04
+- [ ] https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd | n8n | Forward Deployed Engineer - EMEA | Germany · Netherlands · Portugal · London Office · London · United Kingdom · Ireland · Spain · Remote | posted: 2026-09-15
+- [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations | Toronto · Canada · New York · United States · United Kingdom · Ottawa · Montreal · Remote | posted: 2026-08-07
+- [ ] https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca | Cohere | Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector) | United Kingdom · Europe · European Union · London · Remote | posted: 2026-08-24
+- [ ] https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935 | Cohere | Forward Deployed Engineer, Agentic Platform (UK Public Sector) | United Kingdom · Europe · European Union · London · Remote | posted: 2026-08-24
+- [ ] https://www.google.com/about/careers/applications/jobs/results/134493012372660934-data-scientist-research-reliability-analytics | Google | Data Scientist, Research, Reliability Analytics | London, UK | posted: 2026-09-03
+- [ ] https://www.google.com/about/careers/applications/jobs/results/109185093674640070-senior-staff-product-data-scientist-merchant-shopping | Google | Senior Staff Product Data Scientist, Merchant Shopping | Mountain View, CA, USA · London, UK | posted: 2026-09-10
+- [ ] https://www.google.com/about/careers/applications/jobs/results/129277247038071494-senior-data-scientist-research-reliability-analytics | Google | Senior Data Scientist, Research, Reliability Analytics | London, UK | posted: 2026-08-28
+- [ ] https://www.google.com/about/careers/applications/jobs/results/120872230115517126-business-data-scientist-gup | Google | Business Data Scientist, gUP | Dublin, Ireland | posted: 2026-08-24
+- [ ] https://www.google.com/about/careers/applications/jobs/results/83101512472896198-senior-research-engineer-ml-lead-health-frontiers | Google | Senior Research Engineer, ML Lead, Health Frontiers | London, UK | posted: 2026-08-31
+- [ ] https://www.google.com/about/careers/applications/jobs/results/102422074961601222-ai-innovation-engineer-google-cloud | Google | AI Innovation Engineer, Google Cloud | Frankfurt, Germany · Munich, Germany · London, UK · Zürich, Switzerland | posted: 2026-09-08
+- [ ] https://www.google.com/about/careers/applications/jobs/results/131855627575009990-research-engineer-world-models-deepmind | DeepMind | Research Engineer, World Models, DeepMind | London, UK | posted: 2026-09-04
+- [ ] https://www.google.com/about/careers/applications/jobs/results/74693875620291270-research-engineer-agi-safety-and-alignment-deepmind | DeepMind | Research Engineer, AGI Safety and Alignment, DeepMind | London, UK | posted: 2026-08-25
+- [ ] https://www.google.com/about/careers/applications/jobs/results/75480114480980678-research-engineer-gemini-omni-deepmind | DeepMind | Research Engineer, Gemini Omni, DeepMind | London, UK · Zürich, Switzerland | posted: 2026-09-10
+- [ ] https://www.google.com/about/careers/applications/jobs/results/111941002389791430-forward-deployed-engineer-google-cloud-genai | Google | Forward Deployed Engineer, Google Cloud, GenAI | Dublin, Ireland | posted: 2026-09-14
+- [ ] https://www.google.com/about/careers/applications/jobs/results/97102899699425990-staff-forward-deployed-engineer-google-cloud-consulting | Google | Staff Forward Deployed Engineer, Google Cloud Consulting | Dublin, Ireland | posted: 2026-08-31
+- [ ] https://www.google.com/about/careers/applications/jobs/results/133517804614623942-applied-ai-engineer | Google | Applied AI Engineer | London, UK · Madrid, Spain | posted: 2026-09-18
+- [ ] https://www.google.com/about/careers/applications/jobs/results/72888471085032134-firmware-engineer-modemtelephony-protocol-and-ai-automation | Google | Firmware Engineer, Modem/Telephony Protocol and AI Automation | London, UK | posted: 2026-09-09
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8785371002 | Wayve | Machine Learning Engineer, Driving Product | Israel; London; Mountain View | posted: 2026-09-14
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8752478002 | Wayve | Machine Learning Engineer, Performance Tooling | London; Sunnyvale | posted: 2026-09-15
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8749921002 | Wayve | Machine Learning Engineer (Synthetic Data) | London | posted: 2026-08-26
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8738575002 | Wayve | Senior Data Scientist | London | posted: 2026-08-21
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8655859002 | Wayve | Senior Machine Learning Engineer, AI Performance | London | posted: 2026-08-04
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8746298002 | Wayve | Software Engineer, AI Libraries | London | posted: 2026-08-26
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8749902002 | Wayve | Staff Machine Learning Engineer - Ops | London | posted: 2026-08-26
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8809540002 | Wayve | Staff ML Engineer Gaia | London | posted: 2026-09-15
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6184829004 | Isomorphic Labs | Research Engineer (LLM Performance), London | London | posted: 2026-09-08
+- [ ] https://jobs.ashbyhq.com/synthesia/18acb910-bacb-4255-aab5-98d6f32b7f3a | Synthesia | Senior Applied Research Engineer - Video | Europe · Remote | posted: 2026-08-24
+- [ ] https://jobs.ashbyhq.com/synthesia/637a0f3b-fd23-409a-b66b-917d1411d56e | Synthesia | Machine Learning Engineer / ML Engineer - Roleplay Sessions | Remote · UK Remote · United Kingdom | posted: 2026-09-09
+- [ ] https://jobs.ashbyhq.com/faculty/dab2e626-4bdc-4aa1-931d-52c742c92852 | Faculty | Lead Machine Learning Engineer | UK - London | posted: 2026-09-21
+- [ ] https://jobs.ashbyhq.com/faculty/7a6e49b5-3f14-4d23-9abe-ec285ce7ee2e | Faculty | Machine Learning Engineer | UK - London | posted: 2026-09-04
+- [ ] https://jobs.ashbyhq.com/faculty/b33d0939-ba49-4b52-9580-c089c45d1556 | Faculty | Senior Data Scientist | UK - London | posted: 2026-08-28
+- [ ] https://jobs.ashbyhq.com/faculty/87b95736-0abf-4b18-b628-0083d52ec961 | Faculty | Forward Deployed Engineer | UK - London | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/faculty/c7d3b4b9-fe50-4ebd-8f55-9c6c014014e8 | Faculty | Senior Forward Deployed Engineer | UK - London | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/faculty/54729948-5b4a-404c-bea4-cec5759768b5 | Faculty | Senior Data Scientist (Safety) | UK - London | posted: 2026-08-26
+- [ ] https://jobs.ashbyhq.com/faculty/d15d6073-1925-46eb-9464-8b22cd8de6a6 | Faculty | Principal Data Scientist | UK - Remote | posted: 2026-08-26
+- [ ] https://jobs.ashbyhq.com/faculty/1f2cb0a2-4aa5-4ce3-b9fd-b90990076b6d | Faculty | Lead Data Scientist | UK - London | posted: 2026-08-26
+- [ ] https://jobs.ashbyhq.com/faculty/1a8ccd5c-71b3-41d1-8121-eb086e428b83 | Faculty | Senior Machine Learning Engineer | UK - London | posted: 2026-09-16
+- [ ] https://jobs.ashbyhq.com/lovable/c5bc3891-8482-4276-816e-fe38302b1a3c | Lovable | Data Scientist, Product | Stockholm · London · United Kingdom | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/lovable/a1e49a18-7533-450f-b760-cef337f2f9e3 | Lovable | Data Scientist, Agent | Stockholm · London · United Kingdom | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/lovable/03e04a4e-75d6-425f-843d-684ae505fa61 | Lovable | Data Scientist, Pricing | Stockholm · London · United Kingdom | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/lovable/f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba | Lovable | Data Scientist, Growth | London · Stockholm · Sweden | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/legora/3f351429-5b70-467c-99bc-b47b4e23c554 | Legora | Senior Data Scientist - Product | London | posted: 2026-08-31
+- [ ] https://jobs.lever.co/spotify/8a9cc53c-48c0-4d43-8287-d81ab09e74fa | Spotify | Data Scientist, Company Planning & Execution | Stockholm; London | posted: 2026-08-19
+- [ ] https://jobs.lever.co/spotify/bf0984d7-c54f-4a8a-9a15-f870633d62c0 | Spotify | Staff Data Scientist - Experience | Stockholm; London | posted: 2026-09-04
+- [ ] https://jobs.lever.co/pigment/1f020645-be14-4227-be2c-8e37ac60da8a | Pigment | Senior GenAI Engineer (UK) | London | posted: 2026-09-17
+- [ ] https://jobs.ashbyhq.com/perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2 | Perplexity | Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search) | Belgrade · London · United Kingdom | posted: 2026-08-12
+- [ ] https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/Staff-AI-ML-Engineer---Controllable-Biology_447576 | GSK | Staff AI/ML Engineer - Controllable Biology | 4 Locations | posted: 2026-09-11
+- [ ] https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AIML-Software-Engineer--AI-for-Science_435679-1 | GSK | AIML Software Engineer, AI for Science | 5 Locations
+- [ ] https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Kings-Cross--London/AIML-Engineer--AI-for-Science_435678-1 | GSK | AIML Engineer, AI for Science | 3 Locations
+- [ ] https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Solutions-Architect--Higher-Education-and-Research---Open-Models-and-LLM_JR2024411 | NVIDIA | Senior Solutions Architect, Higher Education and Research - Open Models and LLM | 6 Locations | posted: 2026-09-15
+- [ ] https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Compiler-Engineer---AI-Inference_JR2023372 | NVIDIA | Compiler Engineer - AI Inference | 2 Locations
+- [ ] https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/Senior-Machine-Learning-Applications-and-Compiler-Engineer_JR2013261 | NVIDIA | Senior Machine Learning Applications and Compiler Engineer, LPX | 2 Locations
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8785464002 | Wayve | Platform Engineer, AI Enablement | London | posted: 2026-09-09
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8749971002 | Wayve | Senior Machine Learning Engineer - AV Core | London | posted: 2026-09-15
+
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556979553 | Microsoft | Principal Data Scientist - FDE | United Kingdom, Berkshire, Reading | posted: 2026-09-07
+- [ ] https://jobs.ashbyhq.com/gigaton/53ce7fe3-b521-4ba0-ab1a-927525345754 | Gigaton | Machine Learning Engineer | London | posted: 2026-09-11
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556985444 | Microsoft | Applied AI Innovation Architect (Cloud Solutions) | United Kingdom, Multiple Locations, Multiple Locations | posted: 2026-09-16
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556927554 | Microsoft | Member of Technical Staff - Applied AI Lead, Health | United Kingdom, London, London | posted: 2026-08-13
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556971733 | Microsoft | Member of Technical Staff - Applied AI Software Engineer, Health | United Kingdom, London, London | posted: 2026-08-28
+- [ ] https://jobs.lever.co/healx/45a2d4fc-c975-43a8-a4f0-9d74233e18b6 | Healx | AI Engineer (Agentic Systems) | Cambridge, GB | posted: 2026-08-27
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393556953255 | Microsoft | Principal Software Engineer, FDE | United Kingdom, London, London | posted: 2026-09-15
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8786095002 | GitLab | Principal Engineer, Duo Agent Platform | Remote, Canada; Remote, Poland; Remote, United Kingdom; Remote, United States | posted: 2026-09-11
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4729979005 | Scale AI | Infrastructure Software Engineer, Apps Platform | London, UK | posted: 2026-09-02
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730862005 | Scale AI | Software Engineer - New Grad | London, UK | posted: 2026-09-14
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4731630005 | Scale AI | Software Engineer, Platform | London, UK | posted: 2026-09-09
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4978967101 | Parloa | Sr Partner Agent Architect (UK) | London Office; Remotely in the UK | posted: 2026-09-16
+- [ ] https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945 | OpenAI | Software Engineer, Integrity Foundations - London | London, UK | posted: 2026-08-31
+- [ ] https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8 | OpenAI | Software Engineer, ChatGPT Infrastructure | London, UK | posted: 2026-07-28
+- [ ] https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1 | OpenAI | Software Engineer, Compute Infrastructure | San Francisco · New York City · New York · United States · Seattle · London, UK · London · United Kingdom | posted: 2026-08-14
+- [ ] https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b | OpenAI | Software Engineer, Model Deployment- ChatGPT Engineering | London, UK | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/elevenlabs/d16a7ad6-ffbd-4655-8716-4872263f99ce | ElevenLabs | Developer Experience Engineer | London · New York · New York City · United States · Remote | posted: 2026-08-23
+- [ ] https://www.google.com/about/careers/applications/jobs/results/105831148344484550-ai-architect-partner-engineering | Google | AI Architect, Partner Engineering | Zürich, Switzerland · London, UK | posted: 2026-09-21
+- [ ] https://www.google.com/about/careers/applications/jobs/results/124910793232655046-software-engineer-model-inference-deepmind | DeepMind | Software Engineer, Model Inference, DeepMind | London, UK · Mountain View, CA, USA | posted: 2026-09-17
+- [ ] https://jobs.ashbyhq.com/sierra/2d638355-ee46-44ce-a239-844b9234ba6d | Sierra | Deployed Infrastructure Engineer (Spanish speaking) | London | posted: 2026-08-11
+- [ ] https://jobs.ashbyhq.com/langchain/faeb56fd-e7d6-47d6-babe-e35315969206 | LangChain | Deployed Architect, Professional Services (London) | London · Remote | posted: 2026-08-27
+- [ ] https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553 | Cohere | Member of Technical Staff, Multilingual | London · New York · United States · Paris · France · Toronto · Canada · Montreal · Remote | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8 | Cohere | Software Engineer, Integrations | Europe · London · United Kingdom · United States · San Francisco · New York · Toronto · Canada · Montreal · Remote | posted: 2026-08-11
+- [ ] https://jobs.ashbyhq.com/cohere/dc523c5b-9477-46c4-a122-4f3b2b8f4b67 | Cohere | Member of Technical Staff - RL Environments | London | posted: 2026-08-17
+- [ ] https://jobs.ashbyhq.com/cohere/60de50e9-aba7-4a3a-8cdb-955a456749aa | Cohere | Member of Technical Staff, North Modelling (Evals) | London · Europe · European Union · Toronto · Canada | posted: 2026-08-19
+- [ ] https://jobs.ashbyhq.com/DeepL/08500e0a-3a57-443d-8613-6064a3b49e62 | DeepL | Staff Software Engineer / Developer Experience | London | posted: 2026-08-27
+- [ ] https://jobs.ashbyhq.com/DeepL/0c9d3b11-a6d1-49d5-ac6b-41cb3f6f2a6c | DeepL | Senior Software Engineer / Identity and Access Management / Full-Stack | London | posted: 2026-09-15
+- [ ] https://jobs.ashbyhq.com/DeepL/74e68989-6a77-4499-ba3e-a5ad4275c9c1 | DeepL | Senior Software Engineer / Enterprise / Full-Stack | London | posted: 2026-09-15
+- [ ] https://jobs.ashbyhq.com/DeepL/5dbd07fe-5e63-4f65-88db-d1cf6577ef82 | DeepL | Senior Software Engineer / Voice / Full-Stack | London | posted: 2026-09-16
+- [ ] https://jobs.ashbyhq.com/DeepL/794b9ea9-ec6a-44ba-a1b6-ffc4c657e869 | DeepL | Senior Software Engineer / API Enterprise | London | posted: 2026-09-18
+- [ ] https://jobs.ashbyhq.com/DeepL/6c5054f4-f6a1-4456-aa24-79fb6772df3e | DeepL | Senior Software Engineer / Full-Stack / Media Translation | London | posted: 2026-09-18
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4981153101 | PhysicsX | Senior Software Engineer, Infrastructure - Python & Kubernetes | London | posted: 2026-09-21
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4958818101 | PhysicsX | Staff Backend Software Engineer - GO & Python | London, United Kingdom | posted: 2026-08-24
+- [ ] https://jobs.ashbyhq.com/faculty/74516bac-468a-44ad-84f6-4d4d8a0ca93f | Faculty | Software Engineer | UK - London | posted: 2026-08-10
+- [ ] https://jobs.ashbyhq.com/faculty/3fba48a5-c709-477c-8178-42e1500ddfd2 | Faculty | Senior Software Engineer | UK - London | posted: 2026-08-28
+- [ ] https://jobs.ashbyhq.com/faculty/68c71d8a-419d-4f1a-9949-cb902f1caa45 | Faculty | Lead Software Engineer | UK - London | posted: 2026-08-26
+- [ ] https://jobs.ashbyhq.com/faculty/c160f683-9bca-4784-a298-ccaabc8b6e0f | Faculty | Full Stack Software Engineer | UK - London | posted: 2026-09-04
+- [ ] https://jobs.ashbyhq.com/legora/ff54e848-ca68-4129-9c43-ab7f96179fdf | Legora | Senior Software Engineer | London | posted: 2026-09-10
+- [ ] https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3 | Perplexity | Member of Technical Staff (General Software Engineer, Infrastructure) | San Francisco · London · United Kingdom · Austin · United States · Berlin · Germany · Seattle · New York City · Toronto · Canada | posted: 2026-09-05
+- [ ] https://jobs.ashbyhq.com/perplexity/89750227-f7fe-4e9f-bcdd-eada353163fd | Perplexity | Member of Technical Staff (Search Core, Indexing & Data Pipeline Stream) | Belgrade · London · United Kingdom · Remote · Berlin · Germany | posted: 2026-09-18
+- [ ] https://himalayas.app/companies/micro1/jobs/data-scientist-7470374102 | micro1 | Data Scientist | posted: 2026-09-21
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8725207002 | Wayve | Full-Stack Software Engineer, Model Development Platform | London; Sunnyvale | posted: 2026-08-18
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8783829002 | Wayve | Model Release Engineer | London | posted: 2026-09-07
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8745289002 | Wayve | Senior Software Engineer, Data | London | posted: 2026-08-25
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8755402002 | Wayve | Senior Software Engineer, Data & Orchestration | London | posted: 2026-09-09
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8781421002 | Wayve | Software Engineer, Simulation | London | posted: 2026-09-03
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8810783002 | Wayve | Staff Software Engineer, Data Enrichment Platform | London | posted: 2026-09-16
+- [ ] https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Solutions-Architect--Higher-Education-and-Research_JR2024526 | NVIDIA | Senior Solutions Architect, Higher Education and Research, Multimodal and Physical AI | 2 Locations | posted: 2026-09-02
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387083008 | Anthropic | Staff Software Engineer, Infrastructure (Distributed Systems) | London, UK | posted: 2026-08-12
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5412272008 | Anthropic | Staff Software Engineer, Observability & Profiling | London, UK | posted: 2026-09-02
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394948008 | Anthropic | Staff+ Software Engineer, Platform Connectivity | London, UK; San Francisco, CA | posted: 2026-08-19
+
+
+
+
+
+
+## Processed

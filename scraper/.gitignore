@@ -1,0 +1,11 @@
+# secrets: DeepSeek / Adzuna / Reed keys live here, never in git
+.env
+
+# installed packages (npm install recreates them; postinstall fetches Chromium)
+node_modules/
+
+# one-off backups of the data files
+data/backup-*/
+
+__pycache__/
+*.pyc

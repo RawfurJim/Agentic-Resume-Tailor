@@ -1,0 +1,12 @@
+# Chrome profile - runtime cookie store. Must stay on disk, must never be in git.
+browser_profile/
+
+# saved pages from failed fetches
+debug/
+
+# scraper output
+jobs.csv
+new_jobs_*.csv
+
+__pycache__/
+*.pyc

@@ -1,0 +1,77 @@
+{
+  "status": 200,
+  "error": {
+    "message": "",
+    "body": ""
+  },
+  "data": {
+    "positions": [
+      {
+        "id": 1970393556928855,
+        "displayJobId": "200043209",
+        "name": "Sr Data Scientist - FDE - Security Check (SC) Clearance",
+        "locations": [
+          "United Kingdom, London, London"
+        ],
+        "standardizedLocations": [
+          "London, England, GB"
+        ],
+        "postedTs": 1783694993,
+        "solrScore": null,
+        "stars": 0,
+        "department": "Data Science",
+        "creationTs": 1783629803,
+        "isHot": 0,
+        "workLocationOption": "onsite",
+        "locationFlexibility": null,
+        "atsJobId": "200043209",
+        "positionUrl": "/careers/job/1970393556928855"
+      },
+      {
+        "id": 1970393556998409,
+        "displayJobId": "200055653",
+        "name": "Postdoctoral Researcher (Foundational AI: Intelligent Systems)",
+        "locations": [
+          "United Kingdom, Cambridgeshire, Cambridge"
+        ],
+        "standardizedLocations": [
+          "Cambridge, England, GB"
+        ],
+        "postedTs": 1789548470,
+        "solrScore": null,
+        "stars": 0,
+        "department": "Research Sciences",
+        "creationTs": 1789396560,
+        "isHot": 0,
+        "workLocationOption": "onsite",
+        "locationFlexibility": null,
+        "atsJobId": "200055653",
+        "positionUrl": "/careers/job/1970393556998409"
+      },
+      {
+        "id": 1970393556979565,
+        "displayJobId": "200050513",
+        "name": "Principal Business Architect",
+        "locations": [
+          "Ireland, Dublin, Dublin",
+          "United Kingdom, London, London"
+        ],
+        "standardizedLocations": [
+          "Dublin, D, IE",
+          "London, England, GB"
+        ],
+        "postedTs": 1789471817,
+        "solrScore": null,
+        "stars": 0,
+        "department": "Solution Architecture",
+        "creationTs": 1787582169,
+        "isHot": 0,
+        "workLocationOption": "onsite",
+        "locationFlexibility": null,
+        "atsJobId": "200050513",
+        "positionUrl": "/careers/job/1970393556979565"
+      }
+    ],
+    "count": 15
+  }
+}

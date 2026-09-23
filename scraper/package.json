@@ -1,0 +1,42 @@
+{
+  "name": "career-ops-scraper",
+  "version": "1.34.0",
+  "description": "Job-posting scraper extracted from career-ops: zero-token portal scanner (Greenhouse/Lever/Ashby/Workday/iCIMS + 80 more providers), liveness checks and JD fetching; plus Indeed link scraping and DeepSeek CV matching (run-all.mjs).",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "postinstall": "npx playwright install chromium --with-deps",
+    "scan": "node scan.mjs",
+    "scan:full": "node scan-ats-full.mjs",
+    "scan:seeds": "node scan-ats-full.mjs --seeds yc,a16z",
+    "scan:yc": "node scan-ats-full.mjs --seeds yc",
+    "scan:interamt": "node scan-interamt.mjs",
+    "scan:hn": "node scan-hn.mjs",
+    "liveness": "node check-liveness.mjs",
+    "extract": "node browser-extract.mjs",
+    "archive": "node archive-posting.mjs",
+    "reposts": "node detect-reposts.mjs",
+    "validate:portals": "node validate-portals.mjs",
+    "verify:portals": "node verify-portals.mjs",
+    "company:funded": "node company-funded.mjs",
+    "test": "node --test \"tests/**/*.test.mjs\"",
+    "export": "node export-jobs.mjs",
+    "scan:uk": "node run-all.mjs",
+    "export:new": "node export-new-jobs.mjs",
+    "backfill:descriptions": "node backfill-descriptions.mjs",
+    "prune": "node prune-pipeline.mjs",
+    "scan:uk:ats": "node scan.mjs --quiet && node export-jobs.mjs && node export-new-jobs.mjs",
+    "indeed": "node run-all.mjs --steps indeed",
+    "match": "node run-all.mjs --steps match",
+    "test:py": "python -m unittest discover -s match_job/tests -v && python -m unittest discover -s indeed_scrapper/tests -v"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.0.0",
+    "exceljs": "^4.4.0",
+    "js-yaml": "^5.3.0",
+    "playwright": "1.62.1"
+  }
+}
