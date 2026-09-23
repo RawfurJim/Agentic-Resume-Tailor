@@ -20,12 +20,16 @@ Three LLM/docx stages run in one synchronous request (1–3 minutes). See `PLAN.
   `tests/test_batch_pipeline.py`, `tests/test_batch_api.py`, `tests/test_batch_frontend.py`.
   `samples/jobs_sample.csv` is an example input. Batch jobs live in memory: run uvicorn without
   `--reload` for a real batch, and the job status JSON must never contain the API key.
-- Third page (scraped jobs -> match -> CVs), planned and tested first, code not yet written: see
-  `PLAN_SCRAPE.md` (Status block at the top says which part is next). Tests:
-  `tests/test_scrape_pipeline.py`, `tests/test_scrape_api.py`, `tests/test_scrape_frontend.py`,
-  fixture `tests/fixtures/new_jobs_sample.csv`. The scraper itself lives in `scraper/` (Node +
-  two Python scripts, its own README) and must not be modified by the app work; the app only
-  starts it with `node run-all.mjs` and reads the CSV it writes.
+- Scraped-jobs feature (third page, `/scrape`): the Node scraper in `scraper/` finds new UK AI jobs
+  and DeepSeek-matches them; the page makes CVs for the top matches. See `PLAN_SCRAPE.md`.
+  `app/scrape_pipeline.py` (run `node run-all.mjs` as a child process, load the matched csv, one CV
+  per row), `app/scrape.py` (job API, in-memory jobs, output in `scrape_output/`),
+  `static/scrape.html` + `static/scrape.js`. Tests: `tests/test_scrape_*.py`, fixture
+  `tests/fixtures/new_jobs_sample.csv`. Rules: never modify `scraper/` from the app (it only writes
+  `scraper/indeed_scrapper/links.txt`); the key is sent with every Generate click and never kept;
+  each matched job is one DeepSeek call and each CV is four, so use the page's "Match at most N"
+  and cap fields when testing. Env: `SCRAPER_NODE` (node binary), `SCRAPER_TIMEOUT_S` (default 4 h);
+  the Indeed step needs a Python with Playwright, set `PYTHON=` in `scraper/.env` if needed.
 - Data files at the root: `cv_map.json` (current CV content), `profile.md` (background),
   `profile_experience.md` (project write-ups). `.env` holds `DEEPSEEK_API_KEY` (git-ignored).
 

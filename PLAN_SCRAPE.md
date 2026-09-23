@@ -5,7 +5,7 @@
 - Step 0 (data reset, scraper added to git, this plan, tests written first): done
 - Part 1 (pipeline, `app/scrape_pipeline.py`): done
 - Part 2 (backend API, `app/scrape.py` + one line in `app/main.py` + `.gitignore`): done (the `/scrape` page test passes once Part 3 adds the html)
-- Part 3 (frontend, `static/scrape.html` + `static/scrape.js` + nav lines + CLAUDE.md): not started
+- Part 3 (frontend, `static/scrape.html` + `static/scrape.js` + nav lines + CLAUDE.md): done. Smoke-tested live with "reuse newest" and cap 0 (0 model calls). The real 6-call run (Verification step 3) is still to do on Windows.
 
 Work on one part per fresh context: read this file and the part's test file, implement, run
 `.venv/bin/pytest -m "not integration" -q` until green, update the Status line above, commit, stop.

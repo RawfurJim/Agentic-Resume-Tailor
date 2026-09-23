@@ -194,3 +194,21 @@ table.batch th { color: var(--muted); font-weight: 600; }
 .badge.done    { background: var(--success-bg); border-color: var(--success-border); color: var(--success-text); }
 .badge.failed  { background: var(--error-bg);   border-color: var(--error-border);   color: var(--error-text); }
 .row-error { margin-top: 4px; font-size: 0.85rem; color: var(--error-text); }
+
+/* ---- scraped-jobs page (static/scrape.html) ---- */
+.badge.top    { background: var(--success-bg); border-color: var(--success-border); color: var(--success-text); }
+.badge.medium { color: var(--accent); border-color: var(--accent); }
+.badge.low    { color: var(--muted); }
+.badge.none   { color: var(--muted); border-style: dashed; }
+ol.links { margin: 8px 0 0; padding-left: 24px; font-size: 0.9rem; word-break: break-all; }
+ol.links li { margin: 2px 0; }
+ol.links li button { margin-left: 8px; }
+button.ghost.small { padding: 2px 8px; font-size: 0.85rem; }
+label.check { display: flex; align-items: center; gap: 8px; }
+label.check input { width: auto; }
+pre.log {
+  max-height: 220px; overflow: auto; margin: 6px 0 0; padding: 8px 10px;
+  font-size: 0.8rem; line-height: 1.35; white-space: pre-wrap;
+  border: 1px solid var(--border); border-radius: 6px; color: var(--muted);
+}
+details summary { cursor: pointer; color: var(--muted); font-size: 0.9rem; margin-top: 8px; }

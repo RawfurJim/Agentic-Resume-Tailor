@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV Optimiser – Scraped jobs</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main class="card wide">
+    <h1>CV Optimiser</h1>
+    <nav class="nav"><a href="/">Single job</a> · <a href="/batch">Batch (CSV / Excel)</a> · <a href="/scrape" aria-current="page">Scraped jobs</a></nav>
+    <p class="lede">
+      Scrape new UK AI jobs (Indeed links you add here plus the job boards in <code>scraper/portals.yml</code>),
+      match them against the CV with DeepSeek, then make a CV for the top matches automatically.
+      Medium matches get a <em>Generate CV</em> button; low matches are listed for information only.
+    </p>
+
+    <!-- novalidate: scrape.js does its own checks so the messages match the API's wording -->
+    <form id="scrape-form" novalidate>
+      <div class="field">
+        <label for="indeed_link">Indeed job links <span class="optional">(optional, one at a time)</span></label>
+        <div class="key-row">
+          <input id="indeed_link" name="indeed_link" type="url" autocomplete="off" spellcheck="false"
+                 placeholder="Paste an Indeed job link and press Enter">
+          <button type="button" id="add_link" class="ghost">Add</button>
+        </div>
+        <p class="help" id="link_help">A link must contain the job key (<code>jk=</code> or <code>vjk=</code>). Indeed opens a visible
+          Chrome window, about one minute per link; if it shows a “verify you are human” box, click it.
+          The list replaces <code>scraper/indeed_scrapper/links.txt</code>.</p>
+        <ol id="indeed_list" class="links"></ol>
+        <p class="help" id="indeed_count">No Indeed links — the Indeed step is skipped.</p>
+      </div>
+
+      <div class="row">
+        <div class="field">
+          <label for="top_cap">Auto-generate CVs for the first N top matches</label>
+          <input id="top_cap" name="top_cap" type="number" min="0" max="200" step="1" value="15">
+          <p class="help">Each CV takes 1–3 minutes and 4 model calls. The other top matches get a button.</p>
+        </div>
+
+        <div class="field">
+          <label for="match_limit">Match at most N jobs <span class="optional">(optional)</span></label>
+          <input id="match_limit" name="match_limit" type="number" min="1" step="1" placeholder="all">
+          <p class="help">Each match is one DeepSeek call. Leave empty to score every new job.</p>
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="check"><input id="reuse_latest" name="reuse_latest" type="checkbox">
+          Skip scraping, use the newest scraped file</label>
+        <p class="help" id="reuse_help"></p>
+      </div>
+
+      <div class="row">
+        <div class="field">
+          <label for="provider">Provider</label>
+          <select id="provider" name="provider">
+            <option value="deepseek" selected>DeepSeek</option>
+            <option value="gemini">Gemini</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="model">Model <span class="optional">(optional)</span></label>
+          <input id="model" name="model" type="text" autocomplete="off" spellcheck="false">
+          <p class="help" id="model_help"></p>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="api_key">API key</label>
+        <div class="key-row">
+          <input id="api_key" name="api_key" type="password" autocomplete="off" spellcheck="false">
+          <button type="button" id="toggle_key" class="ghost" aria-pressed="false">Show</button>
+        </div>
+        <p class="help" id="api_key_help"></p>
+        <p class="help">The key is sent with the start request and with every <em>Generate CV</em> click.
+          It is never stored, on the server or in the browser.</p>
+      </div>
+
+      <div class="actions">
+        <button type="submit" id="start">Scrape and generate</button>
+      </div>
+    </form>
+
+    <!-- Progress: shown while scraping / generating -->
+    <div id="status" class="status" role="status" aria-live="polite" hidden>
+      <span class="spinner" aria-hidden="true"></span>
+      <span id="status_text">Working…</span>
+      <span id="elapsed" class="elapsed"></span>
+    </div>
+
+    <details id="log_box" hidden>
+      <summary>Scraper log</summary>
+      <pre id="log" class="log"></pre>
+    </details>
+
+    <!-- Error: JSON detail from the API, or a network failure -->
+    <div id="error" class="box error" role="alert" hidden></div>
+
+    <!-- Results: one row per scraped job -->
+    <div id="results" hidden>
+      <div class="progress">
+        <span id="progress_text"></span>
+        <a id="zip_link" class="dl" href="#" download hidden>Download all (zip)</a>
+      </div>
+      <table class="batch">
+        <thead>
+          <tr><th>#</th><th>Match</th><th>Title</th><th>Company</th><th>Location</th><th>Link</th><th>Status</th><th>CV</th></tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </main>
+
+  <script src="/static/scrape.js"></script>
+</body>
+</html>
