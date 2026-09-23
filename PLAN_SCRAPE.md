@@ -4,7 +4,7 @@
 
 - Step 0 (data reset, scraper added to git, this plan, tests written first): done
 - Part 1 (pipeline, `app/scrape_pipeline.py`): done
-- Part 2 (backend API, `app/scrape.py` + one line in `app/main.py` + `.gitignore`): not started
+- Part 2 (backend API, `app/scrape.py` + one line in `app/main.py` + `.gitignore`): done (the `/scrape` page test passes once Part 3 adds the html)
 - Part 3 (frontend, `static/scrape.html` + `static/scrape.js` + nav lines + CLAUDE.md): not started
 
 Work on one part per fresh context: read this file and the part's test file, implement, run
