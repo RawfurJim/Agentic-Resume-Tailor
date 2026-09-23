@@ -10,7 +10,7 @@ CRITICAL RULES:
    - Consolidate the skills section into a MAXIMUM of 6 or 7 distinct categories, keeping a similar number of categories to the current CV.
    - Prioritise the skills listed in <target_skills>, using the same wording where it is truthful, so the CV matches the job's keywords.
 
-3. STRATEGIC BOLDING: Use Markdown bolding (**text**) sparingly, only to draw the recruiter's eye to the most critical informations which present in the resume.
+3. STRATEGIC BOLDING: Use Markdown bolding (**text**) sparingly, only to draw the recruiter's eye to the most critical informations which present throughout the resume.
 
 4. OUTPUT FORMAT: Respond ONLY with a valid JSON object matching the exact key structure of the current CV input. No markdown wrappers or extra text outside the JSON.
 </system_instructions>

@@ -148,4 +148,476 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 
 
+- [ ] https://www.google.com/about/careers/applications/jobs/results/106113082882695878-forward-deployed-engineer-iii-applied-ai | Google | Forward Deployed Engineer III, Applied AI | Zürich, Switzerland · London, UK | posted: 2026-09-23
+- [ ] https://www.google.com/about/careers/applications/jobs/results/116637011183313606-research-engineer-responsible-frontier-ai-research-deepmind | DeepMind | Research Engineer, Responsible Frontier AI Research, DeepMind | London, UK | posted: 2026-09-21
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8094884 | Intercom | Senior AI Deployment Consultant | London, England | posted: 2026-07-30
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8176526 | Intercom | Senior Data Scientist - Growth | Dublin, Ireland; London, England | posted: 2026-09-04
+- [ ] https://jobs.ashbyhq.com/openai/557dd2ec-db6c-49b1-a0aa-193007ebd5b6 | OpenAI | Applied AI Architect, Large Enterprise | London, UK | posted: 2026-09-23
+- [ ] https://apply.careers.microsoft.com/careers/job/1970393557002275 | Microsoft | Data & AI Solution Architect - Digital Natives (EMEA-HQ) | United Kingdom, London, London | posted: 2026-09-22
+- [ ] https://jobs.ashbyhq.com/mistral.ai/1808c0af-7352-4d0b-9e35-d3d6704e4759 | Mistral AI | Research Engineer, Forge | Paris · Amsterdam · Netherlands · Singapore · London · United Kingdom · Lausanne · Switzerland | posted: 2026-09-04
+- [ ] https://genesys.wd1.myworkdayjobs.com/Genesys/job/Galway-Ireland/Software-Engineer---Agentic-Orchestration_JR112303-1 | Genesys | Software Engineer - Agentic Orchestration | Galway, Ireland | posted: 2026-09-16
+- [ ] https://jobs.ashbyhq.com/writer/b4545b48-9648-44c4-b2f0-96f027e9a4ba | Writer | Software engineer, agents (UK) | London, UK | posted: 2026-09-22
+- [ ] https://jobs.ashbyhq.com/writer/6dc00567-153d-4b42-821c-412569c2c04e | Writer | Software engineer, generative AI (UK) | London, UK | posted: 2026-09-22
+- [ ] https://jobs.ashbyhq.com/writer/6e892a8a-8f81-43db-bf47-6c6e1ded2523 | Writer | AI deployment engineer (UK) | London, UK | posted: 2026-09-22
+- [ ] https://jobs.ashbyhq.com/writer/3abccd89-0f59-4009-93ea-7c85b533caf0 | Writer | AI engineer (UK) | London, UK | posted: 2026-09-22
+- [ ] https://zendesk.wd1.myworkdayjobs.com/zendesk/job/London-United-Kingdom/AI-Services-Consultant_R35463-1 | Zendesk | AI Services Technical Consultant | London, United Kingdom | posted: 2026-09-17
+- [ ] https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Dublin-Ireland/Senior-AI-Data-Engineer_R35161 | Zendesk | Senior AI Data Engineer | 3 Locations
+- [ ] https://jobs.ashbyhq.com/trainline/f1181e4f-8df4-41f6-a1d6-2ca1fd620ab7 | Trainline | Senior Data Scientist | London | posted: 2026-09-21
+- [ ] https://jobs.ashbyhq.com/trainline/1cf3f80c-8083-415a-967f-c125600a2c3d | Trainline | Senior Machine Learning Engineer | London | posted: 2026-08-06
+- [ ] https://jobs.ashbyhq.com/trainline/d3f05d01-d762-4cbc-b3c4-bd7a5f293363 | Trainline | Embedded Data Engineer - ML | London | posted: 2026-09-09
+- [ ] https://jobs.ashbyhq.com/bumbleinc/9b5beda2-6610-456c-8822-14b510a279b1 | Bumble | Machine Learning Engineer (UK) | UK London | posted: 2026-09-22
+- [ ] https://jobs.ashbyhq.com/bumbleinc/5c402737-e385-4e42-b58b-cede0eca637c | Bumble | Principal Machine Learning Engineer, Matching and Recommendations (UK Based) | UK London | posted: 2026-08-28
+- [ ] https://jobs.ashbyhq.com/bumbleinc/f802c2cc-34c3-419c-a5f0-183d0f1477c9 | Bumble | Senior AI Automation & Service Engineer | UK London | posted: 2026-09-08
+- [ ] https://jobs.ashbyhq.com/motorway/64e7a546-c2a7-4ad1-8e1d-be4b1e5c1ddd | Motorway | Lead Generative AI Engineer | London | posted: 2026-09-02
+- [ ] https://jobs.ashbyhq.com/motorway/85582e6d-8ad4-4a90-8cbd-eba288b44bc8 | Motorway | Senior Generative AI Engineer | London | posted: 2026-09-02
+- [ ] https://job-boards.eu.greenhouse.io/prolific/jobs/4952068101 | Prolific | Senior Product Engineer (Agent Training and Evals) | Remote, UK | posted: 2026-09-11
+- [ ] https://jobs.ashbyhq.com/uipath/bcaa0a82-1c7f-4ca2-b723-ae08779af86a | UiPath | Forward Deployed Scientist II | Manchester | posted: 2026-08-31
+- [ ] https://jobs.ashbyhq.com/uipath/4d53f771-f759-45d6-aa5f-fee9b8ff8440 | UiPath | Senior Forward Deployed Scientist | Manchester | posted: 2026-09-04
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6116526004 | Sony Interactive Entertainment (PlayStation) | Data Scientist - Measurement, Experimentation & Causal Inference | United Kingdom, London | posted: 2026-07-28
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6192774004 | Sony Interactive Entertainment (PlayStation) | Senior/Staff Data Scientist - Measurement, Experimentation & Causal Inference | United Kingdom, London | posted: 2026-09-15
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6124257004 | Sony Interactive Entertainment (PlayStation) | Staff Machine Learning Engineer | United Kingdom, London | posted: 2026-08-03
+- [ ] https://jobs.ashbyhq.com/cuspai/916e1489-6624-4a87-90e6-218dc7ebb6fb | CuspAI | Applied AI/ML Engineer (Agents) | Amsterdam, NL · London, UK · London · United Kingdom · Berlin, DE · Berlin · Germany · Cambridge, UK · Cambridge | posted: 2026-08-13
+- [ ] https://careers.ocadogroup.com/jobs/details?gh_jid=4945157101&gh_jid=4945157101 | Ocado Group | Data Scientist | London, United Kingdom | posted: 2026-09-03
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5222270007 | Together AI | Senior Software Engineer — Infra Agent Systems UK | London | posted: 2026-09-01
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5214645007 | Together AI | Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam | London & Amsterdam | posted: 2026-08-20
+- [ ] https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131 | Lemon.io | Senior AI Engineer | Northern America, LATAM, Europe, APAC
+- [ ] https://remotive.com/remote-jobs/data/senior-data-scientist-2091129 | Lemon.io | Senior Data Scientist | Northern America, LATAM, Europe, APAC
+- [ ] https://www.reed.co.uk/jobs/ai-engineer/57364884 | Norton Rose Fulbright LLP | AI Engineer | London | posted: 2026-09-18
+- [ ] https://www.reed.co.uk/jobs/data-scientist-engineer/57364885 | Norton Rose Fulbright LLP | Data Scientist & Engineer | London | posted: 2026-09-18
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer-london/57354540 | FDM Group | Senior AI Engineer- London | London | posted: 2026-09-16
+- [ ] https://www.reed.co.uk/jobs/senior-ai-automation-engineer/57282087 | Klipboard | Senior AI & Automation Engineer | Newcastle Upon Tyne | posted: 2026-08-27
+- [ ] https://www.reed.co.uk/jobs/ai-engineer/57287023 | Harnham - Data & Analytics Recruitment | AI Engineer | London | posted: 2026-08-28
+- [ ] https://www.reed.co.uk/jobs/ai-engineer/57316099 | McGregor Boyall | AI Engineer | Greater Manchester | posted: 2026-09-07
+- [ ] https://www.reed.co.uk/jobs/ai-engineer/57268813 | Oscar Technology | AI Engineer | London | posted: 2026-08-24
+- [ ] https://www.reed.co.uk/jobs/ai-engineer/57228820 | Bruin Financial & Professional Services | AI Engineer | London | posted: 2026-08-12
+- [ ] https://www.reed.co.uk/jobs/ai-engineer/57333929 | Harnham - Data & Analytics Recruitment | AI Engineer | London | posted: 2026-09-10
+- [ ] https://www.reed.co.uk/jobs/ai-engineer/57319436 | 167 Solutions Ltd | AI Engineer | London | posted: 2026-09-07
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer-ai-lab/57316132 | 167 Solutions Ltd | Senior AI Engineer, AI Lab | London | posted: 2026-09-07
+- [ ] https://www.reed.co.uk/jobs/ai-evaluation-engineer/57258209 | TXP Technology x People | AI Evaluation Engineer | London | posted: 2026-08-20
+- [ ] https://www.reed.co.uk/jobs/ai-engineer-cardiff/57270837 | Circle Recruitment | AI Engineer - Cardiff | Cardiff | posted: 2026-08-24
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer/57344324 | Harnham - Data & Analytics Recruitment | Senior AI Engineer | London | posted: 2026-09-14
+- [ ] https://www.reed.co.uk/jobs/ai-engineer-london/57236727 | Adecco | AI Engineer - London | London | posted: 2026-08-14
+- [ ] https://www.reed.co.uk/jobs/ai-product-engineer/57286132 | Oscar Technology | AI Product Engineer | Birmingham | posted: 2026-08-28
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer/57311081 | Addition | Senior AI Engineer | London | posted: 2026-09-04
+- [ ] https://www.reed.co.uk/jobs/ai-software-engineer/57265142 | Searchability | AI Software Engineer | Nottingham | posted: 2026-08-21
+- [ ] https://www.reed.co.uk/jobs/ai-software-engineer/57247129 | Searchability | AI Software Engineer | Newcastle Upon Tyne | posted: 2026-08-17
+- [ ] https://www.reed.co.uk/jobs/ai-platform-engineer/57309774 | Addition | AI Platform Engineer | London | posted: 2026-09-04
+- [ ] https://www.reed.co.uk/jobs/applied-ai-engineer/57384415 | WeDo Technology Solutions Limited | Applied AI Engineer | London | posted: 2026-09-23
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer/57301015 | Harnham - Data & Analytics Recruitment | Senior AI Engineer | London | posted: 2026-09-02
+- [ ] https://www.reed.co.uk/jobs/ai-software-engineer/57378447 | Searchability NS&D | AI Software Engineer | London | posted: 2026-09-22
+- [ ] https://www.reed.co.uk/jobs/lead-ai-engineer/57344329 | Harnham - Data & Analytics Recruitment | Lead AI Engineer | London | posted: 2026-09-14
+- [ ] https://www.reed.co.uk/jobs/applied-ai-engineer/57286145 | Oscar Technology | Applied AI Engineer | Nottingham | posted: 2026-08-28
+- [ ] https://www.reed.co.uk/jobs/data-science-engineer/57375464 | Harnham - Data & Analytics Recruitment | Data Science Engineer | London | posted: 2026-09-21
+- [ ] https://www.reed.co.uk/jobs/lead-ai-engineer/57342808 | Harnham - Data & Analytics Recruitment | Lead AI Engineer | London | posted: 2026-09-14
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer/57277968 | The Portfolio Group | Senior AI Engineer | London | posted: 2026-08-26
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer/57335569 | Harnham - Data & Analytics Recruitment | Senior AI Engineer | London | posted: 2026-09-11
+- [ ] https://www.reed.co.uk/jobs/ai-software-engineer/57334996 | Searchability | AI Software Engineer | Newcastle Upon Tyne | posted: 2026-09-11
+- [ ] https://www.reed.co.uk/jobs/machine-learning-engineer/57379797 | Hays Specialist Recruitment Limited | Machine Learning Engineer | London | posted: 2026-09-22
+- [ ] https://www.reed.co.uk/jobs/ai-machine-learningengineer/57371726 | Akkodis | AI (Machine Learning)Engineer | Bristol | posted: 2026-09-21
+- [ ] https://www.reed.co.uk/jobs/senior-machine-learning-engineer/57300649 | Harnham - Data & Analytics Recruitment | Senior Machine Learning Engineer | London | posted: 2026-09-02
+- [ ] https://www.reed.co.uk/jobs/founding-machine-learning-engineer-robot-learning/57285383 | Searchability | Founding Machine Learning Engineer, Robot Learning | London | posted: 2026-08-28
+- [ ] https://www.reed.co.uk/jobs/machine-learning-engineer-conversational-ai-mlops/57325823 | Robert Walters | Machine Learning Engineer - Conversational AI & MLOps | London | posted: 2026-09-09
+- [ ] https://www.reed.co.uk/jobs/ml-engineer/57286994 | Harnham - Data & Analytics Recruitment | ML Engineer | London | posted: 2026-08-28
+- [ ] https://www.reed.co.uk/jobs/ml-engineer/57383692 | VIQU IT Recruitment | ML Engineer | London | posted: 2026-09-23
+- [ ] https://www.reed.co.uk/jobs/mlops-engineer/57350356 | Harnham - Data & Analytics Recruitment | MLOps Engineer | London | posted: 2026-09-15
+- [ ] https://www.reed.co.uk/jobs/computer-vision-engineer/57370179 | C4S Search Ltd | Computer Vision Engineer | North London | posted: 2026-09-21
+- [ ] https://www.reed.co.uk/jobs/data-science-ml-engineer/57327516 | TXP Technology x People | Data Science / ML Engineer | Glasgow | posted: 2026-09-09
+- [ ] https://www.reed.co.uk/jobs/forward-deployed-engineer/57227528 | Harnham - Data & Analytics Recruitment | Forward Deployed Engineer | Manchester | posted: 2026-08-12
+- [ ] https://www.reed.co.uk/jobs/senior-ml-ops-engineer/57376975 | Harnham - Data & Analytics Recruitment | Senior ML Ops Engineer | London | posted: 2026-09-22
+- [ ] https://www.reed.co.uk/jobs/senior-ml-ops-engineer/57377213 | Harnham - Data & Analytics Recruitment | Senior ML Ops Engineer | London | posted: 2026-09-22
+- [ ] https://www.reed.co.uk/jobs/senior-nlp-engineer/57271223 | Harnham - Data & Analytics Recruitment | Senior NLP Engineer | London | posted: 2026-08-24
+- [ ] https://www.reed.co.uk/jobs/ai-engineer-sc-cleared/57358505 | Searchability NS&D | AI Engineer - SC Cleared | Newcastle Upon Tyne | posted: 2026-09-17
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57246865 | Sagacity | Data Scientist | London | posted: 2026-08-17
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57343024 | Harnham - Data & Analytics Recruitment | Data Scientist | Manchester | posted: 2026-09-14
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57284018 | Gleeson Recruitment Group | Data Scientist | London | posted: 2026-08-27
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57286948 | Harnham - Data & Analytics Recruitment | Data Scientist | London | posted: 2026-08-28
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57259332 | Harnham - Data & Analytics Recruitment | Data Scientist | London | posted: 2026-08-20
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57258680 | Harnham - Data & Analytics Recruitment | Data Scientist | London | posted: 2026-08-20
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57231160 | Harnham - Data & Analytics Recruitment | Data Scientist | London | posted: 2026-08-12
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57346491 | VIQU IT Recruitment | Data Scientist | Cardiff | posted: 2026-09-15
+- [ ] https://www.reed.co.uk/jobs/data-scientist/57298757 | Harnham - Data & Analytics Recruitment | Data Scientist | London | posted: 2026-09-01
+- [ ] https://www.reed.co.uk/jobs/ai-engineer--agentic-ai-automation/57263058 | Adria Solutions | AI Engineer – Agentic AI & Automation | Manchester | posted: 2026-08-21
+- [ ] https://www.reed.co.uk/jobs/data-science-consultant/57382368 | Vbeyond | Data Science Consultant | London | posted: 2026-09-23
+- [ ] https://www.reed.co.uk/jobs/data-science-ai-senior-consultant/57227617 | Deerfoot Recruitment Solutions Ltd | Data Science & AI Senior Consultant | London | posted: 2026-08-12
+- [ ] https://www.reed.co.uk/jobs/ai-automation-tester/57359463 | Sanderson | AI Automation Tester | London | posted: 2026-09-17
+- [ ] https://www.reed.co.uk/jobs/senior-data-scientist/57280058 | Eden James Consulting Limited | Senior Data Scientist | London | posted: 2026-08-26
+- [ ] https://www.reed.co.uk/jobs/python-developer-ai-llm-platform/57322105 | Ncounter | Python Developer - AI / LLM Platform | Reading | posted: 2026-09-08
+- [ ] https://www.reed.co.uk/jobs/forward-deployed-engineer/57376931 | Noir | Forward Deployed Engineer | London | posted: 2026-09-22
+- [ ] https://www.reed.co.uk/jobs/forward-deployed-ai-engineer/57322637 | SR2 | Forward-Deployed AI Engineer | London | posted: 2026-09-08
+- [ ] https://www.reed.co.uk/jobs/ai-engineer-rag--knowledgegraph/57266149 | Opus Recruitment Solutions Ltd | AI Engineer (RAG + KnowledgeGraph) | London | posted: 2026-08-21
+- [ ] https://www.reed.co.uk/jobs/senior-ai-product-engineer/57313697 | Harnham - Data & Analytics Recruitment | Senior AI Product Engineer | London | posted: 2026-09-05
+- [ ] https://www.reed.co.uk/jobs/senior-ai-engineer-manchester/57311189 | Circle Recruitment | Senior AI Engineer - Manchester | Manchester | posted: 2026-09-04
+- [ ] https://www.reed.co.uk/jobs/agentic-ai-software-engineer/57262409 | Adecco | Agentic AI Software Engineer | London | posted: 2026-08-21
+- [ ] https://www.reed.co.uk/jobs/forward-deployed-engineer-cardiff/57307408 | Circle Recruitment | Forward Deployed Engineer - Cardiff | Cardiff | posted: 2026-09-03
+- [ ] https://www.reed.co.uk/jobs/ai-software-engineer--c-net/57238780 | Apache Associates | AI Software Engineer – C# .NET | Sheffield | posted: 2026-08-14
+- [ ] https://www.reed.co.uk/jobs/ai-software-engineer--c-net/57238757 | Apache Associates | AI Software Engineer – C# .NET | Newcastle Upon Tyne | posted: 2026-08-14
+- [ ] https://www.reed.co.uk/jobs/forward-deployed-ai-engineer/57380547 | Harnham - Data & Analytics Recruitment | Forward Deployed AI Engineer | London | posted: 2026-09-22
+- [ ] https://www.reed.co.uk/jobs/agentic-ai-engineer-sdd-c/57305953 | Sanderson | Agentic AI Engineer - SDD / C# | Bristol | posted: 2026-09-03
+- [ ] https://www.reed.co.uk/jobs/ai-engineer-applied-ai-product-development/57327808 | Apex Talent Solutions | AI Engineer (Applied AI & Product Development) | London | posted: 2026-09-09
+- [ ] https://www.reed.co.uk/jobs/senior-ai-developer/57238870 | Apache Associates | Senior AI Developer | Newcastle Upon Tyne | posted: 2026-08-14
+- [ ] https://www.reed.co.uk/jobs/senior-ai-developer/57238871 | Apache Associates | Senior AI Developer | Sheffield | posted: 2026-08-14
+- [ ] https://www.reed.co.uk/jobs/senior-software-engineer-ai-copilot-studio/57328794 | Pontoon | Senior Software Engineer (AI, CoPilot Studio) | Dublin | posted: 2026-09-09
+- [ ] https://www.reed.co.uk/jobs/ai-technical-lead/57334259 | F5 | AI Technical Lead | Bristol | posted: 2026-09-10
+- [ ] https://www.reed.co.uk/jobs/senior-ai-privacy-risk-consultant/57244989 | Randstad Technologies | Senior AI Privacy Risk Consultant | London | posted: 2026-08-17
+- [ ] https://www.reed.co.uk/jobs/senior-forward-deployed-engineer-energy/57333016 | Infoplus Technologies UK Limited | Senior Forward Deployed Engineer (Energy) | London | posted: 2026-09-10
+- [ ] https://www.reed.co.uk/jobs/power-platform-ai-engineer/57249303 | Nigel Frank International | Power Platform & AI Engineer | London | posted: 2026-08-18
+- [ ] https://www.reed.co.uk/jobs/aws-genai-solution-architect-insurance-london-100k/57326167 | Tenth Revolution Group | AWS GenAI Solution Architect - Insurance - London - £100K | London | posted: 2026-09-09
+- [ ] https://www.reed.co.uk/jobs/oracle-ai-functional-architect/57382503 | Vbeyond | Oracle AI Functional Architect | London | posted: 2026-09-23
+- [ ] https://www.reed.co.uk/jobs/platform-engineer-devops-mlops-focus/57301840 | The Portfolio Group | Platform Engineer (DevOps / MLOps Focus) | London | posted: 2026-09-02
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893962959?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=B1D88C1AAE7BDF2903FD4ABDD019036AA63F3457 | A&O Shearman | Senior AI Engineer | Lisburn, Northern Ireland | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893963071?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=BFE8D9F508FBDB00BEE2FD415359571F41CBF96C | A&O Shearman | Senior AI Engineer | Belfast, Northern Ireland | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893962988?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=48998EB78E9A68887F7E6F10B298DD4DAD058BBF | A&O Shearman | Senior AI Engineer | Castlereagh, Belfast | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893963063?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=E364C5ED26761794924F489B4A7668830CE9B104 | A&O Shearman | Senior AI Engineer | Newtownbreda, Belfast | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893963041?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=AE212631F0DCCA865ACB748BDA236069B7B3DEAF | A&O Shearman | Senior AI Engineer | Carryduff, Belfast | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893963028?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=8EEE122F1D7FE48802EE4452302940D3CA857F0F | A&O Shearman | Senior AI Engineer | UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893962842?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=AE0789D420EBE83CCB9D28189A1F06A03DDAA2E3 | A&O Shearman | Senior AI Engineer | Bryansford, Newcastle | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893962963?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=666423A61D2071DCC8408586AE88E2435B7EB263 | A&O Shearman | Senior AI Engineer | Ballymena, Northern Ireland | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5854382417?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=D01B9AFAA82531948ACDA98BFAC9C243612771B9 | Ocho | AI Engineer | Belfast, Northern Ireland | posted: 2026-08-24
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5873793481?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=14FD6E735EF09A154D7EAA9472DCAEB46A36A833 | Hackajob Ltd | Senior AI Engineer | Birmingham, West Midlands | posted: 2026-09-07
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5870989810?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=B56CED2382F53364A7790678E02C346F21724D17 | Ocho | Senior AI Engineer | Belfast, Northern Ireland | posted: 2026-09-04
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5858654886?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=830258DB91A3E6C3D8B9D6A8DDFA2087DBD21DCF | PA Consulting | Senior AI Engineer | Belfast, Northern Ireland | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5854555273?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=C4A0BE32D766B89AC7D0AAD4A82F300B6A93F4D9 | PA Consulting | Senior AI Engineer | Belfast, Northern Ireland | posted: 2026-08-24
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5894908137?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=690FAF4A49A9B0859C399957C8F7FCD42E147DA3 | Lynx Recruitment Limited | Senior AI Engineering Consultant | Manchester, Greater Manchester | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5880108542?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=BA22E4A3B6EBB92297401A92E3345FA5DA585721 | Ocho | Senior ML/AI Engineer | Belfast, Northern Ireland | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5869482315?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=A8F2B749CE06E6CBA58EF227BE070C398132E463 | 83zero Limited | AI Engineer Healthecare | UK | posted: 2026-09-03
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5859523634?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=1BD18C09944D0803D454B130B2A32B1B4BD639AA | Synoptix Limited | Principal AI Engineer | Frenchay, Bristol | posted: 2026-08-28
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5862861919?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=BA9FDAE3E36AE64FD4FD8409F2A7BE840F04FAAA | Oscar Associates Limited | Applied AI Engineer | Nottingham, Nottinghamshire | posted: 2026-08-31
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5872822493?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=BE19512DD25D8E4BDB283306E74591F0C78F8264 | Circle Group | Senior AI Engineer - Manchester | Manchester, Greater Manchester | posted: 2026-09-06
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893699747?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=0D8B0927EF42604E44AFC2B6C88B37595ABFEE6F | NSD | AI Engineer - SC Cleared | Newcastle Upon Tyne, Tyne & Wear | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856595572?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=AD851309FCE1CFA60BF5E02C00BEBC6B98E19101 | Hackajob Ltd | Forward Deployed AI Engineer | South East London, London | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5888122684?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=251E7B1BF0819D8B502A755336AC18E5CE7A787A | Leeds Building Society | AI Engineer (Microsoft Stack) | Holbeck, Leeds | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5855696024?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=29CF21AA3414EBB21E80BDB28E55DADA038C277B | Ocho | Principal AI Engineer (Forward Deployed) | Belfast, Northern Ireland | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5870167714?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=596BB386AD272B83B092111C9061BA898DC796DB | Fruition Group | Forward Deployed AI Engineer | Holbeck, Leeds | posted: 2026-09-04
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5855111755?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=C0E01639F20E452108D9B92EB5ACAD7218BEE62B | Hackajob Ltd | SWE Data/AI Engineer | Glasgow, Scotland | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5883457497?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=74E3BBBBEB39FE256E2F765D53E5C0E45977DF7D | Hackajob Ltd | Lead AI Engineer | UK | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5850768673?se=UrmKiWe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=E8A0F0ADA779605767E8807B2DE989C1D4A62323 | INFUSED SOLUTIONS LIMITED | Senior AI Engineer - Perm - London | South East London, London | posted: 2026-08-21
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5889787459?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=382701F61B2D86A92B65B17C442CCBCEE829B548 | Norton Rose Fulbright LLP | AI Engineer | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5870989807?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=F99899C3BA277A72159CDFBE96E39C3B2729077F | Ocho | AI Platform Engineer | Belfast, Northern Ireland | posted: 2026-09-04
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5895020072?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=180BD914E1C88E0000C73B3F7FF27991D85D8504 | Lynx Recruitment Limited | Senior AI Engineering Consultant | UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5883861133?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=7EABF0D9FC304CB69CFE6C8217DDE8479523F69C | Harnham - Data & Analytics Recruitment | Lead AI Engineer | London, UK | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5879765703?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=4F458B6CDF58988C4A47F23E65017232CBF2FCBE | Harnham - Data & Analytics Recruitment | Senior AI Engineer | London, UK | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5867187647?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=A33DBFAD1613BAF853790578470BDE3CF20A00D8 | Harnham - Data & Analytics Recruitment | Senior AI Engineer | London, UK | posted: 2026-09-02
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5894917693?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=D929D320332AAA099E72E506E0F21CB37F94AD42 | Emponics | AI Deployment Engineer | Monument, Central London | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/details/5887896074?utm_medium=api&utm_source=dc96cb17 | Ten Group | AI Engineer | London, UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5893010800?utm_medium=api&utm_source=dc96cb17 | Solirius Reply | AI Engineer | London, UK | posted: 2026-09-21
+- [ ] https://www.adzuna.co.uk/jobs/details/5884490583?utm_medium=api&utm_source=dc96cb17 | Ocean Infinity | AI Engineer | London, UK | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/details/5894631409?utm_medium=api&utm_source=dc96cb17 | RemoteJobsOne | AI Engineer | London, UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856860327?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=4CCCBBB6BAB6EBEDE2FE58AAAF77D61C7C97322B | Ocho | Senior AI Software Engineer | Belfast, Northern Ireland | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5867043170?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=2BBFA29D0B78C3D26C0057DC60D699954481439E | Bruin Financial & Professional Services | AI Engineer | London, UK | posted: 2026-09-02
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5870884984?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=B3E5B51E6CC57CB2C11E60DE5B23AC7A0D2E3A76 | Adecco | AI Engineer | Rusholme, Manchester | posted: 2026-09-04
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5895176057?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=890C14792B74ED0D596E90FCA060F6ABC6720D92 | DCV Technologies | AI Engineer | Farringdon, Central London | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5892958458?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=ABB0486359447EA59B1DB248F8CAB29F1E38093F | Damia Group Ltd | AI Engineer | UK | posted: 2026-09-21
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5875694416?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=9E50ED7A4CE100093EA6F74FC599451227EB9EB2 | Fraser & Co. Talent Partners Limited | AI Engineer | Farringdon, Central London | posted: 2026-09-08
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5884488244?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=5F03E94405285FF19F22DF3B97C54185B8EFF501 | Hays Technology | AI Engineer | UK | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5875604455?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=9EA203072278639D6EFFF00F14C8C0A7D5C3EF27 | McGregor Boyall | AI Engineer | Manchester, Greater Manchester | posted: 2026-09-08
+- [ ] https://www.adzuna.co.uk/jobs/details/5858919845?utm_medium=api&utm_source=dc96cb17 | Pearson Carter | AI Engineer | UK | posted: 2026-08-28
+- [ ] https://www.adzuna.co.uk/jobs/details/5854381987?utm_medium=api&utm_source=dc96cb17 | Oscar Associates Limited | AI Engineer | London, UK | posted: 2026-08-24
+- [ ] https://www.adzuna.co.uk/jobs/details/5874506223?utm_medium=api&utm_source=dc96cb17 | McGregor Boyall Associates Limited | AI Engineer | Manchester, Greater Manchester | posted: 2026-09-07
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5889704950?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=3EFE1DAF51426385FB08838D90E933A2D665B7C6 | Meritus Talent | AI Engineer | Cambridge, Cambridgeshire | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5871454629?utm_medium=api&utm_source=dc96cb17 | Stott & May Professional Search Limited | AI Engineer | London, UK | posted: 2026-09-05
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5873933691?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=DBCD3D1F2AB1F6E641B81AD47B37E3F67D8DF3D4 | Lynx Recruitment Ltd | AI Engineer | London, UK | posted: 2026-09-07
+- [ ] https://www.adzuna.co.uk/jobs/details/5822581074?utm_medium=api&utm_source=dc96cb17 | Waystone Governance Ltd. | AI Engineer | Holbeck, Leeds | posted: 2026-07-31
+- [ ] https://www.adzuna.co.uk/jobs/details/5895231877?utm_medium=api&utm_source=dc96cb17 | SLR Consulting | AI Engineer | London, UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5878832255?se=mO-Kime38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=8F70B2076718053607EE0E59E7DE7F0C90722465 | Harnham - Data & Analytics Recruitment | AI Engineer | London, UK | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5890525563?utm_medium=api&utm_source=dc96cb17 | Fraser & Co. Talent Partners Limited | AI Engineer | The City, Central London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5843785521?utm_medium=api&utm_source=dc96cb17 | AECOM | AI Engineer | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5894312487?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | AI Engineer | South West London, London | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5879387730?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=01F4DD463112C85858CFCECB822F055AF1CA8DD2 | ECM Selection Ltd. | Machine Learning Engineer | Cambridge, Cambridgeshire | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5890307584?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=FE26176F6DF2386D367D170FD277BF02D5FCD8FD | Anson Mccade | Machine Learning Engineer | London, UK | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856592811?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=6DB08A8FBC90C718BDFF656F69882F0A3F7AD9F6 | Hackajob Ltd | Senior Machine Learning Engineer | South East London, London | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5858016623?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=A183690E692DF6446DCD6E881F23490DEAC2F139 | Bazaarvoice Ltd | Senior Machine Learning Engineer | Belfast, Northern Ireland | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893555230?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=FD9BF40973ECCEB4BA8F7BA9DB2CDCC9CA48855D | Experis | Machine Learning Engineer | UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5873277351?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=0E8355D3DC75AC6E3E2729EAA0CA45DBA7FB991E | Anson Mccade | Machine Learning Engineer | London, UK | posted: 2026-09-06
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5862027497?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=B00993494658E7C57C5ECD7810341A04D98D39AB | Hackajob Ltd | Machine Learning Engineering Lead | Farringdon, Central London | posted: 2026-08-30
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5858064328?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=B6A163C0C4DFB5492191FBC578C2BBDCFB90EB11 | Hackajob Ltd | Lead Machine Learning Engineer | Charing Cross, Central London | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5888654441?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=2A16EC6AECA9A5EE7A175A39085183A0A7023608 | Microtech Global Ltd | Machine Learning Engineer (Voice) - London | South East London, London | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5883457350?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=9296E0FF864D9C95F6F39BA6A7F717E8E746AF1B | ECM Selection Ltd. | Machine Learning Engineer | UK | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5883457508?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=C031B8939B839774798FF2C0BD340C5952DE8BCC | Hackajob Ltd | Senior Machine Learning Engineer | UK | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/details/5883853648?utm_medium=api&utm_source=dc96cb17 | Noa Recruitment Limited | Machine Learning Engineer | Bradwell Common, Milton Keynes | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5830845157?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=176CD05976322972F51979FA9985B53CA37306B0 | Hexwired Recruitment Limited | Machine Learning Engineer | Farringdon, Central London | posted: 2026-08-06
+- [ ] https://www.adzuna.co.uk/jobs/details/5867644603?utm_medium=api&utm_source=dc96cb17 | RedTech Recruitment Ltd | Machine Learning Engineer | The City, Central London | posted: 2026-09-02
+- [ ] https://www.adzuna.co.uk/jobs/details/5890213941?utm_medium=api&utm_source=dc96cb17 | Anson Mccade | Machine Learning Engineer | South West London, London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5849295295?utm_medium=api&utm_source=dc96cb17 | Vermelo | Machine Learning Engineer | Manchester, Greater Manchester | posted: 2026-08-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5842143262?utm_medium=api&utm_source=dc96cb17 | Your Tech Future | Machine Learning Engineer | South West London, London | posted: 2026-08-14
+- [ ] https://www.adzuna.co.uk/jobs/details/5873315512?utm_medium=api&utm_source=dc96cb17 | Anson Mccade | Machine Learning Engineer | Central London, London | posted: 2026-09-06
+- [ ] https://www.adzuna.co.uk/jobs/details/5877292783?utm_medium=api&utm_source=dc96cb17 | Iconic | Machine Learning Engineer | London, UK | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5887460837?utm_medium=api&utm_source=dc96cb17 | Kemio Consulting | Machine Learning Engineer | UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5862926792?utm_medium=api&utm_source=dc96cb17 | Anson Mccade | Machine Learning Engineer | London, UK | posted: 2026-08-31
+- [ ] https://www.adzuna.co.uk/jobs/details/5882777420?utm_medium=api&utm_source=dc96cb17 | Gigaton | Machine Learning Engineer | London, UK | posted: 2026-09-13
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5894261520?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=1609EF42F8D37631AD6E1D53E9AF9E62C406784E | Hays Specialist Recruitment Limited | Machine Learning Engineer | London, UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5844297405?utm_medium=api&utm_source=dc96cb17 | Prima | Machine Learning Engineer | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5855328976?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Machine Learning Engineer | South West London, London | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5820014358?utm_medium=api&utm_source=dc96cb17 | Baringa | Machine Learning Engineer | London, UK | posted: 2026-07-29
+- [ ] https://www.adzuna.co.uk/jobs/details/5842150197?utm_medium=api&utm_source=dc96cb17 | Baringa Partners | Machine Learning Engineer | London, UK | posted: 2026-08-14
+- [ ] https://www.adzuna.co.uk/jobs/details/5890529618?utm_medium=api&utm_source=dc96cb17 | Hexwired Recruitment Limited | Machine Learning Engineer | Broadgate, Central London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5890524859?utm_medium=api&utm_source=dc96cb17 | Anson McCade | Machine Learning Engineer | Broadgate, Central London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5889780723?utm_medium=api&utm_source=dc96cb17 | Data Idols | Senior Machine Learning Engineer | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5821202896?utm_medium=api&utm_source=dc96cb17 | Qureight Ltd | Senior Machine Learning Engineer | London, UK | posted: 2026-07-30
+- [ ] https://www.adzuna.co.uk/jobs/details/5821202894?utm_medium=api&utm_source=dc96cb17 | Qureight Ltd | Senior Machine Learning Engineer | Cambridge, Cambridgeshire | posted: 2026-07-30
+- [ ] https://www.adzuna.co.uk/jobs/details/5827915840?utm_medium=api&utm_source=dc96cb17 | Zaizi | Senior Machine Learning Engineer | London, UK | posted: 2026-08-04
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5889746022?se=2kKVi2e38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=B617E58141B7B6B4F383D5708C9A99AF9267A8D8 | Data Idols | Senior Machine Learning Engineer | Farringdon, Central London | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5830845201?se=orM9jGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=F996CFC96B11322F5AA02A186171F2C540A3D1C2 | Hexwired Recruitment Limited | Senior Machine Learning Engineer | Farringdon, Central London | posted: 2026-08-06
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5858378129?se=orM9jGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=BA39E253A7C4DED5F6E95DB6E87CC533D4B14947 | Maxwell Bond | Senior Machine Learning Engineer | Hyde Park, West London | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/details/5869181608?utm_medium=api&utm_source=dc96cb17 | Global Media Group | Senior Machine Learning Engineer | Holborn, Central London | posted: 2026-09-03
+- [ ] https://www.adzuna.co.uk/jobs/details/5869161792?utm_medium=api&utm_source=dc96cb17 | Global Media Group | Senior Machine Learning Engineer | Holborn, Central London | posted: 2026-09-03
+- [ ] https://www.adzuna.co.uk/jobs/details/5890530879?utm_medium=api&utm_source=dc96cb17 | Data Idols | Senior Machine Learning Engineer | Leamouth, East London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5877814433?utm_medium=api&utm_source=dc96cb17 | Meta | Machine Learning Engineer, Experimentation | London, UK | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5890527679?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Machine Learning Engineering Lead | Farringdon, Central London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5849682765?utm_medium=api&utm_source=dc96cb17 | LexisNexis | Machine Learning Engineering Lead | Farringdon, Central London | posted: 2026-08-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5848946602?utm_medium=api&utm_source=dc96cb17 | LexisNexis | Machine Learning Engineering Lead | London, UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5855328981?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Machine Learning Engineering Lead | The City, Central London | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5890395948?utm_medium=api&utm_source=dc96cb17 | Cambridge Mobile Telematics | Principal Machine Learning Engineer | UK | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5855328973?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Lead Machine Learning Engineer | South West London, London | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5840392949?utm_medium=api&utm_source=dc96cb17 | Trainline | Senior Machine Learning Engineer | London, UK | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/details/5890527413?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Lead Machine Learning Engineer | Hyde Park, Leeds | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5840385503?utm_medium=api&utm_source=dc96cb17 | Ravelin Technology | Senior Machine Learning Engineer | London, UK | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5892842606?se=orM9jGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=1D6E123CF502905B760D1D5E3303D672838245D8 | Akkodis | AI (Machine Learning)Engineer | Bristol, South West England | posted: 2026-09-21
+- [ ] https://www.adzuna.co.uk/jobs/details/5844301257?utm_medium=api&utm_source=dc96cb17 | Prima | Senior Machine Learning Engineer | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5890529468?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Senior Machine Learning Engineer | Walworth, South East London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5845241735?utm_medium=api&utm_source=dc96cb17 | Bjak | Staff Machine Learning Engineer | London, UK | posted: 2026-08-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5836852336?utm_medium=api&utm_source=dc96cb17 | Relay Technologies | Senior Machine Learning Engineer | London, UK | posted: 2026-08-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5829341270?utm_medium=api&utm_source=dc96cb17 | PlayStation | Staff Machine Learning Engineer | London, UK | posted: 2026-08-05
+- [ ] https://www.adzuna.co.uk/jobs/details/5872126605?utm_medium=api&utm_source=dc96cb17 | The Voleon Group | Senior Machine Learning Engineer | London, UK | posted: 2026-09-05
+- [ ] https://www.adzuna.co.uk/jobs/details/5856860391?utm_medium=api&utm_source=dc96cb17 | Ocho | Machine Learning Engineer (LLM) | Belfast, Northern Ireland | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/details/5889037388?utm_medium=api&utm_source=dc96cb17 | Faculty AI | Senior Machine Learning Engineer | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5856669775?utm_medium=api&utm_source=dc96cb17 | Just Eat | Staff Machine Learning Engineer | London, UK | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/details/5855991826?utm_medium=api&utm_source=dc96cb17 | Zaizi | Senior Machine Learning Engineer | London, UK | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5859767657?utm_medium=api&utm_source=dc96cb17 | Faculty AI | Lead Machine Learning Engineer | London, UK | posted: 2026-08-28
+- [ ] https://www.adzuna.co.uk/jobs/details/5855328269?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Senior Machine Learning Engineer | London, UK | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5895231407?utm_medium=api&utm_source=dc96cb17 | Faculty AI | Lead Machine Learning Engineer | London, UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/details/5832259750?utm_medium=api&utm_source=dc96cb17 | PhysicsX | Senior Machine Learning Engineer | London, UK | posted: 2026-08-07
+- [ ] https://www.adzuna.co.uk/jobs/details/5856970186?utm_medium=api&utm_source=dc96cb17 | MoonPay | Staff Machine Learning Engineer | London, UK | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/details/5844313934?utm_medium=api&utm_source=dc96cb17 | Prima | Software / Machine Learning Engineer | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5851175583?utm_medium=api&utm_source=dc96cb17 | London Stock Exchange Group | Principal Machine Learning Engineer | London, UK | posted: 2026-08-21
+- [ ] https://www.adzuna.co.uk/jobs/details/5824359323?utm_medium=api&utm_source=dc96cb17 | JD.com | Machine Learning Engineer - AI | London, UK | posted: 2026-08-01
+- [ ] https://www.adzuna.co.uk/jobs/details/5840383063?utm_medium=api&utm_source=dc96cb17 | Epic Games | Machine Learning Engineer, Memory | London, UK | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/details/5885438066?utm_medium=api&utm_source=dc96cb17 | AECOM | Senior Machine Learning Engineer | London, UK | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5893862703?utm_medium=api&utm_source=dc96cb17 | Akkodis | AI (Machine Learning) Engineer | Redcliffe, Bristol | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5887466853?utm_medium=api&utm_source=dc96cb17 | Wayve | Machine Learning Engineer, Compiler | London, UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5884460587?utm_medium=api&utm_source=dc96cb17 | AECOM | Senior Machine Learning Engineer | London, UK | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/details/5835199600?utm_medium=api&utm_source=dc96cb17 | Mercor | Machine Learning Engineer - Fully Remote | London, UK | posted: 2026-08-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5832027467?utm_medium=api&utm_source=dc96cb17 | GBG | Senior Machine Learning Engineer (3967) | UK | posted: 2026-08-07
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5892308786?se=orM9jGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=1D5D83C9828E88E6BF514257DEDF04C9879A5F3A | Capital One UK | Staff Software Engineer - Machine Learning | London, UK | posted: 2026-09-21
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5852590604?se=orM9jGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=5CC450284DAB8E9187B55CF643AB2402F79B073F | Rowden | Machine Learning Engineer (Mid to Principal) | Stockland Bristol, Bridgwater | posted: 2026-08-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5894413751?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=95FFC76B71EE82F1DB83AE2E90354ECFA0C80BE3 | Hackajob Ltd | Data Scientist | Norton, Sheffield | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5877136670?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=8C0AF6DC591659B8DC04D7F070744DE6EB0AFD8C | Ocho | Lead Data Scientist | Belfast, Northern Ireland | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5855394777?utm_medium=api&utm_source=dc96cb17 | INNOVIZ LIMITED | Data Scientist | Milton Keynes, Buckinghamshire | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893710362?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=14CCAEA0264C38406478E4ED02402FD9BFD10358 | Anson Mccade | Data Science Consultant | Manchester, Greater Manchester | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5866763751?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=46F7BF0ED158A1FF4A98AD8430D1D98849C08191 | Sanderson Government and Defence | Senior Data Scientist | Newcastle Upon Tyne, Tyne & Wear | posted: 2026-09-02
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856860429?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=38CDEA65DEFAC3D7ADE332BD3221DB7639ACE6A0 | Ocho | Senior Data Scientist (ML Platform) | Belfast, Northern Ireland | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856135796?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=18B9FE30B550D2DDD61CC5936CD8DD60547200C6 | Hackajob Ltd | Senior Data Scientist I | Farringdon, Central London | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893792371?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=943BECBF0F92FBE67366FAFA07825049BCC9C9EA | Sirius Analysis Limited | Senior Data Scientist | UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5885235780?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=7B3C033F5964666364267CA65A6BE69C2905CA56 | SRT Marine Systems plc | Data Scientist (Sovereign Territory Surveillance) | Redcliffe, Bristol | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5858065344?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=6B530BD2E9AF1F85F99E8FF3A9610642A95EBC2F | Hackajob Ltd | Lead Statistician / Lead Statistical Data Scientist | Charing Cross, Central London | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5889786902?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=D1824533F1D6DCA046794DE8481A7380612D65B1 | Sagacity | Data Scientist | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5865274695?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=55A65A4557480AEDEB745D6F512D5E2795B3F023 | Harnham - Data & Analytics Recruitment | Data Scientist | London, UK | posted: 2026-09-01
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5887939509?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=BB1E085B7478A0B9D99FFF924578762B6356B59E | SAFRAN UK | Data Scientist | Wales, UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5857216366?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=CCDBCBEC284678A16893D6BE96A180E0E51E4CF8 | Eden James Consulting Limited | Senior Data Scientist | London, UK | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5877128857?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=925A35506E6C1D24A0DE1B778411ED1048191D5F | Harnham - Data & Analytics Recruitment | Senior Data Scientist | London, UK | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5886243415?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=F2197A80D6DE99EACCCD095B3B4FD20983662F31 | Atom Bank | Commercial Data Scientist | Newcastle Upon Tyne, Tyne & Wear | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5858263084?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=34B37EEEC0BF4CACCEE29F11441C2D815150E925 | Executive Facilities | Senior Data Scientist | London, UK | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5889787458?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=206C68CA4C27511F872D70E85E7688C338EF08D3 | Norton Rose Fulbright LLP | Data Scientist & Engineer | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893171295?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=764B59C61A0D92B2418BF6B8B1AD0EF96790EBD3 | Harnham - Data & Analytics Recruitment | Data Science Engineer | London, UK | posted: 2026-09-21
+- [ ] https://www.adzuna.co.uk/jobs/details/5885540000?utm_medium=api&utm_source=dc96cb17 | Data Idols | Data Scientist | London, UK | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5894315084?utm_medium=api&utm_source=dc96cb17 | NielsenIQ | Data Scientist | UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5875137360?utm_medium=api&utm_source=dc96cb17 | bet365 | Data Scientist | Manchester, Greater Manchester | posted: 2026-09-08
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5858567615?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=FF50E64AC5DE340CA3D86CC984232B64004E892D | Gleeson Recruitment Group | Data Scientist | Farringdon, Central London | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5884623577?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=9312D2DE5BE8DDB9C6D289812C3A33EF8EFF54E1 | VIQU IT Recruitment | Data Scientist | Cardiff County, Wales | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5884487320?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=A36770B49BCBFF58D971834CF9B808062FD3F658 | VIQU IT | Data Scientist | Grangetown, Cardiff | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5883635315?se=CN_TjGe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=F6B13960625248CE4E30822FF23E73CC0F169F47 | Alexander Mann Solutions - Contingency | Data Scientist | Farringdon, Central London | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/details/5880108539?utm_medium=api&utm_source=dc96cb17 | Ocho | Data Scientist | Belfast, Northern Ireland | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5869180306?utm_medium=api&utm_source=dc96cb17 | Hiscox | Data Scientist | London, UK | posted: 2026-09-03
+- [ ] https://www.adzuna.co.uk/jobs/details/5879883444?utm_medium=api&utm_source=dc96cb17 | Dataiku | Data Scientist | London, UK | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5838729952?utm_medium=api&utm_source=dc96cb17 | Datatech Analytics | Data Scientist | Cardiff, Cardiff County | posted: 2026-08-12
+- [ ] https://www.adzuna.co.uk/jobs/details/5848713778?utm_medium=api&utm_source=dc96cb17 | Vermelo | Data Scientist | Salford, Greater Manchester | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5894312921?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Data Scientist | Manchester, Greater Manchester | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5844905756?utm_medium=api&utm_source=dc96cb17 | INFUSED SOLUTIONS LIMITED | Data Scientist | London, UK | posted: 2026-08-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5887175056?utm_medium=api&utm_source=dc96cb17 | Silk Route Recruitment Ltd | Data Scientist | Central London, London | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5889027165?utm_medium=api&utm_source=dc96cb17 | Ergodic | Data Scientist | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5852584949?utm_medium=api&utm_source=dc96cb17 | Fospha | Data Scientist | London, UK | posted: 2026-08-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5881105468?utm_medium=api&utm_source=dc96cb17 | Borough of Lewisham | Data Scientist | London, UK | posted: 2026-09-12
+- [ ] https://www.adzuna.co.uk/jobs/details/5833778515?utm_medium=api&utm_source=dc96cb17 | Code First Girls | Data Scientist | The City, Central London | posted: 2026-08-08
+- [ ] https://www.adzuna.co.uk/jobs/details/5872092435?utm_medium=api&utm_source=dc96cb17 | Ocado Group | Data Scientist | London, UK | posted: 2026-09-05
+- [ ] https://www.adzuna.co.uk/jobs/details/5832267758?utm_medium=api&utm_source=dc96cb17 | EXL | Data Scientist | London, UK | posted: 2026-08-07
+- [ ] https://www.adzuna.co.uk/jobs/details/5844301175?utm_medium=api&utm_source=dc96cb17 | Prima | Data Scientist | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5841946023?utm_medium=api&utm_source=dc96cb17 | ADEVALUK Adelphi Values | Data Scientist | Cheshire, North West England | posted: 2026-08-14
+- [ ] https://www.adzuna.co.uk/jobs/details/5838730539?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Data Scientist | South West London, London | posted: 2026-08-12
+- [ ] https://www.adzuna.co.uk/jobs/details/5891559387?utm_medium=api&utm_source=dc96cb17 | Genomics | Data Scientist | London, UK | posted: 2026-09-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5832269154?utm_medium=api&utm_source=dc96cb17 | London Stock Exchange Group | Data Scientist | London, UK | posted: 2026-08-07
+- [ ] https://www.adzuna.co.uk/jobs/details/5891559320?utm_medium=api&utm_source=dc96cb17 | IRE | Data Scientist | UK | posted: 2026-09-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5840375401?utm_medium=api&utm_source=dc96cb17 | Oddschecker | Data Scientist | Waterloo, South East London | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/details/5844306769?utm_medium=api&utm_source=dc96cb17 | Tripledot Studios | Data Scientist | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5834872844?utm_medium=api&utm_source=dc96cb17 | Anaplan | Data Scientist | London, UK | posted: 2026-08-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5834865415?utm_medium=api&utm_source=dc96cb17 | Dojo | Data Scientist | London, UK | posted: 2026-08-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5879942887?utm_medium=api&utm_source=dc96cb17 | THG Ingenuity | Data Scientist | Manchester, Greater Manchester | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5894793984?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Data Scientist | Sheffield, South Yorkshire | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/details/5843205219?utm_medium=api&utm_source=dc96cb17 | ONI | Data Scientist | Oxford, Oxfordshire | posted: 2026-08-15
+- [ ] https://www.adzuna.co.uk/jobs/details/5891559563?utm_medium=api&utm_source=dc96cb17 | Octopus Energy Group | Data Scientist | London, UK | posted: 2026-09-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5834880667?utm_medium=api&utm_source=dc96cb17 | Dojo | Data Scientist | London, UK | posted: 2026-08-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5829338927?utm_medium=api&utm_source=dc96cb17 | MarketCast | Data Scientist II - Data Science Consulting | Reading, Berkshire | posted: 2026-08-05
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5878833135?se=qjbojWe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=8BB887589552F753C0251888D6182844B52DC0B6 | Executive Facilities | Data Scientist - BAU Analytics | London, UK | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5877237418?se=qjbojWe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=B8D8B4A6459B25EFB62A8A974CA1C2A7FADC37C7 | The Walt Disney Company | Senior Data Scientist | UK | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5853708327?se=qjbojWe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=8F2F34A5E3793339247AAA83A7BF410BC8CBC6C0 | Capita | Senior Data Scientist | UK | posted: 2026-08-23
+- [ ] https://www.adzuna.co.uk/jobs/details/5838476915?utm_medium=api&utm_source=dc96cb17 | Bjak | LLM Application Engineer | London, UK | posted: 2026-08-12
+- [ ] https://www.adzuna.co.uk/jobs/details/5843811513?utm_medium=api&utm_source=dc96cb17 | Mercor | LLM Agent Engineer - Production | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5851856849?utm_medium=api&utm_source=dc96cb17 | Mercor | LLM Agent Engineer - Specialist | London, UK | posted: 2026-08-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5890307983?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=5CC0430FFBE5B63CF8879CB8A2298A361650DA01 | Hackajob Ltd | Lead Software Engineer - LLM Ops Platform Reliability | Glasgow, Scotland | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856591509?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=9973519A5EA48DF5D48E439895F08A0CD0F37222 | Hackajob Ltd | Senior Lead Software Engineer - LLM Ops Platform Reliability | Glasgow, Scotland | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/details/5843811520?utm_medium=api&utm_source=dc96cb17 | Mercor | LLM Systems Engineer - Fully Remote | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893792295?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=46015CDD0C21934DA0A72F9AD50FF8A6B15BE002 | Hackajob Ltd | Senior Lead Software Engineer - LLM Ops Platform Reliability | UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5887689622?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=13E30CD4D73BD2D508639F57B77F5AAF2D1E387F | INTEC SELECT LIMITED | AI Engineer - LLM & Agentic Systems | London, UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5877266529?utm_medium=api&utm_source=dc96cb17 | Isomorphic Labs | Research Engineer (LLM Performance), London | London, UK | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5888665731?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=3237B550D3CEAC45ACEB804811DB39586A196579 | Client Server | Founding Engineer Python API LLM - Start-up | Monument, Central London | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5891622399?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Lead Software Engineer - LLM Ops Platform Reliability | Broadgate, Central London | posted: 2026-09-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5890527058?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Senior Lead Software Engineer LLM Ops Platform | Broadgate, Central London | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5887356883?utm_medium=api&utm_source=dc96cb17 | Weekday AI | MLOps Engineer, LLM Systems (Serving, GPU Kernels, Profiling) | UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5888197285?utm_medium=api&utm_source=dc96cb17 | Client Server | Founding Engineer Python API LLM - Start-up | The City, Central London | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5886325836?utm_medium=api&utm_source=dc96cb17 | Concept Resourcing | AI Evaluation Engineer | London, UK | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5848161950?utm_medium=api&utm_source=dc96cb17 | Xenon7 | Agentforce AI Maestro | UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5886129236?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=920D799A7B6794E4F2386370007FF43D41C1C338 | TXP | AI Evaluation Engineer | Farringdon, Central London | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5875799149?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=0A5961673033A0225B5E2824ACE4B2D9A04741A2 | SR2 | Forward-Deployed AI Engineer | London, UK | posted: 2026-09-08
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893051260?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=AB968453B59A182830897D68AA4ADA019D58918B | CBSbutler Holdings Limited trading as CBSbutler | Cyber AI Engineer - Remote | Farringdon, Central London | posted: 2026-09-21
+- [ ] https://www.adzuna.co.uk/jobs/details/5893862740?utm_medium=api&utm_source=dc96cb17 | CBSbutler Holdings Limited trading as CBSbutler | Cyber AI Engineer - Remote | West End, West London | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5875799557?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=19FF7923EEE8581B3E4FD7A1D585A1CA9CAB04AE | Deerfoot Recruitment Solutions Limited | Senior AI Engineer - Consulting | The City, Central London | posted: 2026-09-08
+- [ ] https://www.adzuna.co.uk/jobs/details/5849864030?utm_medium=api&utm_source=dc96cb17 | Theia Insights | Software Engineer: Applied NLP/ML and Data Systems (Mid-career / Senior) | London, UK | posted: 2026-08-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5849864026?utm_medium=api&utm_source=dc96cb17 | Theia Insights | Software Engineer: Applied NLP/ML and Data Systems (Mid-career / Senior) | Cambridge, Cambridgeshire | posted: 2026-08-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5886792814?utm_medium=api&utm_source=dc96cb17 | DL Remote | AI Engineer | Chalk Farm, North West London | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5859765718?utm_medium=api&utm_source=dc96cb17 | NewRocket | Forward Deployed AI Engineer-Anthropic-Netherlands/Western Europe | UK | posted: 2026-08-28
+- [ ] https://www.adzuna.co.uk/jobs/details/5861233145?utm_medium=api&utm_source=dc96cb17 | NewRocket | Senior/Lead Forward Deployed AI Engineer-Anthropic-UK | UK | posted: 2026-08-29
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5852253688?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=F180908499ACCF39755C700F25660077D08317B2 | Tribe Appointments Ltd | Senior AI Developer | Reading, Berkshire | posted: 2026-08-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5895161683?se=kJ45j2e38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=986511B8347A1CE2AF243A2FD9F450A020171C20 | Intec Select Ltd | Agentic Forward Deployed Engineer | London, UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/details/5890525493?utm_medium=api&utm_source=dc96cb17 | The Portfolio Group | Senior AI Engineer - Agentic & Generative AI | Manchester Science Park, Manchester | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5885091716?utm_medium=api&utm_source=dc96cb17 | Alteam | Senior Product Growth (AI startup) | London, UK | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5889704742?se=gCgKkGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=71EF9A67F78E16B1857A9DF2A2F2402A15F04023 | The Portfolio Group | Senior AI Engineer - Agentic & Generative AI | Manchester, Greater Manchester | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5889526154?se=gCgKkGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=32EEE4EBDE01458BB870094AD8471D5398B93855 | The Portfolio Group | Senior AI Engineer - Agentic & Generative AI | Rusholme, Manchester | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5890525835?utm_medium=api&utm_source=dc96cb17 | Sanderson Recruitment | Senior AI Engineer | Tyndalls Park, Bristol | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5865317097?utm_medium=api&utm_source=dc96cb17 | Cheerful Monster | Senior AI-Native Product Engineer | London, UK | posted: 2026-09-01
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5873277351?se=gCgKkGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=0E8355D3DC75AC6E3E2729EAA0CA45DBA7FB991E | Anson Mccade | Machine Learning Engineer | London, UK | posted: 2026-09-06
+- [ ] https://www.adzuna.co.uk/jobs/details/5873173797?utm_medium=api&utm_source=dc96cb17 | Careerwise UK | Forward Deployed Software Engineer - Claude | London, UK | posted: 2026-09-06
+- [ ] https://www.adzuna.co.uk/jobs/details/5894314108?utm_medium=api&utm_source=dc96cb17 | Exalto Consulting ltd | Senior AI Engineer/Scientist - Remote (UK) - Outside IR35 | UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5858382623?utm_medium=api&utm_source=dc96cb17 | NewRocket | Agentic AI Architect-Anthropic-UK | UK | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/details/5848426815?utm_medium=api&utm_source=dc96cb17 | Sedona Digital | Senior Data Scientist | UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5889028417?utm_medium=api&utm_source=dc96cb17 | SnapLogic | Forward Deployed Engineer | UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5848426784?utm_medium=api&utm_source=dc96cb17 | Sedona Digital | Lead Data Scientist | UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5822581648?utm_medium=api&utm_source=dc96cb17 | Equinix | Staff / Senior Staff Engineer, AI Agent Engineering | London, UK | posted: 2026-07-31
+- [ ] https://www.adzuna.co.uk/jobs/details/5867642848?utm_medium=api&utm_source=dc96cb17 | Total Recruitment Group | AI Software Engineer | South West London, London | posted: 2026-09-02
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5895068294?se=gCgKkGe38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=E596DE5AB9C7987C3E52727B04B13937F8CF550A | Vbeyond | Oracle AI Functional Architect | London, UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/details/5890528629?utm_medium=api&utm_source=dc96cb17 | Adecco | AI Engineer - Manchester | Hulme, Manchester | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5853628598?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=9E580B65F0029C85878734CBFE08946F6DC00228 | MarkIT Placements | Forward Deployed Engineer | St. James, Bristol | posted: 2026-08-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856135510?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=DBDAAC9EE0BF4630673742192ABC5D845BB4FB4D | Hackajob Ltd | Forward Deployed Engineer | Ormeau, Belfast | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856134375?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=5428520B68D2562DD28DA54594554AC1CFEE6DD4 | Hackajob Ltd | Forward Deployed Engineer | South East London, London | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5855112433?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=55C34C73235F805086E27489C5865DD1B7348491 | Hackajob Ltd | Forward Deployed Engineer | South East London, London | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856593398?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=00324D47F9D63DF3904FB0366ACAC6173F149713 | Hackajob Ltd | Forward Deployed Engineer - Specialist (Palantir) | Charing Cross, Central London | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5878938254?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=71915B11F74B471F6B23EAA1079CB1448FBFE634 | EUROPEAN SOFTWARE SOLUTIONS LIMITED | Senior Forward Deployed Engineer - Energy | South East London, London | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856591543?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=4C9131F41F174C5177AE913189B8C5221C57695C | Hackajob Ltd | Workday EDM Forward Deployed Engineer (HCM Consultant) | Ormeau, Belfast | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5856595572?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=AD851309FCE1CFA60BF5E02C00BEBC6B98E19101 | Hackajob Ltd | Forward Deployed AI Engineer | South East London, London | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/details/5894631525?utm_medium=api&utm_source=dc96cb17 | RemoteJobsOne | Forward Deployed Engineer | London, UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/details/5885138231?utm_medium=api&utm_source=dc96cb17 | IFS | Forward Deployed Engineer | London, UK | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/details/5865165776?utm_medium=api&utm_source=dc96cb17 | CloudFactory | Forward Deployed Engineer | Reading, Berkshire | posted: 2026-09-01
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5851148574?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=0DC05BFCEB3F254A77ED6F042820A56B51612A08 | Rowden | Forward Deployed Engineer | Stockland Bristol, Bridgwater | posted: 2026-08-21
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5870167714?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=596BB386AD272B83B092111C9061BA898DC796DB | Fruition Group | Forward Deployed AI Engineer | Holbeck, Leeds | posted: 2026-09-04
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5893822151?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=1B31DA8A399D21A62186DA272B3CF99A1736906E | Noir | Forward Deployed Engineer | London, UK | posted: 2026-09-22
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5877463180?se=VOSckGe38RGSw_idrygsNg&utm_medium=api&utm_source=dc96cb17&v=0B219A5B8086F32758E6D83FE267C44C5D5882A7 | Avanti Recruitment | Forward Deployed Engineer | Camden, North West London | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5877109371?utm_medium=api&utm_source=dc96cb17 | Harrington Starr | Forward Deployed Engineer | London, UK | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5833779647?utm_medium=api&utm_source=dc96cb17 | Coveo | Forward Deployed Engineer | London, UK | posted: 2026-08-08
+- [ ] https://www.adzuna.co.uk/jobs/details/5854583137?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Forward Deployed Engineer | Belfast, Northern Ireland | posted: 2026-08-24
+- [ ] https://www.adzuna.co.uk/jobs/details/5834880773?utm_medium=api&utm_source=dc96cb17 | Chalk | Forward Deployed Engineer | London, UK | posted: 2026-08-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5859769197?utm_medium=api&utm_source=dc96cb17 | Nevis Wealth | Forward Deployed Engineer | London, UK | posted: 2026-08-28
+- [ ] https://www.adzuna.co.uk/jobs/details/5844306159?utm_medium=api&utm_source=dc96cb17 | Seamflow | Forward Deployed Engineer | London, UK | posted: 2026-08-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5856974736?utm_medium=api&utm_source=dc96cb17 | Bluprintx | Forward Deployed Engineer | London, UK | posted: 2026-08-26
+- [ ] https://www.adzuna.co.uk/jobs/details/5885916885?utm_medium=api&utm_source=dc96cb17 | Anthropic | Forward Deployed Engineer | London, UK | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5858386751?utm_medium=api&utm_source=dc96cb17 | Orbital Industries | Forward Deployed Engineer | Lea Bridge, East London | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/details/5889012217?utm_medium=api&utm_source=dc96cb17 | HASH | Forward-Deployed Engineer | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5846040610?utm_medium=api&utm_source=dc96cb17 | MarkIT Placements | Forward Deployed Engineer | Bristol, South West England | posted: 2026-08-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5854583528?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Forward Deployed Engineer | London, UK | posted: 2026-08-24
+- [ ] https://www.adzuna.co.uk/jobs/details/5821352295?utm_medium=api&utm_source=dc96cb17 | Zencargo | Forward-Deployed Engineer | Farringdon, Central London | posted: 2026-07-30
+- [ ] https://www.adzuna.co.uk/jobs/details/5843161934?utm_medium=api&utm_source=dc96cb17 | zaimler | Forward Deployed Engineer | London, UK | posted: 2026-08-15
+- [ ] https://www.adzuna.co.uk/jobs/details/5834874444?utm_medium=api&utm_source=dc96cb17 | Applied Intuition | Forward Deployed Engineer | London, UK | posted: 2026-08-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5855329341?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Forward Deployed Engineer | London, UK | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5833782705?utm_medium=api&utm_source=dc96cb17 | Happyrobot | Forward Deployed Engineer | London, UK | posted: 2026-08-08
+- [ ] https://www.adzuna.co.uk/jobs/details/5855328675?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Forward Deployed Engineer | London, UK | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5836835724?utm_medium=api&utm_source=dc96cb17 | Pace | Forward Deployed Engineer | London, UK | posted: 2026-08-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5854447114?utm_medium=api&utm_source=dc96cb17 | LGT Bank | Forward Deployed Engineer | London, UK | posted: 2026-08-24
+- [ ] https://www.adzuna.co.uk/jobs/details/5834871322?utm_medium=api&utm_source=dc96cb17 | Frontier Health | Forward Deployed Engineer | London, UK | posted: 2026-08-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5891558068?utm_medium=api&utm_source=dc96cb17 | Faculty AI | Forward Deployed Engineer | London, UK | posted: 2026-09-20
+- [ ] https://www.adzuna.co.uk/jobs/details/5890526286?utm_medium=api&utm_source=dc96cb17 | MarkIT Placements | Forward Deployed Engineer | Spital Tongues, Newcastle Upon Tyne | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5874170586?utm_medium=api&utm_source=dc96cb17 | Transparency Technology | Forward Deployed Engineer - London | London, UK | posted: 2026-09-07
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5895161683?se=fCFpkWe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=986511B8347A1CE2AF243A2FD9F450A020171C20 | Intec Select Ltd | Agentic Forward Deployed Engineer | London, UK | posted: 2026-09-23
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5878796893?se=fCFpkWe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=F3FC4CF4C5BABCDAD0F4C40B05F0C96355966201 | coforge | Senior Forward Deployed Engineer | Farringdon, Central London | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5859761290?utm_medium=api&utm_source=dc96cb17 | Orbital Industries | Forward Deployed Engineering Lead | Lea Bridge, East London | posted: 2026-08-28
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5869443218?se=fCFpkWe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=7BCA1224B054BB942972806F9B4234CE5230EA60 | Circle Recruitment | Forward Deployed Engineer - Cardiff | Cardiff County, Wales | posted: 2026-09-03
+- [ ] https://www.adzuna.co.uk/jobs/details/5872118473?utm_medium=api&utm_source=dc96cb17 | SYSPRO | Forward Deployed Engineer, Torque | UK | posted: 2026-09-05
+- [ ] https://www.adzuna.co.uk/jobs/details/5827093029?utm_medium=api&utm_source=dc96cb17 | 167 Solutions Ltd | Forward Deployed Engineer AI | Bristol, South West England | posted: 2026-08-04
+- [ ] https://www.adzuna.co.uk/jobs/details/5852576674?utm_medium=api&utm_source=dc96cb17 | Redpanda Data | Forward Deployed Engineer - EMEA | UK | posted: 2026-08-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5879875078?utm_medium=api&utm_source=dc96cb17 | Mimecast | Senior Forward Deployed Engineer | London, UK | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5873201095?utm_medium=api&utm_source=dc96cb17 | Telnyx | Forward Deployed Engineer, UKI | London, UK | posted: 2026-09-06
+- [ ] https://www.adzuna.co.uk/jobs/details/5834872523?utm_medium=api&utm_source=dc96cb17 | OpenAI Deployment Company | Forward Deployed Engineer - UK | London, UK | posted: 2026-08-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5843165432?utm_medium=api&utm_source=dc96cb17 | Exa | Forward Deployed Engineer, EMEA | London, UK | posted: 2026-08-15
+- [ ] https://www.adzuna.co.uk/jobs/details/5889040011?utm_medium=api&utm_source=dc96cb17 | Luma | Forward Deployed Engineer (EU) | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5836222037?utm_medium=api&utm_source=dc96cb17 | NTT America, Inc. | Forward-Deployed Engineer (FDE) | London, UK | posted: 2026-08-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5840429642?utm_medium=api&utm_source=dc96cb17 | Finbourne Technology | Forward Deployed Engineer - Senior | St Paul's, Central London | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/details/5862285704?utm_medium=api&utm_source=dc96cb17 | Apollo Research | Forward Deployed Engineer (Product) | London, UK | posted: 2026-08-30
+- [ ] https://www.adzuna.co.uk/jobs/details/5858384372?utm_medium=api&utm_source=dc96cb17 | Runpod | Forward Deployed Engineer EMEA | UK | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/details/5829335285?utm_medium=api&utm_source=dc96cb17 | Matillion | Staff Forward Deployed Engineer | Manchester, Greater Manchester | posted: 2026-08-05
+- [ ] https://www.adzuna.co.uk/jobs/details/5848542532?utm_medium=api&utm_source=dc96cb17 | Kinaxis Inc. | Forward Deployed Engineer I | UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5851146982?utm_medium=api&utm_source=dc96cb17 | Scope AI | Senior Forward Deployed Engineer | London, UK | posted: 2026-08-21
+- [ ] https://www.adzuna.co.uk/jobs/details/5890529528?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Forward Deployed Engineer - Specialist | Hyde Park, Leeds | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5878831917?se=fCFpkWe38RG0s7xl9OR6fQ&utm_medium=api&utm_source=dc96cb17&v=76CEAC30C6D71DF018DA235BCBE065096D7009F2 | Infoplus Technologies UK Limited | Senior Forward Deployed Engineer (Energy) | London, UK | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5822566288?utm_medium=api&utm_source=dc96cb17 | Databricks | Forward Deployed Engineering - Senior Architect | London, UK | posted: 2026-07-31
+- [ ] https://www.adzuna.co.uk/jobs/details/5878630391?utm_medium=api&utm_source=dc96cb17 | supermodular.ai | Senior Forward Deployed Engineer / UK | London, UK | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5838481161?utm_medium=api&utm_source=dc96cb17 | Warner Music Group | Forward Deployed Engineer, Data & AI | London, UK | posted: 2026-08-12
+- [ ] https://www.adzuna.co.uk/jobs/details/5840374583?utm_medium=api&utm_source=dc96cb17 | TP ICAP | Senior Forward Deployed Engineer (AI) | London, UK | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/details/5855328582?utm_medium=api&utm_source=dc96cb17 | Hackajob Ltd | Forward Deployed Engineer - Specialist (Palantir) | South West London, London | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5853010727?utm_medium=api&utm_source=dc96cb17 | Accenture | Forward Deployed Engineer - Specialist (Palantir) | London, UK | posted: 2026-08-22
+- [ ] https://www.adzuna.co.uk/jobs/details/5893009961?utm_medium=api&utm_source=dc96cb17 | Park Lane Recruitment | Forward Deployed Engineer - New York City | UK | posted: 2026-09-21
+- [ ] https://www.adzuna.co.uk/jobs/details/5887470813?utm_medium=api&utm_source=dc96cb17 | Sardine | Forward Deployed Engineer, Integrations - EU/UK | UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5867252834?utm_medium=api&utm_source=dc96cb17 | forgd | Forward Deployed Engineer (FDE): United Kingdom | UK | posted: 2026-09-02
+- [ ] https://www.adzuna.co.uk/jobs/details/5878705652?utm_medium=api&utm_source=dc96cb17 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5887469026?utm_medium=api&utm_source=dc96cb17 | Kyndryl | Forward Deployed Engineer - Lead Platform Engineer | London, UK | posted: 2026-09-17
+- [ ] https://www.adzuna.co.uk/jobs/details/5888511584?utm_medium=api&utm_source=dc96cb17 | Kyndryl | Forward Deployed Engineer - Lead Platform Engineer | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5876748191?se=HiEwkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=AA9B0A31DBFE630DD7E3AF791559D00C5AD66BE0 | Sanderson Government and Defence | GenAI Fullstack Engineer | Bristol, South West England | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5883859308?se=HiEwkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=E05F64ABD48C11D1BD9A76A5C5B1159C7B093973 | Tec Partners Recruitment Ltd | GenAI Engineer | Farringdon, Central London | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/details/5869788654?utm_medium=api&utm_source=dc96cb17 | NTT America, Inc. | GenAI developer | London, UK | posted: 2026-09-04
+- [ ] https://www.adzuna.co.uk/jobs/details/5886576207?utm_medium=api&utm_source=dc96cb17 | Infinity Quest UK | Gouvernance AI/GenAI | UK | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5846919208?utm_medium=api&utm_source=dc96cb17 | ADTM Adenza Technology de Mexico S de RL de CV | GenAI Solutions Specialist | Bishopsgate, Central London | posted: 2026-08-18
+- [ ] https://www.adzuna.co.uk/jobs/details/5836839240?utm_medium=api&utm_source=dc96cb17 | AIG Insurance | Data Scientist, GenAI | London, UK | posted: 2026-08-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5855004414?utm_medium=api&utm_source=dc96cb17 | Sanderson Government and Defence | GenAI Fullstack Engineer | UK | posted: 2026-08-25
+- [ ] https://www.adzuna.co.uk/jobs/details/5883842038?utm_medium=api&utm_source=dc96cb17 | Infinity Quest UK | GCP GenAI Architect Bristol | UK | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/details/5890396434?utm_medium=api&utm_source=dc96cb17 | Pigment | Senior GenAI Engineer (UK) | London, UK | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5861732713?utm_medium=api&utm_source=dc96cb17 | Citigroup | GenAI Full-Stack Engineer | London, UK | posted: 2026-08-30
+- [ ] https://www.adzuna.co.uk/jobs/details/5847552018?utm_medium=api&utm_source=dc96cb17 | Capgemini | Agentic / GenAI Consultant / Senior Consultant | London, UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5837707695?utm_medium=api&utm_source=dc96cb17 | AWS EMEA SARL | Senior GenAI Infra Specialist, WWSO Startups | London, UK | posted: 2026-08-12
+- [ ] https://www.adzuna.co.uk/jobs/details/5840388639?utm_medium=api&utm_source=dc96cb17 | Amazon | Senior GenAI Infra Specialist, WWSO Startups | London, UK | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/details/5839158456?utm_medium=api&utm_source=dc96cb17 | Amazon | Senior GenAI Infra Specialist, WWSO Startups | London, UK | posted: 2026-08-13
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5879676692?se=HiEwkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=98766205302B005F0A97831EE756E6D04B2CFA40 | Pracyva ltd | Senior Architect – GCP , GenAI & Agentic AI | UK | posted: 2026-09-11
+- [ ] https://www.adzuna.co.uk/jobs/details/5841093420?utm_medium=api&utm_source=dc96cb17 | Citigroup | SVP - GenAI Full-Stack Engineer Lead | London, UK | posted: 2026-08-14
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5877134496?se=HiEwkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=7DDBF999E16779E50BF4F26CFF35F64BE80BABD9 | Tenth Revolution Group | AWS GenAI Solution Architect - Insurance - London - £100K | London, UK | posted: 2026-09-09
+- [ ] https://www.adzuna.co.uk/jobs/details/5848037088?utm_medium=api&utm_source=dc96cb17 | Google | Software Engineer III, GenAI Data Operations Research, XR | London, UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5847552301?utm_medium=api&utm_source=dc96cb17 | Capgemini | GenAI Full Stack Engineer - Managing Consultant - Digital Excellence | Manchester, Greater Manchester | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5847552309?utm_medium=api&utm_source=dc96cb17 | Capgemini | GenAI Full Stack Engineer - Consultant / Senior Consultant - Digital Excellence | UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5847555597?se=HiEwkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=692D85A0B5B5B13BDBE362A9E752F844FC955FBD | Anson Mccade | AI Consultant | South East London, London | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5869482315?se=HiEwkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=A8F2B749CE06E6CBA58EF227BE070C398132E463 | 83zero Limited | AI Engineer Healthecare | UK | posted: 2026-09-03
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5883457497?se=ntnEkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=74E3BBBBEB39FE256E2F765D53E5C0E45977DF7D | Hackajob Ltd | Lead AI Engineer | UK | posted: 2026-09-14
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5873277351?se=ntnEkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=0E8355D3DC75AC6E3E2729EAA0CA45DBA7FB991E | Anson Mccade | Machine Learning Engineer | London, UK | posted: 2026-09-06
+- [ ] https://www.adzuna.co.uk/jobs/details/5880295998?utm_medium=api&utm_source=dc96cb17 | Kryptos Technologies limited | AWS AI Solution Architect ( Application & Solutions Development) | Borough, South East London | posted: 2026-09-12
+- [ ] https://www.adzuna.co.uk/jobs/details/5858126121?utm_medium=api&utm_source=dc96cb17 | Searchability Ltd | eDV Data Scientist | The City, Central London | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/details/5858126117?utm_medium=api&utm_source=dc96cb17 | Searchability Ltd | eDV Data Scientist | Manchester, Greater Manchester | posted: 2026-08-27
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5873933691?se=ntnEkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=DBCD3D1F2AB1F6E641B81AD47B37E3F67D8DF3D4 | Lynx Recruitment Ltd | AI Engineer | London, UK | posted: 2026-09-07
+- [ ] https://www.adzuna.co.uk/jobs/details/5847551869?utm_medium=api&utm_source=dc96cb17 | Capgemini | Gen AI Architect | London, UK | posted: 2026-08-19
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5884783394?se=ntnEkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=9ECDEFE2653FB3ECCD482AECE880833A187AA3FD | Deerfoot Recruitment Solutions Limited | Senior Data Science Consultant | Farringdon, Central London | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5884860842?se=ntnEkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=484B41A4B72BB62F9CCB55C736F12151739FBA42 | Deerfoot Recruitment Solutions Ltd | Data Science & AI Senior Consultant | London, UK | posted: 2026-09-15
+- [ ] https://www.adzuna.co.uk/jobs/details/5885650484?utm_medium=api&utm_source=dc96cb17 | Emporia Consulting Group Limited | Senior AI Platform Engineer | The City, Central London | posted: 2026-09-16
+- [ ] https://www.adzuna.co.uk/jobs/details/5873569845?utm_medium=api&utm_source=dc96cb17 | Opus Resourcing Ltd | AI Platform Engineer | London, UK | posted: 2026-09-07
+- [ ] https://www.adzuna.co.uk/jobs/details/5878699224?utm_medium=api&utm_source=dc96cb17 | Amazon | Senior Specialist PhysicalAI & Models, WWSO Startups | London, UK | posted: 2026-09-10
+- [ ] https://www.adzuna.co.uk/jobs/details/5888522330?utm_medium=api&utm_source=dc96cb17 | William Alexander | Senior Applied AI Engineer | London, UK | posted: 2026-09-18
+- [ ] https://www.adzuna.co.uk/jobs/land/ad/5875604455?se=ntnEkme38RGEFfcsPVkEmw&utm_medium=api&utm_source=dc96cb17&v=9EA203072278639D6EFFF00F14C8C0A7D5C3EF27 | McGregor Boyall | AI Engineer | Manchester, Greater Manchester | posted: 2026-09-08
+- [ ] https://www.adzuna.co.uk/jobs/details/5824433775?utm_medium=api&utm_source=dc96cb17 | EXL | AI Developer & .NET developer | London, UK | posted: 2026-08-01
+- [ ] https://www.adzuna.co.uk/jobs/details/5870765473?utm_medium=api&utm_source=dc96cb17 | Motorway | Lead Generative AI Engineer | London, UK | posted: 2026-09-04
+- [ ] https://www.adzuna.co.uk/jobs/details/5890402318?utm_medium=api&utm_source=dc96cb17 | Anaplan | QA Automation Engineer - AI | London, UK | posted: 2026-09-19
+- [ ] https://www.adzuna.co.uk/jobs/details/5847800771?utm_medium=api&utm_source=dc96cb17 | Anson Mccade | AI Consultant | London, UK | posted: 2026-08-19
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Forward-Deployed-Engineer_JR346373 | Salesforce | Forward Deployed Engineer | United Kingdom - London | posted: 2026-09-17
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Forward-Deployed-Engineer_JR357424-1 | Salesforce | Forward Deployed Engineer - Greek, Turkish | Ireland - Dublin | posted: 2026-09-17
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Data360-FDE_JR357933-1 | Salesforce | Data360 FDE | United Kingdom - London | posted: 2026-08-27
+- [ ] https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Agentforce-Operations-FDE_JR357941 | Salesforce | Agentforce Operations FDE | United Kingdom - London | posted: 2026-08-27
+
 ## Processed

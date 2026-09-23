@@ -1,9 +1,9 @@
 {
-  "title": "**AI Engineer  Updated|  Production LLM Systems · Multi-Agent Pipelines · RAG · Fine-Tuning · Self-Hosted GPU Serving**",
+  "title": "**AI Engineer|  Production LLM Systems · Multi-Agent Pipelines · RAG · Fine-Tuning · Self-Hosted GPU Serving**",
   "profile": "AI Engineer with almost three years’ experience building LLM systems that run in production. Currently leading the AI transformation at JudgeService Research Ltd: adding LLM features to the company’s review-analytics platform and building new AI products for the UK automotive sector, including a paid review-response service used by **200+** dealerships across the UK (**100k+** reviews a month, **93%** of drafts published unedited) and a multi-agent sentiment pipeline analysing **30,000** reviews a week. Hands-on across the whole stack: multi-agent design, fine-tuning (LoRA/QLoRA), RAG, evaluation, and keeping self-hosted GPU models running reliably.",
   "skills": [
     {
-      "label": "LLM Engineering Updated",
+      "label": "LLM Engineering",
       "items": "multi-agent systems, RAG, prompt and few-shot engineering, structured JSON output (Pydantic), LLM-as-a-judge, hallucination guards, evaluation-set design"
     },
     {
