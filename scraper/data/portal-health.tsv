@@ -1888,3 +1888,281 @@ timestamp	company	status
 2026-09-23T16:11:09.978Z	Jobicy (UK remote)	reachable
 2026-09-23T16:11:09.978Z	Adzuna (UK)	reachable
 2026-09-23T16:11:09.978Z	Reed.co.uk	reachable
+2026-09-25T08:00:06.440Z	Google	reachable
+2026-09-25T08:00:06.440Z	Google (Data Science)	reachable
+2026-09-25T08:00:06.440Z	Microsoft	reachable
+2026-09-25T08:00:06.440Z	Microsoft (Machine Learning)	reachable
+2026-09-25T08:00:06.440Z	Microsoft (Data Science)	reachable
+2026-09-25T08:00:06.440Z	NVIDIA	reachable
+2026-09-25T08:00:06.440Z	Amazon / AWS (UK)	reachable
+2026-09-25T08:00:06.440Z	Databricks	reachable
+2026-09-25T08:00:06.440Z	BenevolentAI	empty
+2026-09-25T08:00:06.440Z	Recursion (Exscientia)	reachable
+2026-09-25T08:00:06.440Z	Healx	reachable
+2026-09-25T08:00:06.440Z	Gigaton	reachable
+2026-09-25T08:00:06.440Z	Darktrace	reachable
+2026-09-25T08:00:06.440Z	Antiverse	reachable
+2026-09-25T08:00:06.440Z	Datadog	reachable
+2026-09-25T08:00:06.440Z	GitLab	reachable
+2026-09-25T08:00:06.440Z	Elastic	reachable
+2026-09-25T08:00:06.440Z	Figma	reachable
+2026-09-25T08:00:06.440Z	xAI	reachable
+2026-09-25T08:00:06.440Z	Airbnb	reachable
+2026-09-25T08:00:06.440Z	Scale AI	reachable
+2026-09-25T08:00:06.440Z	Graphcore	reachable
+2026-09-25T08:00:06.440Z	Deliveroo	reachable
+2026-09-25T08:00:06.440Z	Notion	reachable
+2026-09-25T08:00:06.440Z	Harvey	reachable
+2026-09-25T08:00:06.440Z	Cursor	reachable
+2026-09-25T08:00:06.440Z	AstraZeneca	reachable
+2026-09-25T08:00:06.440Z	GSK	reachable
+2026-09-25T08:00:06.440Z	Dyson	reachable
+2026-09-25T08:00:06.440Z	Sky	reachable
+2026-09-25T08:00:06.440Z	Anthropic	reachable
+2026-09-25T08:00:06.440Z	OpenAI	reachable
+2026-09-25T08:00:06.440Z	PolyAI	reachable
+2026-09-25T08:00:06.440Z	Parloa	reachable
+2026-09-25T08:00:06.440Z	Intercom	reachable
+2026-09-25T08:00:06.440Z	Hume AI	reachable
+2026-09-25T08:00:06.440Z	ElevenLabs	reachable
+2026-09-25T08:00:06.440Z	Deepgram	reachable
+2026-09-25T08:00:06.440Z	Vapi	reachable
+2026-09-25T08:00:06.440Z	Bland AI	reachable
+2026-09-25T08:00:06.440Z	Retool	reachable
+2026-09-25T08:00:06.440Z	Gem	reachable
+2026-09-25T08:00:06.440Z	Airtable	reachable
+2026-09-25T08:00:06.440Z	Vercel	reachable
+2026-09-25T08:00:06.440Z	Temporal	slug_gone
+2026-09-25T08:00:06.440Z	Arize AI	reachable
+2026-09-25T08:00:06.440Z	RunPod	slug_gone
+2026-09-25T08:00:06.440Z	Weights & Biases (CoreWeave)	reachable
+2026-09-25T08:00:06.440Z	Glean	reachable
+2026-09-25T08:00:06.440Z	Ada	slug_gone
+2026-09-25T08:00:06.440Z	Sierra	reachable
+2026-09-25T08:00:06.440Z	Decagon	reachable
+2026-09-25T08:00:06.440Z	Talkdesk	reachable
+2026-09-25T08:00:06.440Z	Twilio	reachable
+2026-09-25T08:00:06.440Z	Dialpad	reachable
+2026-09-25T08:00:06.440Z	Genesys	reachable
+2026-09-25T08:00:06.440Z	Salesforce	reachable
+2026-09-25T08:00:06.440Z	Lindy	slug_gone
+2026-09-25T08:00:06.440Z	Speechmatics	reachable
+2026-09-25T08:00:06.440Z	n8n	reachable
+2026-09-25T08:00:06.440Z	Zapier	reachable
+2026-09-25T08:00:06.440Z	Boomi	reachable
+2026-09-25T08:00:06.440Z	Cohere	reachable
+2026-09-25T08:00:06.440Z	LangChain	reachable
+2026-09-25T08:00:06.440Z	Pinecone	reachable
+2026-09-25T08:00:06.440Z	Mistral AI	reachable
+2026-09-25T08:00:06.440Z	Attio	reachable
+2026-09-25T08:00:06.440Z	Tinybird	slug_gone
+2026-09-25T08:00:06.440Z	Clarity AI	slug_gone
+2026-09-25T08:00:06.440Z	Travelperk	reachable
+2026-09-25T08:00:06.440Z	Aleph Alpha	reachable
+2026-09-25T08:00:06.440Z	DeepL	reachable
+2026-09-25T08:00:06.440Z	Black Forest Labs	slug_gone
+2026-09-25T08:00:06.440Z	Celonis	reachable
+2026-09-25T08:00:06.440Z	Contentful	reachable
+2026-09-25T08:00:06.440Z	GetYourGuide	reachable
+2026-09-25T08:00:06.440Z	HelloFresh	reachable
+2026-09-25T08:00:06.440Z	Forto	reachable
+2026-09-25T08:00:06.440Z	Lakera	empty
+2026-09-25T08:00:06.440Z	Scandit	reachable
+2026-09-25T08:00:06.440Z	Cradle	reachable
+2026-09-25T08:00:06.440Z	Hugging Face	reachable
+2026-09-25T08:00:06.440Z	Photoroom	reachable
+2026-09-25T08:00:06.440Z	Pigment	reachable
+2026-09-25T08:00:06.440Z	Diabolocom	reachable
+2026-09-25T08:00:06.440Z	Wayve	reachable
+2026-09-25T08:00:06.440Z	Isomorphic Labs	reachable
+2026-09-25T08:00:06.440Z	PhysicsX	reachable
+2026-09-25T08:00:06.440Z	Stability AI	reachable
+2026-09-25T08:00:06.440Z	Synthesia	reachable
+2026-09-25T08:00:06.440Z	Faculty	reachable
+2026-09-25T08:00:06.440Z	Causaly	reachable
+2026-09-25T08:00:06.440Z	Lovable	reachable
+2026-09-25T08:00:06.440Z	Legora	reachable
+2026-09-25T08:00:06.440Z	Spotify	reachable
+2026-09-25T08:00:06.440Z	Bolt	empty
+2026-09-25T08:00:06.440Z	Zendesk	reachable
+2026-09-25T08:00:06.440Z	Hotjar	reachable
+2026-09-25T08:00:06.440Z	Toggl	empty
+2026-09-25T08:00:06.440Z	Doist	empty
+2026-09-25T08:00:06.440Z	Corti	reachable
+2026-09-25T08:00:06.440Z	Templafy	slug_gone
+2026-09-25T08:00:06.440Z	Amplemarket	reachable
+2026-09-25T08:00:06.440Z	Perplexity	reachable
+2026-09-25T08:00:06.440Z	Clay Labs	reachable
+2026-09-25T08:00:06.440Z	Runway	slug_gone
+2026-09-25T08:00:06.440Z	Hightouch	reachable
+2026-09-25T08:00:06.440Z	WorkOS	reachable
+2026-09-25T08:00:06.440Z	Supabase	reachable
+2026-09-25T08:00:06.440Z	Resend	reachable
+2026-09-25T08:00:06.440Z	Clerk	reachable
+2026-09-25T08:00:06.440Z	Inngest	reachable
+2026-09-25T08:00:06.440Z	PlanetScale	reachable
+2026-09-25T08:00:06.440Z	Writer	reachable
+2026-09-25T08:00:06.440Z	Sony Interactive Entertainment (PlayStation)	reachable
+2026-09-25T08:00:06.440Z	Cognition	reachable
+2026-09-25T08:00:06.440Z	Trainline	reachable
+2026-09-25T08:00:06.440Z	Latent Labs	reachable
+2026-09-25T08:00:06.440Z	Bumble	reachable
+2026-09-25T08:00:06.440Z	MongoDB	reachable
+2026-09-25T08:00:06.440Z	Encord	reachable
+2026-09-25T08:00:06.440Z	Prolific	reachable
+2026-09-25T08:00:06.440Z	UiPath	reachable
+2026-09-25T08:00:06.440Z	Motorway	reachable
+2026-09-25T08:00:06.440Z	Together AI	reachable
+2026-09-25T08:00:06.440Z	Ocado Group	reachable
+2026-09-25T08:00:06.440Z	CuspAI	reachable
+2026-09-25T08:00:06.440Z	Poolside	reachable
+2026-09-25T08:00:06.440Z	Fractile	reachable
+2026-09-25T08:00:06.440Z	Auto Trader UK	reachable
+2026-09-25T08:00:06.440Z	Reddit	reachable
+2026-09-25T08:00:06.440Z	Flo Health	reachable
+2026-09-25T08:00:06.440Z	Quantexa	reachable
+2026-09-25T08:00:06.440Z	Agentic Engineering Jobs	server
+2026-09-25T08:00:06.440Z	Himalayas	reachable
+2026-09-25T08:00:06.440Z	Remotive	reachable
+2026-09-25T08:00:06.440Z	Jobicy (UK remote)	reachable
+2026-09-25T08:00:06.440Z	Adzuna (UK)	reachable
+2026-09-25T08:00:06.440Z	Reed.co.uk	reachable
+2026-09-28T12:34:46.913Z	Google	reachable
+2026-09-28T12:34:46.913Z	Google (Data Science)	reachable
+2026-09-28T12:34:46.913Z	Microsoft	reachable
+2026-09-28T12:34:46.913Z	Microsoft (Machine Learning)	reachable
+2026-09-28T12:34:46.913Z	Microsoft (Data Science)	reachable
+2026-09-28T12:34:46.913Z	NVIDIA	reachable
+2026-09-28T12:34:46.913Z	Amazon / AWS (UK)	reachable
+2026-09-28T12:34:46.913Z	Databricks	reachable
+2026-09-28T12:34:46.913Z	BenevolentAI	empty
+2026-09-28T12:34:46.913Z	Recursion (Exscientia)	reachable
+2026-09-28T12:34:46.913Z	Healx	reachable
+2026-09-28T12:34:46.913Z	Gigaton	reachable
+2026-09-28T12:34:46.913Z	Darktrace	reachable
+2026-09-28T12:34:46.913Z	Antiverse	reachable
+2026-09-28T12:34:46.913Z	Datadog	reachable
+2026-09-28T12:34:46.913Z	GitLab	reachable
+2026-09-28T12:34:46.913Z	Elastic	reachable
+2026-09-28T12:34:46.913Z	Figma	reachable
+2026-09-28T12:34:46.913Z	xAI	reachable
+2026-09-28T12:34:46.913Z	Airbnb	reachable
+2026-09-28T12:34:46.913Z	Scale AI	reachable
+2026-09-28T12:34:46.913Z	Graphcore	reachable
+2026-09-28T12:34:46.913Z	Deliveroo	reachable
+2026-09-28T12:34:46.913Z	Notion	reachable
+2026-09-28T12:34:46.913Z	Harvey	reachable
+2026-09-28T12:34:46.913Z	Cursor	reachable
+2026-09-28T12:34:46.913Z	AstraZeneca	reachable
+2026-09-28T12:34:46.913Z	GSK	reachable
+2026-09-28T12:34:46.913Z	Dyson	reachable
+2026-09-28T12:34:46.913Z	Sky	reachable
+2026-09-28T12:34:46.913Z	Anthropic	reachable
+2026-09-28T12:34:46.913Z	OpenAI	reachable
+2026-09-28T12:34:46.913Z	PolyAI	reachable
+2026-09-28T12:34:46.913Z	Parloa	reachable
+2026-09-28T12:34:46.913Z	Intercom	reachable
+2026-09-28T12:34:46.913Z	Hume AI	reachable
+2026-09-28T12:34:46.913Z	ElevenLabs	reachable
+2026-09-28T12:34:46.913Z	Deepgram	reachable
+2026-09-28T12:34:46.913Z	Vapi	reachable
+2026-09-28T12:34:46.913Z	Bland AI	reachable
+2026-09-28T12:34:46.913Z	Retool	reachable
+2026-09-28T12:34:46.913Z	Gem	reachable
+2026-09-28T12:34:46.913Z	Airtable	reachable
+2026-09-28T12:34:46.913Z	Vercel	reachable
+2026-09-28T12:34:46.913Z	Temporal	slug_gone
+2026-09-28T12:34:46.913Z	Arize AI	reachable
+2026-09-28T12:34:46.913Z	RunPod	slug_gone
+2026-09-28T12:34:46.913Z	Weights & Biases (CoreWeave)	reachable
+2026-09-28T12:34:46.913Z	Glean	reachable
+2026-09-28T12:34:46.913Z	Ada	slug_gone
+2026-09-28T12:34:46.913Z	Sierra	reachable
+2026-09-28T12:34:46.913Z	Decagon	reachable
+2026-09-28T12:34:46.913Z	Talkdesk	reachable
+2026-09-28T12:34:46.913Z	Twilio	reachable
+2026-09-28T12:34:46.913Z	Dialpad	reachable
+2026-09-28T12:34:46.913Z	Genesys	reachable
+2026-09-28T12:34:46.913Z	Salesforce	reachable
+2026-09-28T12:34:46.913Z	Lindy	slug_gone
+2026-09-28T12:34:46.913Z	Speechmatics	reachable
+2026-09-28T12:34:46.913Z	n8n	reachable
+2026-09-28T12:34:46.913Z	Zapier	reachable
+2026-09-28T12:34:46.913Z	Boomi	reachable
+2026-09-28T12:34:46.913Z	Cohere	reachable
+2026-09-28T12:34:46.913Z	LangChain	reachable
+2026-09-28T12:34:46.913Z	Pinecone	reachable
+2026-09-28T12:34:46.913Z	Mistral AI	reachable
+2026-09-28T12:34:46.913Z	Attio	reachable
+2026-09-28T12:34:46.913Z	Tinybird	slug_gone
+2026-09-28T12:34:46.913Z	Clarity AI	slug_gone
+2026-09-28T12:34:46.913Z	Travelperk	reachable
+2026-09-28T12:34:46.913Z	Aleph Alpha	reachable
+2026-09-28T12:34:46.913Z	DeepL	reachable
+2026-09-28T12:34:46.913Z	Black Forest Labs	slug_gone
+2026-09-28T12:34:46.913Z	Celonis	reachable
+2026-09-28T12:34:46.913Z	Contentful	reachable
+2026-09-28T12:34:46.913Z	GetYourGuide	reachable
+2026-09-28T12:34:46.913Z	HelloFresh	reachable
+2026-09-28T12:34:46.913Z	Forto	reachable
+2026-09-28T12:34:46.913Z	Lakera	empty
+2026-09-28T12:34:46.913Z	Scandit	reachable
+2026-09-28T12:34:46.913Z	Cradle	reachable
+2026-09-28T12:34:46.913Z	Hugging Face	reachable
+2026-09-28T12:34:46.913Z	Photoroom	reachable
+2026-09-28T12:34:46.913Z	Pigment	reachable
+2026-09-28T12:34:46.913Z	Diabolocom	reachable
+2026-09-28T12:34:46.913Z	Wayve	reachable
+2026-09-28T12:34:46.913Z	Isomorphic Labs	reachable
+2026-09-28T12:34:46.913Z	PhysicsX	reachable
+2026-09-28T12:34:46.913Z	Stability AI	reachable
+2026-09-28T12:34:46.913Z	Synthesia	reachable
+2026-09-28T12:34:46.913Z	Faculty	reachable
+2026-09-28T12:34:46.913Z	Causaly	reachable
+2026-09-28T12:34:46.913Z	Lovable	reachable
+2026-09-28T12:34:46.913Z	Legora	reachable
+2026-09-28T12:34:46.913Z	Spotify	reachable
+2026-09-28T12:34:46.913Z	Bolt	empty
+2026-09-28T12:34:46.913Z	Zendesk	reachable
+2026-09-28T12:34:46.913Z	Hotjar	reachable
+2026-09-28T12:34:46.913Z	Toggl	empty
+2026-09-28T12:34:46.913Z	Doist	empty
+2026-09-28T12:34:46.913Z	Corti	reachable
+2026-09-28T12:34:46.913Z	Templafy	slug_gone
+2026-09-28T12:34:46.913Z	Amplemarket	reachable
+2026-09-28T12:34:46.913Z	Perplexity	reachable
+2026-09-28T12:34:46.913Z	Clay Labs	reachable
+2026-09-28T12:34:46.913Z	Runway	slug_gone
+2026-09-28T12:34:46.913Z	Hightouch	reachable
+2026-09-28T12:34:46.913Z	WorkOS	reachable
+2026-09-28T12:34:46.913Z	Supabase	reachable
+2026-09-28T12:34:46.913Z	Resend	reachable
+2026-09-28T12:34:46.913Z	Clerk	reachable
+2026-09-28T12:34:46.913Z	Inngest	reachable
+2026-09-28T12:34:46.913Z	PlanetScale	reachable
+2026-09-28T12:34:46.913Z	Writer	reachable
+2026-09-28T12:34:46.913Z	Sony Interactive Entertainment (PlayStation)	reachable
+2026-09-28T12:34:46.913Z	Cognition	reachable
+2026-09-28T12:34:46.913Z	Trainline	reachable
+2026-09-28T12:34:46.913Z	Latent Labs	reachable
+2026-09-28T12:34:46.913Z	Bumble	reachable
+2026-09-28T12:34:46.913Z	MongoDB	reachable
+2026-09-28T12:34:46.913Z	Encord	reachable
+2026-09-28T12:34:46.913Z	Prolific	reachable
+2026-09-28T12:34:46.913Z	UiPath	reachable
+2026-09-28T12:34:46.913Z	Motorway	reachable
+2026-09-28T12:34:46.913Z	Together AI	reachable
+2026-09-28T12:34:46.913Z	Ocado Group	reachable
+2026-09-28T12:34:46.913Z	CuspAI	reachable
+2026-09-28T12:34:46.913Z	Poolside	reachable
+2026-09-28T12:34:46.913Z	Fractile	reachable
+2026-09-28T12:34:46.913Z	Auto Trader UK	reachable
+2026-09-28T12:34:46.913Z	Reddit	reachable
+2026-09-28T12:34:46.913Z	Flo Health	reachable
+2026-09-28T12:34:46.913Z	Quantexa	reachable
+2026-09-28T12:34:46.913Z	Agentic Engineering Jobs	server
+2026-09-28T12:34:46.913Z	Himalayas	reachable
+2026-09-28T12:34:46.913Z	Remotive	reachable
+2026-09-28T12:34:46.913Z	Jobicy (UK remote)	reachable
+2026-09-28T12:34:46.913Z	Adzuna (UK)	network
+2026-09-28T12:34:46.913Z	Reed.co.uk	reachable

@@ -1,0 +1,440 @@
+Company,Title,Location,URL,Source,Posted,First seen,Description,Match status
+Anthropic,"Applied AI Engineer, DNB","London, UK",https://job-boards.greenhouse.io/anthropic/jobs/5435282008,greenhouse-api,2026-09-28,2026-09-28,"About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As an Applied AI Engineer at Anthropic, you will be a trusted technical advisor helping tech-forward companies build on the Claude Developer Platform as they grow and scale. You'll lead deep technical engagements, partnering directly with engineering teams to help them develop their products on top of Claude - advising on implementation, agent design, and working alongside them to build at the frontier of AI. Working closely with Applied AI Architects, Account Executives, and Anthropic's Product and Engineering teams, you'll guide customers through deep technical engagements. You'll leverage your AI engineering expertise to develop custom evaluation frameworks, design scalable architectures, and create the technical resources that enable tech-forward businesses to succeed with Claude. Responsibilities Serve as a deep technical advisor to high-growth, tech-forward companies, working alongside them to build innovative use cases that push the boundaries of AI Work hands-on with customer engineering teams: pair programming, architecture reviews, and code contributions that accelerate their development Develop prototypes and technical documentation—including evaluation suites, AI engineering techniques, and architecture diagrams—that enable customers to build and scale with Claude Collaborate closely with Applied AI Architects to maintain context and continuity across customer engagements Identify patterns across engagements and contribute insights back to Product, Engineering, and the broader Applied AI team Create technical content for developer audiences including documentation, tutorials, and sample code Foster community engagement through hackathons, webinars, technical office hours, and developer-focused events Travel to customer sites for workshops, implementation support, and relationship building You may be a good fit if you have 4+ years of experience as a Software Engineer, Forward Deployed Engineer, or technical founder Experience in a customer-facing or pre-sales technical role - partnering with customers to scope, design, and deliver solutions Production experience building LLM-powered applications, including prompting, context engineering, agent architectures, evaluation frameworks, and deployment at scale Strong programming skills with proficiency in Python and experience building production applications Experience working with high-growth, tech-forward companies Ability to context-switch across industries (healthcare, fintech, etc.) and use cases Builder credibility that earns trust with technical founders and engineering leaders - you've shipped products and can speak from experience Strong technical communication skills with the ability to translate complex AI concepts into architectural decisions and actionable implementation plans Experience facilitating technical workshops, hackathons, or developer-focused events Passion for making powerful technology safe and beneficial The annual compensation range for this role is listed below. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Annual Salary: £225,000 — £255,000 GBP Logistics Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience Required field of study: A field relevant to the role as demonstrated through coursework, training, or professional experience Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices. Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this. We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team. Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings. How we're different We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills. The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences. Come work with us! Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process.",top match
+Anthropic,"Applied AI Engineer, Enterprise","London, UK",https://job-boards.greenhouse.io/anthropic/jobs/5354765008,greenhouse-api,2026-09-28,2026-09-28,"About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As an Applied AI Engineer on our Enterprise team, your role is to guide some of the UK's largest businesses to the frontier of AI and help them deploy Claude into their operations, their products, and their ways of working. You will become the go-to Claude Platform specialist and trusted technical advisor for your customers, advising their engineering teams on architecture, agent design, and evaluation, and working with the C-level and senior executives who sponsor these programmes to show the business value Claude can create and help them reach a confident decision to build on Claude. Enterprise deals are different. Procurement cycles are longer, more stakeholders are involved, and success depends on being able to connect the technical work to the outcomes the boardroom cares about. You will be as comfortable advising an engineering team on evaluation and architecture as you are presenting a value case to a CIO or CTO, and you will carry the technical thread across every stage of a multi-quarter engagement. You will partner closely with Enterprise Account Executives and Applied AI Architects to take each customer from first conversation, through technical evaluation, proof of value and procurement, to the decision to build on Claude. Once they have decided, you set their systems integration partner up to deliver, agreeing the target architecture and what good looks like, and you stay close as the customer's technical advisor on Claude throughout deployment, while the partner does the build. Working alongside Anthropic's Product and Engineering teams, you will use your knowledge of the Claude Platform to advise on evaluation, recommend architectures that meet enterprise security and scale requirements, and create the technical and business resources that help large organisations succeed with Claude. Responsibilities Partner with Enterprise Account Executives and Applied AI Architects to take UK enterprise customers from first conversation, through technical evaluation, proof of value and procurement, to the decision to build on Claude Lead the technical side of each opportunity, then remain the customer's technical advisor on Claude as they deploy Set customers and their systems integration partners up to deliver: agree the target architecture, define what good looks like, and advise the delivery team as the build progresses Help customer engineering teams see how they would build on Claude, covering architecture, agent design and evaluation Build and present the business value case for Claude to C-level and senior executives, linking technical capabilities to measurable outcomes such as cost, revenue, risk, and time to market Guide customers through long, multi-stakeholder procurement, including security and architecture reviews and a clear path to production, navigating security, compliance, data residency and governance requirements (including UK GDPR) Feed patterns from enterprise engagements back to Product, Engineering, and the wider Applied AI team, and travel to customer sites across the UK You may be a good fit if you have 6+ years of experience as a Software Engineer, Solutions Architect, Forward Deployed Engineer, or technical founder Pre-sales or technical advisory experience selling into large enterprises, ideally in the UK, including owning the technical win (evaluations, proofs of concept, due diligence with security, legal and procurement) Experience with value-based selling and presenting a business case to C-level and VP-level stakeholders Production experience with LLM-powered applications, including prompting, context engineering, agent architectures, evaluation frameworks, and deployment at scale Familiarity with enterprise security, compliance, and architecture requirements, ideally in regulated sectors The ability to explain complex AI concepts clearly to both technical and executive audiences, and a passion for making powerful technology safe and beneficial The annual compensation range for this role is listed below. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Annual Salary: £225,000 — £255,000 GBP Logistics Minimum education: Bachelor’s degree or an equivalent combination of education, training, and/or experience Required field of study: A field relevant to the role as demonstrated through coursework, training, or professional experience Minimum years of experience: Years of experience required will correlate with the internal job level requirements for the position Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices. Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this. We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team. Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings. How we're different We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills. The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences. Come work with us! Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process.",medium match
+Bjak,Mobile Application Developer - AI Neobank App,Ireland,https://himalayas.app/companies/bjak/jobs/mobile-application-developer-ai-neobank-app-7461560433,himalayas-api,2026-09-28,2026-09-28,,no description
+Synthesia,"Platform Engineer, AI tooling (Senior or Staff)",London · UK Remote · United Kingdom · Remote · Copenhagen · Denmark · Ljubljana · Slovenia · Europe · Munich · Germany · Zurich · Switzerland · Berlin · Dublin · Ireland,https://jobs.ashbyhq.com/synthesia/83052182-d2b9-40d5-bd87-d400e7786a9a,ashby-api,2026-09-28,2026-09-28,"Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US.
+
+As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations.
+
+Following our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow.
+
+ABOUT THE ROLE
+
+The Developer Platform team builds internal tools and platform that improve the velocity, quality and developer experience of Synthesia's engineering teams. They own developer productivity (from code commit to production), developer insights and SDLC metrics, developer infrastructure (CI/CD systems), AI-assisted QA/testing and AI-assisted development. AI Adoption has grown to 90%+ employees with 100%~ adoption in engineering in the last 8 months. You'll have a big surface area and real ownership from day one into making Synthesia's engineering go faster but with quality in this day and age of AI-driven development.
+
+- You will work end-to-end owning the architectural decisions that govern how features are built, released safely to customers, and supported long-term. You'll mentor engineers and embed technical practice through code review and design partnership.
+
+- You will lead projects that span quarters, breaking down complex problems into milestones that can be validated iteratively. You'll operate with high autonomy: defining success criteria, calling trade-offs, and knowing when to escalate to leadership.
+
+- You will partner directly with leadership to shape the roadmap and technical strategy. You'll have the skills to push back on requirements, propose alternatives, and influence what we build and when.
+
+- You will own the operational health of systems you build and you'll use data to drive decisions about iteration, maintenance, and deprecation.
+
+- You will be accountable for the technical direction of your area. You'll anticipate 12+ month technical challenges, propose solutions that scale, and build the engineering capabilities that will let us execute ahead of the curve.
+
+WHAT WE'RE LOOKING FOR:
+
+- At least seven (7) years of experience as a software engineer, with at least 2-3 years working on senior/staff level
+
+- Proven hands-on experience building and operating developer platforms, CI/CD systems, observability/metrics infrastructure, code quality automation, testing infrastructure and/or developer tooling.
+
+- You have previously shipped infrastructure or tooling that measurably improved developer velocity or reduced cognitive load.
+
+- Previous experience leading the adoption of new AI-powered developer tools or capabilities across an engineering organization.
+
+- You have operated in a high-performing engineering organization (scale-up or established) where you've seen how infrastructure choices directly impact team velocity and product quality. You understand what it means to build for other engineers.
+
+- Experience integrating third-party services (APIs, SaaS tools, external platforms) into internal systems, with attention to reliability, security, and user experience. You understand the operational constraints of running other people's code/services at scale.
+
+- Clear understanding that platform and infrastructure work directly enables commercial outcomes.
+
+- Previous experience owning large technical areas end-to-end.
+
+WHY JOIN US?
+
+We’re living the golden age of AI. The next decade will yield the next iconic companies, and we dare to say we have what it takes to become one. Here’s why,
+
+OUR CULTURE
+
+At Synthesia we’re passionate about building, not talking, planning or politicising. We strive to hire the smartest, kindest and most unrelenting people and let them do their best work without distractions. Our work principles serve as our charter for how we make decisions, give feedback and structure our work to empower everyone to go as fast as possible. You can find out more about these principles here. https://www.notion.so/How-we-work-at-Synthesia-f794caa72f8446efb6be22b551ce0fa2?pvs=21
+
+SERVING 50,000+ CUSTOMERS (AND 90% OF THE FORTUNE 100)
+
+We’re trusted by leading brands such as Heineken, Zoom, Xerox, McDonald’s and more. Read stories from happy customers https://www.synthesia.io/case-studies and what 1,200+ people say on G2 https://www.g2.com/products/synthesia/reviews#reviews.
+
+PROPRIETARY AI TECHNOLOGY
+
+Since 2017, we’ve been pioneering advancements in Generative AI. Our AI technology is built in-house, by a team of world-class AI researchers and engineers. Learn more about our AI Research Lab and the team behind. https://www.synthesia.io/research
+
+AI SAFETY, ETHICS AND SECURITY
+
+AI safety, ethics, and security are fundamental to our mission. While the full scope of Artificial Intelligence's impact on our society is still unfolding, our position is clear: People first. Always. Learn more about our commitments to AI Ethics, Safety & Security https://www.synthesia.io/ethics.
+
+THE HIRING PROCESS:
+
+1. 30-40min call with our Technical Recruiter
+
+2. 45min call with an Engineering Manager about your past projects
+
+3. 90min Product Discovery/Implementation, a collaboration exercise with our Engineer (not Leetcode style, in Python).
+
+4. 60min System Design, technical discussion usually about a real problem we had in production.
+
+5. 60min call with leadership, focus on examples of collaboration, growth and going through details of your future team.
+
+You can find more details on what to expect and how to prepare HERE https://synthesia.notion.site/How-should-I-prepare-for-my-Synthesia-Engineering-interviews-25cc16d22bf180cb9567d09694b8907c. The pace of the process depends on your availability.
+
+OTHER IMPORTANT INFO:
+
+- Our preference is for this role to based either in-office or remote in the following locations: UK, Germany, Switzerland or Ireland.
+We may also be able to support remote workers in other locations across Europe subject to compliance and right to work checks.
+
+- The salary starts at EUR/GBP/CHF 130.000 base + equity (RSUs).
+
+- This is full-time employment only - no contractors possible - usually through OysterHR.
+
+- Everyone at Synthesia gets 25 days of leave + local holidays (no extra paid or unpaid leave possible).
+
+- We only sponsor VISA if you are in the UK/EU country already and need support - we do not relocate people.",low match
+Parloa,Senior Partner Agent Architect (UK),London Office; Remotely in the UK,https://job-boards.eu.greenhouse.io/parloa/jobs/4988028101,greenhouse-api,2026-09-27,2026-09-28,"About Parloa Parloa’s mission is to make every customer conversation feel effortless for both customers and the companies serving them. As agentic AI accelerates, Parloans are shaping the foundation of a new era in customer experience - one where customer support is no longer transactions, but meaningful exchanges. It is not just a vision; Parloa has powered over ONE BILLION interactions between global enterprise brands and their customers, with companies like Booking.com, HealthEquity, Allianz, SAP, BarmeniaGothaer, and TUI already deploying Parloa at scale. About the role: As a Sr Partner Agent Architect at Parloa, you will operate at the intersection of enterprise solution architecture, conversational AI, and partner enablement, helping strategic partners and enterprise customers design, implement, and scale AI-driven customer experiences. This is a highly consultative, customer-facing role where you will guide partners and clients through solution discovery, end-to-end solution architecture, enterprise integration design, conversational architecture, and implementation strategy for enterprise AI Agents. You will design how Parloa’s platform integrates into complex enterprise environments, solve multi-system integration challenges, and apply systems thinking to build reliable, scalable AI solutions. While you bring strong technical depth and can build when needed, your primary focus will be helping partners shape the right technical solutions, architect scalable integrations, prioritize effectively, and successfully operationalize Parloa’s platform within complex enterprise environments. You will also help shape the conversational experience layer by translating customer requirements into AI Agent behavior through prompt engineering, LLM concepts, and conversational design. Prior conversational design experience is valuable but can be further developed on the job. You will work closely with strategic partners, enterprise customers, Partner Success Managers, Technical Program Managers, Forward Deployed Engineers, Solution Engineers, and the broader Agent Architect organization to drive successful AI deployments and long-term customer value. This is your opportunity to shape how enterprise organizations and global partners adopt agentic AI at scale while acting as a trusted advisor across both business and technical stakeholders. Areas of ownership: Scope and design end-to-end AI Agent deployments across complex enterprise environments. Define how Parloa integrates with systems such as CRMs, ERPs, ticketing platforms, contact center technologies, and other enterprise applications. Apply systems thinking to solve complex multi-system data flows, dependencies, and integration challenges. Guide partners and customers on API design, authentication, data transformation, field mapping, error handling, and integration patterns. Build, configure, test, or troubleshoot integrations using REST APIs, webhooks, JSON/XML payloads, and tools such as Postman. Collaborate with Forward Deployed Engineers on complex or custom integration scenarios beyond standard platform capabilities. Lead technical discovery workshops, architecture reviews, and solution design sessions with partner and customer stakeholders. Translate customer workflows and business requirements into structured conversational components and reliable AI Agent behavior. Apply knowledge of LLMs, prompting strategies, embeddings, and context management to improve agent performance. Support prompt design, conversational flows, guardrails, escalation logic, and voice configuration such as SSML, lexicons, and regex. Apply structured testing to validate architecture, integration reliability, agent quality, and real-world behavior. Review partner-created solution designs and help partners build the capability to deliver Parloa solutions independently. Identify and resolve delivery blockers with Product, Solution Engineering, Forward Deployed Engineering, Customer Success, and partner teams. Document reusable architecture patterns, implementation guidance, technical standards, and best practices. What Success Looks Like Partners and customers trust you as a strategic and technical advisor. Partner-led deployments launch with scalable architectures, reliable integrations, and strong AI Agent performance. Partners become increasingly self-sufficient while maintaining high delivery quality and alignment with Parloa standards. Technical risks, integration gaps, and implementation blockers are identified and resolved early. Reusable technical guidance and architecture patterns improve delivery quality across the partner ecosystem. Who you are: 4+ years of experience in enterprise customer-facing technical roles across solution architecture, systems architecture, enterprise integration, technical consulting, or complex SaaS implementation. Experience working with strategic partners, systems integrators, consulting firms, or partner-led delivery models. Strong systems thinking and experience solving complex problems across multiple systems and data sources. Experience with enterprise SaaS platforms such as CRMs, ERPs, ticketing systems, contact center platforms, or workflow tools. Proficiency in REST APIs, JSON/XML, API testing tools such as Postman, and authentication patterns including OAuth, API keys, and JWT. Experience reading API documentation, defining field mappings, and troubleshooting integration behavior. Ability to evaluate technical feasibility, architecture quality, scalability, security, and delivery risk. Comfort working hands-on with integrations, configuration, testing, and troubleshooting. Strong understanding of LLMs, prompt engineering, conversational architecture, and enterprise AI workflows. Ability to translate customer requirements into reliable prompts, conversational flows, and agent behaviors. Strong stakeholder and project management skills, with experience leading workshops, discovery sessions, or architecture discussions. Excellent communication and consultative problem-solving skills across technical and non-technical audiences. Entrepreneurial mindset, strong initiative, and comfort operating in an evolving environment. Excellent written and spoken English is required Nice to have: Experience enabling systems integrators or technical delivery partners. Exposure to contact center, telephony, or enterprise CX technologies. Experience with integration platforms such as MuleSoft, Boomi, Workato, or SAP Integration Suite. Familiarity with embeddings, tool calling, retrieval, or agent orchestration. Experience with SSML, lexicons, regex, or voice configuration. Exposure to TypeScript, Node.js, Git, CI/CD, cloud infrastructure, or Kubernetes. Experience supporting enterprise go-lives and production troubleshooting. Our Recruiting Process: Talent Acquisition → Hiring Manager → Technical & Expert Interview(s) → Bar Raiser Why Parloa? We're at the beginning of a new era in customer experience, one where AI doesn't just respond, but understands, reasons, and takes action. We're building agentic AI that enterprises trust with their most important customer moments: complex questions, high volumes, real stakes. When millions of people reach out to a brand, those interactions aren't just support tickets; they're defining experiences. We're here to raise the standard: making every conversation seamless, intelligent, and genuinely helpful. If you care about shaping how businesses and customers connect at scale and want your work to matter in real, everyday moments, this is where you do it. At Parloa, ownership isn't a buzzword; it means being accountable for outcomes, not just tasks. We operate in a category that's evolving fast, where the bar is high, and the problems are complex. We hire people who think in solutions, communicate with clarity, and follow through. People who are comfortable making decisions, taking responsibility, and raising the standard for themselves and those around them. We've grown beyond the earliest startup phase, but we've kept the intensity: fast execution, direct feedback, and a strong expectation to contribute meaningfully from day one. Backed by leading global investors like General Catalyst, EQT Ventures, and Altimeter Capital, we're scaling with a clear ambition: to become the global category leader in enterprise-grade conversational AI. Parloa is committed to upholding the highest data protection standards for our clients' and employees' data. All our employees are instrumental in ensuring the utmost care, GDPR, and ISO compliance, including ISO 27001, in handling sensitive information. Parloa is an e-verify employer in the USA. Please click here to learn more . * We provide equal opportunities to all qualified applicants regardless race, gender, sexual orientation, age, religion, national origin, disability status, socioeconomic background and other characteristics.",medium match
+Synthesia,Senior Applied Research Engineer - Video,"Europe, UK",https://jobicy.com/jobs/151649-senior-applied-research-engineer-video,jobicy-api,2026-09-27,2026-09-28,,no description
+Mural,"Staff Backend Engineer, AI Systems","UK, USA",https://jobicy.com/jobs/151711-staff-backend-engineer-ai-systems,jobicy-api,2026-09-26,2026-09-28,,no description
+Deliveroo,Senior Data Scientist (Economist),"London, United Kingdom - Deliveroo",https://job-boards.greenhouse.io/deliveroo/jobs/8202439,greenhouse-api,2026-09-25,2026-09-28,"Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team. The Data & Science Org At Deliveroo we have an outstanding data science organisation, with a mission to enable the highest quality human and machine decision-making. We work throughout the company - in product, business and platform teams - using analysis, experimentation, causal inference and machine learning techniques. We are uniquely placed to use data to help make better decisions and improve data literacy across Deliveroo. Data Scientists at Deliveroo report into our data science management team, and we have a highly active data science community, with guest lecturers, study groups, mentorship programmes, a robust technical review process, and plenty of opportunities to learn new things. Data Scientists can equally progress as technical leads (individual contributors) and as people managers. Our data scientists come from all kinds of backgrounds but have excellence in common. Many are formally trained in data science, many are not. We celebrate difference and have a dedicated data science diversity committee. As an Economist at Deliveroo you will help scale our business and improve the experience for restaurants, riders, and eaters. Using experimental or observational data, you will get to help answer questions like: Which markets/cities should we enter next? How can we incentivise good rider behaviour? What is the business impact of exclusive deals we have with restaurants? Can the Delivery food market sustain multiple players? What are the trade-offs we face when choosing between growth and profitability? How should we decide between them? What is the optimum selection and variety of restaurants? What impact do online reviews have? How will a change in the user interface affect customer choice behaviour? The work you will do will have a direct, measurable impact on the bottom line of the company. Requirements: Masters Degree or PhD in Economics or Econometrics (preferred) Always curious and willing to learn new skills A problem solver with a deep analytical mindset Ability to think creatively and insightfully about business-relevant economic problems A critical thinker with very strong attention to detail Proficiency with analytical tools like R/Python and familiarity with SQL Ideally industry experience since the completion of your academic career Excellent people skills — you’ll be meeting with stakeholders to translate business needs into economic problems At Deliveroo these are just some of the tough problems we are solving - and there is no challenge that cannot be yours. The scope for growth and personal impact is enormous. Why Deliveroo Our mission is to transform the way you shop and eat, bringing the neighbourhood to your door by connecting consumers, restaurants, shops and riders. We are transforming the way the world eats and shops by making access to food and products more convenient and enjoyable. We give people the opportunity to buy what they want, as they want it, when and where they want it. We are a technology-driven company at the forefront of the most rapidly expanding industry in the world. We are still a small team, making a very large impact, looking to answer some of the most interesting questions out there. We move fast, value autonomy and ownership, and we are always looking for new ideas. Workplace & Benefits At Deliveroo we know that people are the heart of the business and we prioritise their welfare. Benefits differ by country, but we offer many benefits in areas including healthcare, well-being, parental leave, pensions, and generous annual leave allowances, including time off to support a charitable cause of your choice. Benefits are country-specific, please ask your recruiter for more information. Diversity, Equity and Inclusion At Deliveroo, we know that a great workplace reflects the world around us and that true diversity and inclusion make us stronger, more creative, and better at what we do. We’re committed to fostering an environment where everyone can do their best work and feel they belong. We believe in equality of opportunity and welcome candidates from all backgrounds regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion, or belief. If you have a disability or long-term health condition and need support to apply for one of our roles, or require any reasonable adjustments during the recruitment process, you’ll have the opportunity to let us know once you’ve submitted your application. We’ll share details on how to request support so we can ensure you have a fair and equitable experience. If you’re excited about making a real impact in a fast-moving marketplace and growing your career alongside ambitious, supportive teams, we’d love to hear from you! Beware of recruitment scams: DASH Brands will never ask you to pay money or share sensitive financial information during hiring — learn more about DASH Brands' legitimate recruiting process at careersatdoordash.com/recruitment-scam-awareness .",low match
+Google,"Forward Deployed Engineer, Applied AI, Google Cloud","Paris, France · Zürich, Switzerland · London, UK",https://www.google.com/about/careers/applications/jobs/results/92129545540248262-forward-deployed-engineer-applied-ai-google-cloud,google-api,2026-09-25,2026-09-28,"Minimum qualifications: Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience. 5 years of experience with software development using Python or similar coding languages. Experience architecting AI systems on cloud platforms (e.g., Google Cloud Platform (GCP). Experience deploying resources using Terraform or similar tools, to automate the setup of agents, functions, or networking. Experience building full-stack applications that interact with enterprise IT infrastructures, and developing external customer projects. Preferred qualifications: Master’s or PhD in AI, Computer Science, or a related technical field. Experience implementing multi-agent systems using frameworks like ReAct and self-reflection. Experience debugging Agent logic and optimizing tool selection, including tracing conversation IDs across microservices to identify and resolve failures in real-time. Experience connecting agents to enterprise knowledge bases and optimizing Retrieval-augmented generation (RAG) chunking to prevent hallucinations. Track record of troubleshooting live, high-traffic systems during critical windows. Ability to travel up to 50% of the time. Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience. 5 years of experience with software development using Python or similar coding languages. Experience architecting AI systems on cloud platforms (e.g., Google Cloud Platform (GCP). Experience deploying resources using Terraform or similar tools, to automate the setup of agents, functions, or networking. Experience building full-stack applications that interact with enterprise IT infrastructures, and developing external customer projects. Serve as the lead developer for complex Conversational AI and CX applications, transitioning from prototypes to production-grade agentic workflows (e.g., multi-agent systems, Model Context Protocol (MCP) servers) that drive measurable return on investment. Architect and code conversational flows that are functional and optimized for the ""connective tissue"" between Google’s Conversational AI products and customers’ live infrastructure, including APIs, legacy data silos, and security perimeters. Build high-performance evaluation (Eval) pipelines and observability frameworks to optimize agentic workloads, focusing on reasoning loops, tool selection, and reducing latency while maintaining production-grade security and networking. Identify repeatable field patterns and technical ""friction points"" in Google’s AAI stack, converting them into reusable modules or product feature requests for Engineering teams. Co-build with customer engineering teams to instill Google-grade development best practices, ensuring long-term project success and high end-user adoption. As a Forward Deployed Engineer (FDE) in Applied AI, you are the Agent Engineer and the primary driver for our customers' most critical AI initiatives. You take initial conversational prototypes and transform them into production-ready solutions, owning the end-to-end engineering life-cycle, including the transition from ""Art-of-the-Possible"" to real-world business value and scalable, secure AI systems. In this high-travel, high-impact role, you will be focused on leading technical delivery for Conversational AI pilots and establishing the first Customer User Journeys (CUJs) for our largest customers at their sites. You will require a deep understanding of software engineering, machine learning operations, and cloud infrastructure. It's an exciting time to join Google Cloud’s Go-To-Market team, leading the AI revolution for businesses worldwide. You’ll excel by leveraging Google's brand credibility—a legacy built on inventing foundational technologies and proven at scale. We’ll provide you with the world's most advanced AI portfolio, including frontier Gemini models, and the complete Vertex AI platform, helping you to solve business problems. We’re a collaborative culture providing direct access to DeepMind's engineering and research minds, empowering you to solve customer challenges. Join us to be the catalyst for our mission, drive customer success, and define the new cloud era—the market is yours. Individual pay is determined by factors including job-related skills, experience, and relevant education or training. France: €104000 - €106000 (EUR) + 15% bonus target + equity + benefits Learn more about benefits at Google .",medium match
+Harnham - Data & Analytics Recruitment,Senior ML Engineer,London,https://www.reed.co.uk/jobs/senior-ml-engineer/57394167,reed-api,2026-09-25,2026-09-28,"Senior ML Ops Engineer
+London (Hybrid, 1-2 days per week) | £75,000 - £85,000 + 10% Bonus
+This is an opportunity to join a growing AI and data organisation that is using advanced analytics and machine learning to help public sector organisations make better, more informed decisions. You will play a pivotal role as the ML Ops specialist within the AI function, owning the infrastructure, deployment, and operational excellence of production machine learning systems.
+The Company
+They are an established data and AI business focused on developing innovative machine learning and analytics solutions that deliver meaningful real-world impact. Their platform combines predictive modelling, text analytics, and emerging AI capabilities to support complex decision-making at scale. As the organisation continues to grow, they are expanding their AI engineering capability and investing heavily in their platform and infrastructure.
+The Role
+You will:
+
+- Own and evolve the infrastructure that powers a suite of AI and machine learning services.
+- Design, build, and maintain production-grade ML orchestration pipelines using tools such as Dagster, Airflow, Prefect, or similar technologies.
+- Deploy, monitor, and scale machine learning models and LLM-powered solutions in production environments.
+- Build and maintain cloud-native infrastructure using Kubernetes and Infrastructure as Code technologies such as Terraform or Bicep.
+- Develop robust CI/CD processes and observability frameworks to ensure reliable and secure ML operations.
+- Collaborate closely with Data Scientists, software engineers, and client-facing teams to deliver scalable AI solutions.
+- Influence technical standards, best practices, and the future direction of the organisation's AI platform.
+Your Skills & Experience
+You will have:
+
+- Strong commercial experience in Python software engineering.
+- Experience deploying and managing machine learning infrastructure in production.
+- Knowledge of orchestration tools such as Dagster, Airflow, Prefect, or similar.
+- Hands-on experience with Kubernetes and containerised workloads.
+- Expertise in Infrastructure as Code using Terraform, Bicep, Pulumi, or comparable technologies.
+- Experience building CI/CD pipelines and implementing monitoring and observability practices.
+- Experience working with cloud platforms, ideally Azure, although other cloud backgrounds will be considered.
+- Exposure to LLMs, NLP, text analytics, or generative AI applications.
+- The ability to deploy infrastructure that supports scalable, reliable machine learning services.
+What They Offer
+
+- Ongoing training and development opportunities.
+- The chance to take ownership of a critical ML Ops function and influence the future of a growing AI platform.
+How to Apply
+If you are an ML Ops Engineer, Platform Engineer, or Infrastructure Engineer with a passion for production AI systems, cloud infrastructure, and machine learning at scale, apply now to learn more about this opportunity.",medium match
+Impellam,Senior Machine Learning Engineer,London,https://www.reed.co.uk/jobs/senior-machine-learning-engineer/57392896,reed-api,2026-09-25,2026-09-28,"Working Environment
+You will operate with a high degree of autonomy, owning work end-to-end and engaging closely with both technical and non-technical stakeholders. Delivery is supported by a strong technical assurance and review culture, encouraging challenge, learning and high standards.
+You will work within security, compliance and governance constraints where quality and judgement matter as much as pace.
+What You'll Be Doing
+
+- Lead end-to-end delivery of machine learning solutions, from problem definition through experimentation, evaluation and iteration
+- Develop, validate and deploy machine learning models into production environments
+- Apply statistical, mathematical and scientific thinking to frame hypotheses and assess uncertainty
+- Design and run experiments to evaluate model behaviour, performance and user impact
+- Work with real, imperfect data drawn from operational systems and workflows
+- Integrate machine learning components into wider software and data platforms
+- Balance rigour with pragmatism, delivering solutions that are proportionate and effective
+- Communicate complex technical concepts clearly to non-technical stakeholders
+- Engage in technical reviews, design discussions and constructive peer challenge
+
+Your Experience
+
+- Proven experience operating at senior practitioner level as a Machine Learning Engineer, AI Engineer or equivalent
+- Strong grounding in applied mathematics, statistics and scientific practice
+- Excellent Python skills for building, evaluating and deploying machine learning models
+- Experience evaluating models through quantitative evidence and structured experimentation
+- Strong software engineering practices, producing readable, testable and maintainable code
+- Experience integrating ML solutions into production systems and workflows
+- Feels confident working in secure, regulated or high-assurance environments
+In Return
+You'll work on genuinely challenging machine learning problems where judgement, credibility and delivery matter in a supportive, committed, inclusive environment.
+This is an opportunity to operate with autonomy, shape solutions from first principles and contribute to high-impact outcomes within a strong professional culture.
+As an organisation and as a team, Guidant Global are committed to fostering an equitable, diverse and inclusive workplace, where every employee and contractor feels valued and empowered throughout their time with us.
+We actively seek to recruit talent from all backgrounds, and to draw on a rich blend of experiences, perspectives and creativity. We believe that when people are respected and included, they are motivated to bring their best and whole selves to work, leading to innovative solutions and exceptional outcomes for all parties.
+Guidant Global is acting as an Employment Business in relation to this vacancy.",top match
+Perplexity,Member of Technical Staff (Search Core DevOps Engineer),Belgrade · London · United Kingdom · Berlin · Germany,https://jobs.ashbyhq.com/perplexity/739411fa-6580-4c8b-9960-035d5fa3c00e,ashby-api,2026-09-25,2026-09-28,"Perplexity is seeking a DevOps engineer to join our small team in revolutionizing the way people search and interact with the internet. You will be responsible for leading the design, implementation, and scaling of the infrastructure, tooling and systems that support our Search feature.
+
+The ideal candidate should have experience in designing highly scalable infrastructure, building systems, tools and performing testing, monitoring, and maintenance. Our backend stack includes Python, Go, Rust, PostgreSQL, DynamoDB, Redis, and Kubernetes - built alongside dedicated in-house AI and search interfaces.
+
+Responsibilities:
+
+- Design and implement highly available, high-performance, and scalable systems.
+
+- Design and implement various tools for other engineers helping them with their day to day job.
+
+- Design and implement CI/CD and other workflows to enhance stability, robustness and speed of iteration.
+
+- Maintain and optimize key-value and relational databases.
+
+- Scale and load balance web server backends to meet rapidly changing needs.
+
+- Monitor systems and applications, proactively identifying and resolving reliability, scalability, or performance issues.
+
+- Develop monitoring tools, alerts, and dashboards to provide visibility into system health and performance.
+
+Qualifications:
+
+- Strong experience with cloud infrastructure built on AWS.
+
+- Proficient in database management and caching strategies.
+
+- Excellent problem-solving and troubleshooting skills, with the ability to analyze, debug, and resolve complex technical issues.
+
+- Experience working with containers (Docker, Kubernetes) and orchestration tools.
+
+- Excellent communication and collaboration skills.
+
+- Experience with Python and Terraform.
+
+- 3+ years of DevOps/SRE/System Administration experience.",medium match
+Salesforce,D360 Forward Deployed Engineer,Ireland - Dublin,https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/D360-Forward-Deployed-Engineer_JR361115-1,workday-api,2026-09-25,2026-09-28,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category
+Sales
+Job Details
+
+About Salesforce
+Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
+
+Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.
+
+D360 FORWARD DEPLOYED ENGINEER
+About Salesforce
+Salesforce brings customer data, CRM, analytics, and AI together on a trusted platform. Our teams help organizations turn complex business and data requirements into secure, scalable solutions. In this role, you will help customers put Data 360 into production and build the technical foundation for reliable, enterprise-grade use cases.
+About the Role
+Production implementation experience required. Builder mindset non-negotiable.
+Salesforce is hiring Forward Deployed Engineers focused on Data 360, Salesforce’s real-time data engine that unifies data from any source. As a Forward Deployed Engineer, you will be a hands-on Technical Builder who configures, builds, tests, and deploys Data 360 directly inside enterprise customer environments. You will turn approved solution designs and acceptance criteria into working implementations across ingestion, harmonization, identity, insights, activation, retrieval, security, and operational readiness.
+Data 360 is also the data foundation for Agentforce - and grounding agents in accurate, real-time enterprise data is deep data engineering. You'll go further into RAG, vector search, MCP, and agent-to-agent integration than most data roles ever touch, because the agents are only as good as the layer you build.
+You'll work within a delivery team that includes architects, deployment strategists, Agentforce FDEs, account teams, and customer technical teams. Engagements may span a focused proof, production rollout, and stabilization. The common thread is real customer data, disciplined testing, and a supportable handoff.
+This is a hands-on data and software engineering role . You will build in real enterprise customer environments - writing SQL, Python, and Apex; building ingestion pipelines; debugging identity resolution; and shipping working implementations from sandbox through production. If you're looking for a purely declarative configuration role or a pure advisory role, this isn't it.
+What You'll Do
+
+- Build in customer environments. Configure and develop directly in customer sandboxes and production - using Data 360 configuration, SQL, Apex, Flow, Python, the REST Query API, the Interaction SDK, Salesforce DX, CLI, Git, Data Kits, and deployment tooling as required - following security, change-management, and release controls.
+- Engineer the data layer. Build ingestion, harmonization, and identity resolution across batch and streaming sources. Materialize views of data optimized for specific application, analytical, and agentic workloads, tuning latency and cost tradeoffs to meet use-case requirements. Work with customer data and AI teams to ensure implementations align with their existing strategies (e.g., data mesh, data fabric).
+- Prove it works. Create representative test data and validate expected outcomes across happy paths, edge cases, access boundaries, hierarchy behavior, failure conditions, and customer-scale volumes.
+- Ground the agents. Design, build, and maintain the AI data integration layer - RAG (Retrieval-Augmented Generation), vector databases, search indexes, and knowledge bases - that grounds Agentforce solutions in accurate, real-time enterprise data.
+- Orchestrate agent communication. Design and implement the protocols - including Model Context Protocol (MCP) and agent-to-agent communication - that govern, monitor, and ensure efficient collaboration among specialized AI agents.
+- Connect the ecosystem. Implement robust, scalable, and secure data integration patterns that connect Agentforce to a wide range of enterprise applications and enable communication between AI agents.
+- Govern the data. Apply deep data management expertise to ensure the secure integration, transformation, and governance of structured and unstructured data across the Salesforce ecosystem (CRM, Data Cloud) and external systems.
+- Build for scale and security. Apply knowledge of message queues, event-driven architecture, and distributed systems to build resilient workflows and implement secure authentication and authorization protocols (OAuth, SAML) so that all agent actions are secure and comply with enterprise security policies.
+- Debug the hard problems. Troubleshoot ingestion failures, mapping defects, schema drift, identity anomalies, query behavior, activation latency, API errors, permissions, and consumption issues - methodically, with logs and query evidence, isolating product behavior from configuration error.
+- Own implementation decisions. Compare viable techniques within the approved architecture, document measured tradeoffs, and recommend the most maintainable implementation to the responsible architect or technical lead.
+- Accelerate with AI. Use AI tooling - including Data 360 APIs and MCP Servers - to automate the build process and compress customers' time to value.
+- Co-build and hand off. Work alongside customer technical teams and partners through pairing, code reviews, and configuration reviews. Package reusable metadata, scripts, queries, tests, and runbooks so the solution can be reproduced and supported. Support deployment, validation, production handoff, and early stabilization, leaving clear ownership and known limitations.
+- Feed the roadmap. Surface reproducible platform gaps and edge cases - with live evidence, impact, and expected behavior - directly to Product and Support.
+You're Our Data 360 Forward Deployed Engineer If...
+
+- You have 5+ years of experience in software engineering, data engineering, or technical implementation , including a production data solution you can explain in detail.
+- You have a bachelor's degree in Computer Science or equivalent practical experience.
+- You have hands-on experience implementing Salesforce Data 360 (Data Cloud) or a comparable enterprise data platform across ingestion, modeling, identity, insight, activation, and operations.
+- You have hands-on experience building data pipelines and integrations using at least one enterprise data platform or technology, such as Snowflake, Databricks, BigQuery, Redshift, Kafka, cloud object storage, or an enterprise MDM platform.
+- You are proficient in SQL and can build, debug, and optimize multi-table queries, joins, filters, transformations, and validation checks.
+- You are fluent in at least one implementation language used in enterprise delivery - Apex, Java, Python, or JavaScript/TypeScript - and are willing to learn the others as needed.
+- You understand data modeling, APIs, integration patterns, batch and streaming processing , and the practical differences between copied, federated, and Zero Copy data access.
+- You've built retrieval systems for AI applications - vector databases, search indexes, embedding pipelines, or knowledge bases - and can explain the design decisions behind chunking, indexing, and relevance.
+- You've implemented secure service-to-service integration patterns (OAuth, SAML, event-driven architectures) and are conversant in emerging agent protocols like MCP and agent-to-agent communication.
+- You can implement secure data access and rigorously test it, including permissions, entitlements, consent, user context, restricted populations, and negative test cases .
+- You diagnose technical problems methodically , use logs and query evidence, isolate product behavior from configuration errors, and document a reproducible result.
+- You can implement against a documented architecture , explain what you built to customer technical teams, and recognize when a question requires an architect or security owner.
+- You have delivered alongside customers, partners, professional services, or internal implementation teams in deadline-driven environments .
+- You are excited to work directly with customer administrators, developers, data engineers, and architects.
+- You have relevant certifications in Salesforce Agentforce, Data 360, and the Salesforce Platform.
+
+Unleash Your Potential
+When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best , and our AI agents accelerate your impact so you can do your best . Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
+
+Accommodations
+If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form .
+
+Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
+
+Posting Statement
+Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.",medium match
+Tenth Revolution Group,DevOps / GenAI Engineer,London,https://www.reed.co.uk/jobs/devops-genai-engineer/57392350,reed-api,2026-09-25,2026-09-28,"Contract length - 6 months (possibility for extension)
+Location - Remote (1 day per month in London) (UK or EU based candidates only)
+Daily rate - £400 pd (outside IR35)
+Key Responsibilities
+
+- Design and maintain CI/CD pipelines using GitHub Actions, Nexus, and ArgoCD
+- Support migration and containerisation of legacy Java applications
+- Implement GitOps deployment practices across OpenShift/ROSA environments
+- Integrate SonarQube and security controls into the deployment lifecycle
+- Use AWS Kiro and AI agents to automate DevOps workflows
+- Collaborate with development, infrastructure, and security teams
+- Improve monitoring, observability, and deployment reliability
+Required Skillset
+- Experience with AWS Kiro (L300 certification required or willingness to complete the certifications)
+- Proven background building CI/CD pipelines with GitHub Actions
+- Hands-on experience with ArgoCD and GitOps delivery models
+- Strong knowledge of Kubernetes, OpenShift, and AWS ROSA
+- Experience managing Nexus repositories and artefact lifecycle management
+- Strong experience integrating SonarQube quality gates and security scanning
+- Proven experience with Docker, Helm, and containerised deployments
+- Good scripting skills with Python, Bash, or Go
+- Experience using AI-powered development tools such as Kiro, Copilot, or Claude Code
+- Strong understanding of Java application migration and modernisation
+- Experience troubleshooting Kubernetes networking and service mesh environments
+- Knowledge of Istio and cloud-native architecture principles
+Nice to have:
+- Terraform or AWS CDK experience
+- OpenShift or Kubernetes certifications
+- AWS DevOps Engineer Professional certification
+- Experience delivering enterprise migration programmes
+- German language skills",low match
+n8n,Agentic Engineering Platform Engineer,Berlin Office · Bosnia · Romania · Norway · Estonia · Latvia · Slovenia · Netherlands · Hungary · Moldova · Kosovo · Portugal · Poland · Serbia · Germany · Austria · Finland · Montenegro · London Office · London · United Kingdom · Albania · Lithuania · Slovakia · Ireland · Bulgaria · Denmark · Belgium · Czech Republic · Croatia · Spain · Greece · Remote,https://jobs.ashbyhq.com/n8n/1af7a193-334d-4d5c-b45d-250122d9c3f1,ashby-api,2026-09-24,2026-09-28,"The AI orchestration of your wildest imagination.
+
+n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact.
+
+Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve:
+
+- Cultivated a community of more than 650,000 active developers and builders
+
+- Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects
+
+- Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation
+
+That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register http://app.n8n.cloud/register.
+
+We’re in a defining moment of an incredible journey. Come and build with us.
+
+AGENTIC ENGINEERING PLATFORM ENGINEER
+
+Developer Productivity · AI Coding Agents · Developer Platform
+
+🎯 Your main goal will be to keep n8n operating as an AI-native engineering organization where agents are embedded across the development cycle; helping teams plan, build, test, review, learn, and improve.
+
+You’ll do this by maintaining and evolving the platform foundations, tools, guardrails, and team processes that make agentic development safe, measurable, and sustainable. Working with Developer Platform, Security, AI/Agents, Architecture, and product engineering teams, you’ll help teams continuously adopt what works from frontier AI and make success visible through faster feedback loops, better quality, stronger resilience, and more learning from what we ship:
+
+BUILD THE PAVED ROAD FOR AGENTIC DEVELOPMENT
+
+- Define safe task categories for autonomous agents, including what they can attempt, what they should never touch, and where additional review is required.
+
+- Design and implement isolated execution environments where agents can work without exposing secrets or accessing sensitive systems unnecessarily.
+
+- Build pilot workflows that allow selected Linear issues to be picked up by agents, tested, and converted into useful draft PRs.
+
+MAKE N8N'S MONOREPO AGENT-READY
+
+- Create and maintain repo instructions, agent playbooks, ownership metadata, coding guidelines, and documentation that improve agent performance.
+
+- Continuously improve developer workflows, repo structure, testability, and documentation based on where agents succeed, fail, or create reviewer friction.
+
+- Partner with Architecture and senior engineers to define boundaries, dependencies, and areas where agents need more context or tighter constraints.
+
+INTEGRATE AGENTS INTO ENGINEERING WORKFLOWS
+
+- Integrate agentic workflows with Linear, GitHub, CI, test infrastructure, and developer review processes.
+
+- Design PR evidence templates that help reviewers understand what changed, why, what tests ran, what risks remain, and where human judgment is needed.
+
+- Partner with Security, AI/Agents, Developer Platform, and product engineering teams to define guardrails for sensitive areas like auth, billing, permissions, and data handling.
+
+MEASURE QUALITY, SAFETY, AND ADOPTION
+
+- Create benchmarks from real historical engineering tasks to evaluate agent output quality, failure modes, test pass rates, review burden, and production risk.
+
+- Define quality signals and adoption metrics such as draft PR usefulness rate, reviewer acceptance rate, CI pass rate, rework rate, and developer satisfaction.
+
+- Use data and feedback from pilot teams to improve agent workflows, reduce unsafe attempts, and build trust across engineering.
+
+REQUIREMENTS
+
+MUST-HAVES
+
+- 🧠 Autonomous coding agents: You have experience with autonomous coding agents, AI coding platforms, agent orchestration systems, or internal AI developer tooling.
+
+- 🤖 Agentic development experience: You have practical experience building, deploying, or operating AI-assisted or agentic software development workflows that work with developers not besides them.
+
+- 🛠️ Strong engineering foundations: You have a strong software engineering background, ideally in platform engineering, developer experience, infrastructure, tooling, CI/CD, or engineering productivity.
+
+- 🧭 Ambiguity leadership: You’re comfortable leading a first-of-a-kind technical initiative from problem definition through pilot, adoption, measurement, and iteration.
+
+- 🔁 Modern engineering workflows: You deeply understand GitHub, CI, testing strategies, code review, monorepos, issue tracking, developer environments, and release risk.
+
+- 🔐 Safety-first judgment: You have strong judgment around permissions, secrets, sandboxing, sensitive code paths, and human-in-the-loop review.
+
+- 📊 Measurable systems thinking: You know how to design benchmarks, quality signals, failure-mode tracking, and adoption metrics.
+
+- ✍️ Clear written communication: You’re strong at writing repo instructions, playbooks, PR evidence templates, technical proposals, and alignment documents.
+
+- 🤝 Cross-functional influence: You have credibility with senior engineers and can influence across Platform, Product Engineering, AI, Security, and Architecture without formal authority.
+
+NICE-TO-HAVES
+
+- 📦 TypeScript monorepos: You have worked in a large TypeScript, Node.js, or JavaScript monorepo.
+
+- ⚙️ Developer platforms: You have experience with GitHub Actions, Linear, automated testing infrastructure, preview environments, or internal developer platforms.
+
+- 🛡️ Security-aware platform engineering: You have worked on sandboxing, secrets management, least-privilege access, or sensitive code ownership.
+
+- 📏 AI evaluation: You have created evaluation frameworks, benchmarks, or quality metrics for AI-generated code or automation systems.
+
+- 🌍 Open-source communities: You have experience contributing to open-source or source-available projects with active developer communities.
+
+- 🏢 B2B SaaS context: You understand environments where reliability, permissions, data handling, and customer trust are central.
+
+- 🔗 Workflow automation: You’re familiar with workflow automation, integration platforms, AI orchestration, or developer-facing products.
+
+Why join us?
+
+At n8n, you’ll help define how autonomous AI agents become a trusted part of engineering inside one of Europe’s fastest-growing AI-native infrastructure companies. Your work will shape the platform foundations, safety model, evaluation framework, and developer workflows that determine whether agents can contribute meaningfully to production engineering without lowering the quality bar.
+
+You’ll join a remote-first team with high autonomy, high visibility, and a strong builder mindset. Because this is a first-of-a-kind role, you’ll have the opportunity to set direction, influence engineering culture, and create learnings that may inform both internal engineering productivity and n8n’s external product thinking.
+
+Sound like a challenge you’re excited to take on?
+
+Apply now — and help us build the future of automation.
+
+n8n is an equal opportunity employer and does not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status.
+
+We can sponsor visas to Germany; for any other country, you need to have existing right to work.
+
+Our company language is English.
+
+You care about diversity and inclusion? We do too! Check out our Diversity, Inclusion and Belonging initiatives at n8n https://www.notion.so/Diversity-inclusion-and-belonging-n8n-c1bec2fff536422d868b1a438d990e35?pvs=21 (https://www.notion.so/n8n/Diversity-inclusion-and-belonging-n8n-c1bec2fff536422d868b1a438d990e35).
+
+Location disclaimer: If you see multiple job postings for the same role, it is most likely because we're hiring remotely for this role and posting in different locations to make sure every potential candidate can see the role. Please apply to the location you're the most likely to work from in the future.
+
+BENEFITS
+
+- Competitive compensation 💸 – We offer fair and attractive pay.
+
+- Ownership 💪 – Our core value is to “empower others,” and we mean it—you’ll get a slice of n8n with equity.
+
+- Work/life balance 🏖️ – We work hard but ensure you have time to recharge:
+
+- Europe: 30 days of vacation, plus public holidays wherever you are.
+
+- US: 20 vacation days, 8 sick days, plus public holidays wherever you are.
+
+- Health & wellness 🩺 –
+
+- Europe: We provide benefits according to local country norms.*
+
+- US: Multiple low-premium, low-deductible medical plans with coverage for individuals and families—plus a no-cost premium HDHP option with a pre-seeded HSA—along with dental and vision coverage.
+
+- Future planning 💰 –
+
+- Europe: We provide pension contributions according to local country norms.*
+
+- US: 401(k) retirement plan with a 4% employer match.
+
+- Financial security 🛡️ –
+
+- Europe: We provide benefits according to local country norms.*
+
+- US: Company-paid short-term and long-term disability insurance, plus life insurance to support you and your loved ones.
+
+- Career growth 📈 – We hire rising stars who grow with us! You’ll get €1K (or equivalent) per year to spend on courses, books, events, or coaching to level up your skills.
+
+- A passionate team 🤩 – We love our product, and we prove it with regular hackathons where we see who can build the coolest thing with it!
+
+- Remote-first 🌏 – Our team works remotely across Europe, with regular off-sites for team bonding. Some roles, like sales in the US, are hybrid—please check the job description.
+
+- Giving back 🤝 – We're big fans of open source, and you'll get $100 per month to support projects you care about.
+
+- Transparency 🙏 – We all know what everyone’s working on, how the company is doing—the whole shebang.
+
+* Country-specific details are provided in your contract.",top match
