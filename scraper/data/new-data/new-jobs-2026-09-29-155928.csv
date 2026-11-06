@@ -1,0 +1,1552 @@
+Company,Title,Location,URL,Source,Posted,First seen,Description,Match status
+83zero Limited,Senior Python Developer - AI,"Charing Cross, Central London",https://www.adzuna.co.uk/jobs/details/5902754290?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"Salary: £70,000 - 70,000 per year Requirements: SC eligibility and full right to work in the UK are required; no sponsorship is available. We are looking for hands-on Senior Python Developers with experience building software and a practical understanding of Generative AI, LLMs and RAG. Strong commercial Python development experience. Proven leadership and mentoring experience is required for Senior Consultant level. Experience building APIs, microservices and backend applications. Hands-on exp…",top match
+ASOS,Senior Machine Learning Engineer (MLOps),"London, UK",https://www.adzuna.co.uk/jobs/details/5902535693?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"Job Description
+
+At ASOS, we're building the next generation of AI-powered Search and Discovery experiences for millions of customers worldwide.
+Our Search & Recommendations team develops the platforms, infrastructure and machine learning systems that power personalised product discovery, ranking, retrieval and recommendation experiences across ASOS. We operate high-scale production systems that enable data scientists and ML engineers to rapidly develop, deploy and monitor machine learning solutions in a reliable, scalable and cost-effective way.
+We're looking for a Senior Machine Learning Engineer - with strong Engineering experience - who enjoys solving complex engineering challenges at scale. This role is ideal for someone with a strong software engineering/MLOps, distributed systems or platform engineering background who wants to work at the intersection of machine learning and production infrastructure.
+As a Senior Engineer, you'll be responsible for designing, building and operating the platforms and services that enable machine learning models to be trained, deployed and served reliably across ASOS.
+You'll work closely with Applied Scientists, Software Engineers, Data Engineers and Product Managers to create the tooling, infrastructure and deployment frameworks that power recommendation systems, search relevance, personalisation and emerging AI applications.
+This is a highly engineering-focused role with an emphasis on cloud-native systems, platform architecture, automation, observability and operational excellence.
+What You'll Be Doing:
+
+- Design and build scalable machine learning platforms and infrastructure supporting model training, deployment and serving.
+- Develop highly available backend services that power recommendation, search and personalisation experiences for millions of customers.
+- Build and maintain CI/CD pipelines for machine learning and data products.
+- Design batch and real-time inference architectures using modern cloud-native technologies.
+- Improve reliability, resilience and performance across ML workloads through monitoring, observability and automation.
+- Build tooling and frameworks that enable data scientists and ML engineers to deploy models safely and efficiently.
+- Own production services, infrastructure and operational excellence practices, including incident management and root cause analysis.
+- Optimise distributed compute workloads and resource utilisation across cloud environments.
+- Drive Infrastructure-as-Code adoption and platform standardisation across machine learning systems.
+- Contribute to architectural decisions across recommendation, search and AI platforms.
+- Mentor engineers and promote software engineering best practices across the organisation.
+- Help shape ASOS's long-term machine learning platform strategy.",medium match
+ASOS,Senior Machine Learning Engineer (Personalisation),"London, UK",https://www.adzuna.co.uk/jobs/details/5902535697?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"Job Description
+
+We're looking for a Senior Machine Learning Engineer to join our Search & Recommendations team, where we're building the machine learning systems that help millions of customers discover products every day.
+Sitting within ASOS's Search & Recommenders area, the team is responsible for the recommendation, ranking and personalisation systems that sit at the heart of the customer journey. From surfacing the most relevant products and outfits to powering personalised shopping experiences, our work directly influences how customers discover and shop fashion on ASOS.
+You'll work on large-scale machine learning systems that power experiences such as Similar Items, People Also Viewed and personalised customer journeys that adapt in real time. Leveraging signals from millions of customer interactions, we use recommendation systems, ranking models, deep learning and emerging AI technologies to connect customers with the products they're most likely to love.
+As a Senior Machine Learning Engineer, you'll play a key role in designing, building and operating production machine learning systems at scale. Working alongside Applied Scientists, Machine Learning Engineers, Software Engineers and Product Managers, you'll help turn innovative ideas into reliable, high-performing systems that deliver measurable customer and commercial impact.
+This is an opportunity to tackle challenging problems across recommendation systems, search, ranking, personalisation and deep learning, while helping shape the future of machine learning at ASOS.
+What you'll be doing:
+
+- Work as part of a cross-functional team designing, building and improving machine learning systems that power search, ranking and recommendation experiences.
+- Collaborate closely with Applied Scientists and engineers to develop and deploy machine learning solutions that deliver measurable customer and commercial value.
+- Build, deploy and maintain batch and real-time machine learning models in production environments.
+- Contribute to recommendation, ranking and personalisation capabilities that support millions of customer interactions each day.
+- Continuously improve our systems, codebase and engineering practices while contributing ideas for new features and capabilities.
+- Support and mentor other engineers through coaching, knowledge sharing and technical collaboration.
+- Contribute to the team's technical direction and help evolve machine learning standards, best practices and ways of working across the wider ML community.",medium match
+Client Server,Backend Software Engineer Python LLM,"The City, Central London",https://www.adzuna.co.uk/jobs/details/5902817607?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"Backend Software Engineer / Developer (Python LLM) Remote UK to £90k Are you a backend focussed Software Engineer looking for an opportunity to progress your career, whilst working remotely on a modern tech stack? You could be joining a scaling AI software solutions provider in a senior, hands-on role. As a Backend Software Engineer you will build production grade AI systems and the infrastructure that supports them. This is a hands-on role where you'll take real ownership, make independent tec…",top match
+Databricks,Lead Solutions Architect - Generative AI (EMEA Emerging DNB),UK,https://www.adzuna.co.uk/jobs/details/5902860221?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"REQ ID: FEQ227R147 Location: United Kingdom (Remote/Hybrid — London or UK-based) Recruiter: Dina Hussain About the Role We are looking for a Lead Solution Architect focused on Generative AI to support our EMEA Emerging Digital Natives and Startups business unit — one of the fastest-moving, most technically ambitious patches in EMEA. Our customers are digital-native and cloud-native companies who build on the frontier: they adopt GenAI early, scale fast, and expect their technical partners to be…",top match
+ECM Selection Ltd.,Machine Learning Engineer,UK,https://www.adzuna.co.uk/jobs/land/ad/5902009360?se=Yp1AGRW88RGGIMuNWmfObw&utm_medium=api&utm_source=dc96cb17&v=255BA56052707F352996FF9643B531F605E6366A,adzuna-api,2026-09-29,2026-09-29,"Inventing innovative machine learning systems to solve real-world problems in the defence sector Cambridge; to c£70,000 DoE Benefits This innovative team of engineers and scientists are using machine learning tightly integrated with modern electronics to create new classes of devices for the defence and security sectors click apply for full job details",medium match
+Enablis,Lead Deployed AI Engineer,"Fleet Street, Central London",https://www.adzuna.co.uk/jobs/details/5902754085?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"Salary: £66,000 - 106,000 per year Requirements: Strong software engineering foundations, including clean code, testing, CI/CD, and a production mindset Strong general-purpose programming skills, such as Python or TypeScript, and proficiency in 2 or more modern languages Full-stack capability across front-end, back-end, and data engineering Hands-on production LLM and agent experience, including prompt engineering, agent workflows, RAG, tool orchestration, and MCP Evidence of shipping AI produc…",top match
+Fuse Energy,Applied AI Researcher,London,https://uk.indeed.com/viewjob?jk=893c014180ab3aa6,indeed,2026-09-29,2026-09-29,"Title: Applied AI Researcher
+Company: Fuse Energy
+Location: London
+Date: 2026-09-29
+Link: https://uk.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=893c014180ab3aa6&tk=1k3mpuot7gii5800
+
+---
+
+Fuse is an AI-first energy company on a mission to make energy abundant and affordable, fast. We combine first-principles thinking with cutting-edge technology to build a radically better energy system.
+
+We've raised over $200M from top-tier investors including Balderton, Lakestar, Accel, Creandum, Lowercarbon, Ribbit, 20VC, Hummingbird and Collaborative Fund, alongside strategic angels including Nico Rosberg and GPs behind Meta, Revolut, Spotify and Uber.
+
+We're building a fully integrated energy company: developing our own solar, batteries and other generation projects, building our own hardware, improving and developing grid infrastructure, trading power in real time, and installing distributed energy in homes. By selling directly to consumers, we cut out the middleman, lower costs and pass the savings on to our customers.
+
+Energy is a rare place to apply AI across the full stack: from helping customers and building software to operating physical infrastructure and trading power. Our ambition is to make energy cheaper and more abundant with AI, while building the energy and compute infrastructure that the next generation of AI will need.
+
+Responsibilities
+
+Design experiments to find the best model and approach for each workload, balancing accuracy, latency and cost.
+
+Own our evaluation framework: build high-quality datasets and golden answers, combine human and LLM judgments and measure how much confidence to place in each evaluator.
+
+Explore post-training methods, including supervised fine-tuning and reinforcement learning.
+
+Build agent harnesses that make long-running tasks reliable: tool use, deterministic checks, state tracking, retries, resource allocation and appropriate human approvals.
+
+Set evaluation and escalation thresholds according to the consequences of failure.
+
+Work with teams across Fuse to turn research results into production systems and bring new methods and hard-won lessons from the frontier of applied AI into the company.
+
+Requirements
+
+Strong experience applying modern AI models to real-world tasks with a track record of improving measured outcomes through experimentation.
+
+Deep understanding of evaluations, dataset quality and failure analysis. You know how to distinguish a genuine improvement from an unreliable benchmark result.
+
+Hands-on experience with several of model selection and routing, fine-tuning, reinforcement learning, agent systems or computer use.
+
+Strong software engineering skills, including Python and the ability to build reliable experimental and production tooling.
+
+Good judgment about cost, latency, reliability and risk, especially when deciding where deterministic checks or human review are needed.
+
+Ability to move between research and implementation: formulate a hypothesis, run a rigorous test, inspect failures and ship what works.
+
+Experience at a frontier AI lab or a team operating at a similar level of experimentation would be especially valuable.
+
+Benefits
+
+Competitive salary and eligibility for equity
+
+Biannual bonus scheme
+
+Fully expensed tech to match your needs
+
+Private health insurance
+
+Breakfast and dinner allowance for office-based employees
+
+As we hire globally, benefits may vary by location.",top match
+Gazelle Global Consulting Ltd,AI Engineer,"Fleet Street, Central London",https://www.adzuna.co.uk/jobs/details/5902750217?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"Salary: £36,000 - 60,000 per year
+Requirements:
+- Strong exposure to LLMs
+- Experience with data readiness and feasibility assessment
+- Knowledge of regulated delivery environments
+- Familiarity with responsible AI and ISO42001
+- Ability to work collaboratively in a multi-disciplinary team
+- Proficiency in Azure AI, Copilot, Power Platform, and prompt engineering
+Responsibilities:
+- Shape high value AI and Copilot use cases
+- Map workflows, prompts, and human-in-the-loop models
+- Own the product roadmap and define the value hypothesis
+- Define the MVP and commercial case across Data and AI initiatives
+- Develop AI-specific test strategy focusing on LLMs and prompt behavior
+- Establish guardrails, bias monitoring, and risk controls in regulated environments
+- Deliver hands-on solutions using Azure AI and related technologies
+Technologies:
+- AI
+- Azure
+- Copilot
+- Cloud
+More:
+We are building an AI Foundry capability and are looking to hire four senior contract professionals: an AI Design Analyst, an AI Product Lead, an AI Test Lead, and an AI Specialist. These roles will focus on developing AI use cases, product roadmaps, test strategies, and hands-on delivery of AI solutions. The positions are contract-based for 3 to 6 months with the potential for extensions, based out of Leeds or Bradford. We offer opportunities to work on cutting-edge AI projects in a collaborative environment.
+last updated 39 week of 2026",medium match
+Guidant Global,Senior Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/land/ad/5902328982?se=Yp1AGRW88RGGIMuNWmfObw&utm_medium=api&utm_source=dc96cb17&v=CC605BE684D6D46BBCC93A2723CF91877B6C7095,adzuna-api,2026-09-29,2026-09-29,"Working Environment
+You will operate with a high degree of autonomy, owning work end-to-end and engaging closely with both technical and non-technical stakeholders. Delivery is supported by a strong technical assurance and review culture, encouraging challenge, learning and high standards.
+You will work within security, compliance and governance constraints where quality and judgement matter as much as pace.
+What You'll Be Doing
+
+- Lead end-to-end delivery of machine learning solutions, from problem definition through experimentation, evaluation and iteration
+- Develop, validate and deploy machine learning models into production environments
+- Apply statistical, mathematical and scientific thinking to frame hypotheses and assess uncertainty
+- Design and run experiments to evaluate model behaviour, performance and user impact
+- Work with real, imperfect data drawn from operational systems and workflows
+- Integrate machine learning components into wider software and data platforms
+- Balance rigour with pragmatism, delivering solutions that are proportionate and effective
+- Communicate complex technical concepts clearly to non-technical stakeholders
+- Engage in technical reviews, design discussions and constructive peer challenge
+Your Experience
+
+- Proven experience operating at senior practitioner level as a Machine Learning Engineer, AI Engineer or equivalent
+- Strong grounding in applied mathematics, statistics and scientific practice
+- Excellent Python skills for building, evaluating and deploying machine learning models
+- Experience evaluating models through quantitative evidence and structured experimentation
+- Strong software engineering practices, producing readable, testable and maintainable code
+- Experience integrating ML solutions into production systems and workflows
+- Feels confident working in secure, regulated or high-assurance environments
+In Return
+You'll work on genuinely challenging machine learning problems where judgement, credibility and delivery matter in a supportive, committed, inclusive environment.
+This is an opportunity to operate with autonomy, shape solutions from first principles and contribute to high-impact outcomes within a strong professional culture.
+As an organisation and as a team, Guidant Global are committed to fostering an equitable, diverse and inclusive workplace, where every employee and contractor feels valued and empowered throughout their time with us.
+We actively seek to recruit talent from all backgrounds, and to draw on a rich blend of experiences, perspectives and creativity. We believe that when people are respected and included, they are motivated to bring their best and whole selves to work, leading to innovative solutions and exceptional outcomes for all parties.
+Guidant Global is acting as an Employment Business in relation to this vacancy.",top match
+Hackajob Ltd,Machine Learning Engineer,"Hyde Park, Leeds",https://www.adzuna.co.uk/jobs/details/5902751186?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-29,2026-09-29,"Salary: £90,000 - 90,000 per year
+Requirements:
+- Good understanding of computer science fundamentals, including data structures, algorithms and software design
+- Practical experience with classical machine learning techniques and an awareness of modern approaches such as natural language processing and deep learning
+- Strong Python skills and experience with common libraries such as Pandas, scikit-learn and Jupyter
+- Experience working with SQL and data pipelines to prepare and transform data for model training
+- Understanding of model evaluation, monitoring and improving performance in a production environment
+- Familiarity with tools and practices for deploying models, ideally including Git, CI workflows and containerisation
+- Comfortable working with statistical concepts to interpret data and assess model performance
+- Ability to work collaboratively, communicate clearly and deliver work to agreed outcome
+Responsibilities:
+- Develop machine learning models and support their deployment into production
+- Write production quality code that is robust, efficient and maintainable
+- Contribute to the implementation and improvement of pipelines, tooling and automation
+- Apply good engineering standards and practices in model development
+- Monitor performance and contribute to ongoing optimisation of models
+- Work with colleagues to understand requirements and priorities
+- Share knowledge, contribute ideas and support a collaborative team culture
+Technologies:
+- Git
+- Support
+- Jupyter
+- Machine Learning
+- Model Training
+- Python
+- SQL
+- pandas
+- AI
+More:
+hackajob is partnering directly with Kingfisher to hire for this role. We are Kingfisher, a team made up of over 74,000 passionate people who bring Kingfisher and our brands B&Q, Screwfix, Brico Dépot, Castorama and Koçtaş to life. Guided by our purpose, Better Homes. Better Lives. For Everyone., we believe a better world starts with better homes, and we work every day to make that a reality. Join us and help shape the future of home improvement. This is an opportunity to make a significant impact across one of the largest retail groups in Europe. You will work as part of a high-performing engineering team, collaborating with engineering, product and architecture colleagues to improve tools, processes and practices that accelerate the use of artificial intelligence across the organisation. We offer a hybrid working model that blends home working with in-person collaboration, with around 40% of time spent in person for our Engineering team. We also offer an inclusive environment, a competitive benefits package, and opportunities to stretch and grow your career. We are committed to diversity and inclusion and encourage applicants to apply even if they do not meet 100% of the requirements.
+last updated 39 week of 2026",top match
+Harnham - Data & Analytics Recruitment,AI Engineer,London,https://www.reed.co.uk/jobs/ai-engineer/57401008,reed-api,2026-09-29,2026-09-29,"AI Engineer
+London (Hybrid, 2-3 days onsite)
+Join a growing AI team building production-grade GenAI products that deliver real business impact. This is an opportunity to own projects end-to-end, from concept through to deployment, while helping shape the future direction of AI-powered solutions.
+The Company
+They are a global professional services organisation investing heavily in AI innovation. Their focus is on delivering scalable, customer-facing AI products, with particular emphasis on GenAI, document processing and agentic AI applications. The environment is collaborative, hands-on and product-focused.
+The Role
+
+- Build and deploy AI-powered product features into production.
+- Develop GenAI and agentic AI applications.
+- Create scalable solutions for document and text-processing challenges.
+- Contribute to system design, deployment and engineering best practices.
+- Work across the full product lifecycle, from proof of concept to release.
+Your Skills & Experience
+
+- Strong commercial experience delivering AI products into production.
+- Excellent software engineering foundations, ideally with full stack exposure.
+- Strong Python skills.
+- Experience with GenAI, agentic frameworks and document-processing use cases.
+- Hands-on experience with Docker and CI/CD.
+- Ability to demonstrate ownership and measurable project impact.
+- TypeScript, Kubernetes, Azure or Node.js experience is advantageous.",top match
+Harnham - Data & Analytics Recruitment,Data Scientist,London,https://www.reed.co.uk/jobs/data-scientist/57401038,reed-api,2026-09-29,2026-09-29,"Data Science Engineer
+London 2-3 days
+Join a newly established R&D function building data-driven and AI-enabled products. This is a hands-on role for someone who enjoys combining Data Science and Data Engineering to create scalable data solutions with real business impact.
+The Company
+They are investing heavily in data and AI, with a small multidisciplinary team focused on building analytical products from concept through to production. You'll work in a collaborative environment with plenty of ownership and exposure to cutting-edge technologies.
+The Role
+
+- Build scalable data pipelines using Microsoft Fabric and Databricks
+- Develop machine learning solutions across forecasting, anomaly detection, recommendation systems, and information extraction
+- Work with structured, semi-structured, and document-heavy datasets
+- Create reusable data assets and analytical products
+- Contribute to testing, APIs, CI/CD, and production deployments
+- Partner with stakeholders to solve business challenges through data
+Your Skills & Experience
+
+- Strong experience across both Data Science and Data Engineering
+- Hands-on expertise with Microsoft Fabric and Databricks
+- Advanced Python and SQL skills, with PySpark desirable
+- Experience building data pipelines and machine learning models
+- Knowledge of NLP, entity resolution, or document processing is advantageous
+- Strong communication skills and commercial awareness",medium match
+Harnham - Data & Analytics Recruitment,Senior AI Engineer,London,https://www.reed.co.uk/jobs/senior-ai-engineer/57402657,reed-api,2026-09-29,2026-09-29,"Senior AI Engineer
+London (Hybrid) | Up to £120,000 + Benefits
+Join a newly formed AI Lab focused on building the next generation of AI-powered products. This is a highly hands-on role where you'll work on LLMs, RAG systems, generative audio, and greenfield AI initiatives within a small, high-impact team.
+The Company
+A global information and media organisation operating across 170+ countries. Their dedicated AI team is exploring how Generative AI can transform content, research, and user experiences through innovative products and experimentation.
+The Role
+
+- Build and fine-tune LLM-powered applications
+- Develop RAG and retrieval workflows
+- Work on style, tone, and content modelling
+- Contribute to speech processing and generative audio projects
+- Improve existing AI agents and develop new AI products
+- Collaborate with engineering, product, and business stakeholders
+- Help shape technical architecture while remaining hands-on
+Your Skills & Experience
+
+- Strong commercial experience building production AI systems
+- Hands-on experience with LLMs, fine-tuning, NLP, and RAG
+- Software engineering and system design expertise
+- Experience working with content-focused AI applications
+- Strong communication skills and stakeholder management
+- Experimental mindset with a passion for AI innovation
+- Exposure to speech, audio, or voice AI is a bonus
+What They Offer
+
+- Up to £120,000 base salary
+- Hybrid working model
+- Opportunity to join a high-profile AI initiative at an early stage
+- Significant ownership and technical influence
+- Clear progression within a growing AI function
+Interview Process
+
+- Talent screening
+- Interview with the VP of AI
+- Technical take-home task
+- Technical review
+- Stakeholder interview
+How to Apply
+If you're passionate about LLMs, Generative AI, and building production AI products, apply now to learn more.",top match
+Hays Specialist Recruitment Limited,Senior Applied AI Engineer,London,https://www.reed.co.uk/jobs/senior-applied-ai-engineer/57403524,reed-api,2026-09-29,2026-09-29,"Your new company
+You will join an Investment Management firm developing the next stage of its portfolio technology platform. The business is looking to add a new AI layer and wants an engineer who can turn that ambition into a secure, dependable capability used by the wider team. You will join an existing operation and work closely with colleagues across the product and technical delivery.
+
+Your new role
+This is a hands-on position spanning AI application development, backend engineering, data integration and production delivery. You will:
+
+- Design, build and deliver the backend services and APIs that support the new AI layer.
+- Develop controlled integrations with internal data and agreed external information sources, ensuring outputs are current and traceable.
+- Work with a Frontend Engineer to connect the AI capability to the user interface and agree delivery priorities.
+- Build appropriate security controls, including permissions, audit logging and safeguards for sensitive data.
+- Establish automated tests and AI evaluations, then monitor accuracy, reliability, latency and cost once the capability is live.
+- Release iteratively, using feedback from users to improve the product and documenting the systems you build.
+
+What you'll need to succeed
+You will bring strong software-engineering judgement alongside practical experience of building AI systems. We are particularly interested in:
+
+- Around five or more years' relevant experience in software, machine learning or data engineering, with clear examples of taking applications beyond proof of concept and into production.
+- Strong Python skills and experience developing backend services, APIs and data pipelines; SQL experience would be valuable.
+- Hands-on experience with LLM applications, including areas such as agent workflows, tool use, retrieval or RAG, and connecting models to trusted data.
+- Experience deploying and operating applications on a major cloud platform, with a sound approach to CI/CD, automated testing and monitoring.
+- An understanding of AI evaluation, access controls, data protection and auditability when working with sensitive information.
+- The ability to make pragmatic architectural decisions, collaborate with other engineers and explain technical trade-offs to stakeholders.
+- Experience in investment management, wealth management, fintech or another data-sensitive environment would be advantageous, but demonstrable production AI delivery is the priority.
+
+What you'll get in return
+
+- Competitive bonus package (sign on and yearly)
+- Pension scheme
+- Annual leave
+- Hybrid working arrangements
+- Additional benefits in line with company policy
+
+What you need to do now
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career.
+Hays Specialist Recruitment Limited acts as an employment agency for permanent recruitment and employment business for the supply of temporary workers. By applying for this job you accept the T&C's, Privacy Policy and Disclaimers which can be found at hays.co.uk",medium match
+Lumai,AI Modelling and Simulation Engineer,Oxford,https://uk.indeed.com/viewjob?jk=b617b9296c52cdba,indeed,2026-09-29,2026-09-29,"Title: AI Modelling and Simulation Engineer
+Company: Lumai
+Location: Oxford
+Date: 2026-09-29
+Link: https://uk.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=b617b9296c52cdba&tk=1k3mpuot7gii5800
+
+---
+
+The Opportunity
+
+Lumai is moving from breakthrough optical-compute research to production AI systems. We need an engineer to build the performance and power modelling capability that guides architecture and compiler decisions before silicon exists, helping us turn a working system into a competitive product.
+
+The Role
+
+You will own the performance and power modelling framework that predicts how Lumai’s photonic AI hardware will perform against real inference workloads. Your models will give architecture and compiler teams a shared source of truth for latency, throughput and power across hardware configurations.
+
+The hard part is balancing speed, fidelity and usability: you will model concurrency, event-driven behaviour and compute-block latency at enough detail to support decisions, while keeping simulations fast enough to compare configurations in minutes. You will characterise operator-level workloads against hardware, RTL or emulation results so the model stays grounded in evidence.
+
+By month six, you will have established a reliable modelling flow for priority workloads and device configurations, demonstrated a clear path for closing gaps between model and hardware, and made the simulator a tool that architecture and compiler teams use to make decisions. You will report to the Head of Architecture or VP Engineering and may build and lead a small team around this capability.
+
+What You'll Do
+
+Design, build and maintain a Python-based framework that models hardware and software latency, hardware concurrency and event-driven relationships.
+
+Model compute engines, interconnect and synchronisation fabric, memory and bridge interfaces, and accelerator blocks across device configurations.
+
+Characterise convolution, depthwise convolution, pooling, attention and other operator workloads against hardware, RTL or emulation results.
+
+Build compiler-agnostic interfaces that ingest compiled models and MLIR from multiple internal compiler flows.
+
+Analyse simulation traces with architecture and compiler teams to improve layer-to-hardware mappings and resolve performance discrepancies.
+
+Run industry benchmarks and representative models, including UL Procyon, Geekbench AI, Stable Diffusion and contemporary LLMs, to produce decision-ready KPIs.
+
+Develop block-level power models and validate worst-case power scenarios with micro-architecture, verification and physical-design teams.
+
+Own the CI/CD pipelines and simulation flows that keep results reliable and reproducible as usage scales.
+
+Translate modelling findings into architecture and compiler decisions, while setting technical direction and developing engineers or interns as the team grows.
+
+What We're Looking For
+
+Must-have
+
+Proven experience building or substantially extending a hardware/software performance-modelling or simulation framework for AI/ML accelerators, ideally in Python.
+
+Strong understanding of hardware concurrency, event-driven modelling, and AI inference accelerator micro-architecture, including compute, memory hierarchy, interconnect and dataflow.
+
+Hands-on experience characterising AI operators and correlating model predictions with real hardware or hardware-accurate reference data.
+
+Familiarity with compiler internals and intermediate representations such as MLIR, including tooling that consumes compiler output to drive simulation.
+
+Strong software-engineering and technical-leadership practice, including framework design, CI/CD ownership and direction or review of work by junior engineers or interns.
+
+Strong preference for
+
+Direct experience with NPU, GPU or other edge or client AI inference accelerator architectures.
+
+Experience working across multiple compiler toolchains and reconciling architecture-level and production compiler behaviour.
+
+Exposure to power modelling, RTL, emulation, FPGA prototyping, photonic compute or another non-traditional compute architecture.
+
+About Lumai
+
+Lumai is the optical compute company building the next generation of AI infrastructure. Spun out of optics research at the University of Oxford in 2021, we compute with light instead of electrons. Our 3D optical technology carries out the matrix multiplications at the heart of AI inside beams of light travelling through free space, which lets it go beyond the limits of both silicon GPUs and integrated photonics.
+
+In April 2026 we launched Iris Nova, the world's first optical computing system to run billion-parameter large language models in real time, using up to 90% less energy than conventional GPU-based systems. Iris Nova, the first server in the family, is now available for evaluation by hyperscalers, neoclouds, enterprises and research institutions. Aura and Tetra will follow.
+
+Our work won the Falling Walls Award for Science Breakthrough of the Year 2025 and 'Best Overall Technology' at the OCP Future Technologies Symposium. We are headquartered in Oxford.
+
+Why Lumai
+
+You'll work on a new kind of computer. Optical computing for AI has been promised for decades. We have a working system running real models, and the hard part left is taking it to volume.
+
+Your work ships. We are moving from first product to volume production, so what you build this year goes into the servers our customers run.
+
+You'll work across disciplines. Optical engineers, machine learning researchers, and hardware and software engineers solve problems together. You will learn things that don't appear on your job description.
+
+The work matters beyond Lumai. AI's appetite for energy is one of the defining constraints of the next decade. Our mission is sustainable intelligence at global scale: AI that is faster, cheaper to run and far less power-hungry.
+
+You'll join early. You'll have a real say in how we build the product, the team and the way we work.
+
+Equal Opportunity
+
+Lumai is an equal opportunity employer. We make hiring decisions based on skills, experience and potential, and we welcome applications from people of all backgrounds. If you need an adjustment at any stage of the hiring process, let us know and we will do our best to support you.",low match
+Natilik,Cognigy AI Architect,London EC2M,https://uk.indeed.com/viewjob?jk=0f01818d191ce483,indeed,2026-09-29,2026-09-29,"Title: Cognigy AI Architect
+Company: Natilik
+Location: London EC2M
+Date: 2026-09-29
+Link: https://uk.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=0f01818d191ce483&tk=1k3mpuot7gii5800
+
+---
+
+Natilik is a global technology solutions and services provider.
+
+Our mission is two-fold: growing a brand that is seen as the industry’s “Confident Guide” and building a business with a balanced purpose. We want to be a “Confident Guide”, sat between the vendors, who make technology, and our clients who want to use it to help deliver the outcomes most important to them. We offer solutions, services, platforms, applications and expertise to help.
+
+We might help our clients in a simple way, such as supplying them with the ‘equipment’ they know they already need. Alternatively, they might want to partner with us and allow us to fill holes in their understanding. Or they might want us to take care of everything, helping to agree on the destination and guiding them every step of the way. From the small and simple, to the large and complex, we want a life-long partnership, a company our clients can rely on. We also want to continue to build a business that we can all be proud of, with a focus on five stakeholders: clients, people, partners, communities and shareholders.
+
+To ensure we live up to our mission and purpose we focus on five fundamental principles that have driven our award-winning success to date, namely:
+
+Caring deeply about our people
+
+Caring deeply about our clients
+
+Developing differentiated and valuable product, service and solution offerings
+
+Driving operational success through our processes, systems and methodologies and a mindset of continual improvement
+
+Continuing to grow organically and profitably
+
+At Natilik we care about everyone as an individual, as a human being, not just as an employee and try and treat people as such. An organisation that can align the performance, goals, beliefs and values of its people to the business goals, beliefs and values of the company can achieve amazing things! We want everyone to fulfil their potential. We want people to be able to grow and develop throughout their career and enjoy a wide range of opportunities. We believe that we can always learn new things, develop and grow as individuals and as teams. We support a working environment which encourages positive change and embracing new challenges. Not only does this ensure our clients receive the best delivery and service but importantly we know this is key to our people’s satisfaction at Natilik.
+
+Our Cognigy AI Architect owns the overall solution design, architecture, design standards, integration strategy, security approach, platform patterns, technical governance, conversation design approach, and design sign-off. The AI Architect may also be required to undertake or support AI Engineer responsibilities where necessary. These include implementing the agreed design, testing and debugging, maintaining documentation, and escalating any issues where the design is unclear, presents risks, is incomplete, or is blocked.
+
+Why this role matters
+
+Our Cognigy AI Architect ensures the solution is not just functional, but scalable, secure, maintainable, testable, and suitable for production voice and chat use cases. This role should provide the technical and conversational design clarity that allows our Cognigy AI Engineers to deliver confidently and consistently.
+
+Key responsibilities
+
+Own the end-to-end Cognigy solution design across the assigned use cases.
+
+Define the architecture, design patterns, flow structure, agentic AI strategy, tool-calling approach, integration model, security controls, guardrails, multilingual approach, voice experience, xApp strategy, reporting model, and production readiness standards.
+
+Decide when to use agentic AI, deterministic flows, NLU, Knowledge AI, xApps, or human handover.
+
+Define reusable patterns for LLM Prompt nodes, tool schemas, Resolve Tool Actions, context management, API integrations, fallback handling, escalation, and error recovery.
+
+Provide technical direction to Cognigy AI Engineers, review implementation quality, unblock delivery issues, validate design decisions, and own solution sign-off.
+
+Lead stakeholder workshops, demos, design reviews, risk reviews, and technical governance.
+
+Essential skills
+
+At least 2–3 years’ experience designing and delivering conversational AI, voice AI, or agentic AI solutions.
+
+Strong hands-on Cognigy AI architecture and delivery experience, including Flows, Voice Gateway, Agentic AI tool calling, LLM Prompt nodes, Knowledge AI, xApps, Playbooks, Insights, environment management, and reusable solution patterns.
+
+Strong practical understanding of LLM prompting, tool design, tool orchestration, structured tool results, hallucination prevention, prompt grounding, guardrails, and when to use deterministic logic or NLU alongside agentic reasoning.
+
+Good working knowledge of conversation design principles, including intent journeys, task flows, fallback paths, repair prompts, turn-taking, escalation points, voice-friendly wording, and reducing customer friction.
+
+Strong JavaScript understanding for reviewing Code Nodes, validation logic, payload mapping, API response handling, context manipulation, logging, and custom flow behaviour.
+
+Experience designing secure REST API integrations, PII-safe handling, authentication patterns, error handling, observability, and production support models.
+
+Strong voice-agent architecture experience, including STT/TTS selection, multilingual recognition, DTMF, barge-in, end pointing, transfers, hang-up logic, silence handling, latency, and speech tuning.
+
+Ability to debug complex issues using transcripts, context, input, tool arguments, Voice Gateway logs, API responses, Insights, and Code Node logs.
+
+Desirable skills
+
+Cognigy certification; advanced conversation design or voice UX experience, including persona design, tone-of-voice definition, dialogue repair strategy, multilingual copy design, IVR-to-voice-agent migration, containment optimisation, and usability testing.
+
+Contact-centre architecture experience
+
+Agent Copilot and Cisco Finesse integration experience
+
+SSML and advanced TTS tuning
+
+SIP/WebRTC, Twilio or similar voice connectivity
+
+CRM, case-management, or CCaaS integrations
+
+Experience defining guardrail frameworks for prompt leakage prevention, scope control, profanity filtering, hallucination prevention, and speech-safe output.
+
+Benefits
+
+Natilik offers a series of benefits and perks designed to support your personal and professional growth, while fostering a thriving and rewarding work environment. We recognise the importance of contributing to our people's well-being, job satisfaction, and work-life balance and remain committed to doing so. This is why we offer:
+
+25 days annual leave (+ bank holidays) rising with tenure
+
+Quarterly Awards and Bonuses
+
+Flexible Working Policy
+
+Competitive pension scheme
+
+Access to Financial Wellness support
+
+Industry-leading home working and mobility technology
+
+Private Medical Insurance
+
+Company shares (available after One year tenure)
+
+Medicash (Cashback Scheme)
+
+Retail discounts via Medicash
+
+Access to EAP scheme for you and your household
+
+Vehicle lease salary sacrifice scheme (available after One year tenure)
+
+Cycle to Work Scheme
+
+Annual paid volunteering day
+
+Enhanced parental leave
+
+Access to funding for additional qualifications and courses
+
+Access to paid study leave
+
+Natilik Diversity & Inclusion
+
+At Natilik we know it's crucial that our people reflect the diversity of our clients around the world. And we know that having people from all walks of life makes us a more creative and innovative company. That variety of experience, culture and background allows our teams to be better. We make sure we do whatever we can to support our people too: making them feel valued and included and unlocking their potential is essential. We're incredibly proud of our diversity.",low match
+Randstad Technologies,AI Full Stack Engineer,London,https://www.reed.co.uk/jobs/ai-full-stack-engineer/57401541,reed-api,2026-09-29,2026-09-29,"Job Overview
+
+- Role: AI Full Stack Engineer (AI & ML Engineer)
+
+- Location: Fenchurch Street, London
+
+- Duration: Oct 12, 2026 - Dec 15, 2026 (9 Weeks, 2 Days)
+
+- Hours: 40 hours/week
+
+- Rate: 291 PAYE / 388 Umbrella
+
+Core Technical Stack
+
+- Programming & APIs: Python, RESTful API development, JSON Schema, Pydantic.
+
+- AI & LLMs: Gemini, OpenAI, Claude.
+
+- Frameworks & Orchestration: Google ADK, LangChain, LangGraph.
+
+- Data & Search: AWS OpenSearch (Indexing and Vector embeddings - Highly emphasized ), Database Architecture (Intermediate).
+
+- Infrastructure: Public Cloud (GCP, AWS, or Azure), containerization, CI/CD pipelines.
+
+Key Responsibilities
+
+- Agentic Systems: Build multi-agent, stateful, and asynchronous workflows.
+
+- LLM Management: Handle prompt engineering, context/memory management, hallucination controls, guardrails, and fallback logic.
+
+- Observability: Implement tracing and evaluation frameworks, specifically utilizing LLM-as-a-Judge patterns.
+
+- Backend Engineering: Develop secure Python APIs and maintain strong testing and deployment disciplines.
+
+If interested kindly email me your updated CV to .
+Randstad Technologies is acting as an Employment Business in relation to this vacancy.",top match
+Slingco,Lead Data & AI Engineer,Rossendale BB4 6JG,https://uk.indeed.com/viewjob?jk=f3dab49503f8c734,indeed,2026-09-29,2026-09-29,"Title: Lead Data & AI Engineer
+Company: Slingco
+Location: Rossendale BB4 6JG
+Date: 2026-09-29
+Link: https://uk.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=f3dab49503f8c734&tk=1k3mpuot7gii5800
+
+---
+
+COMPANY BACKGROUND:
+
+SLINGCO is an award-winning supplier of high-quality tools and accessories for the installation and handling of cable, with over 40 years of industry heritage. We serve customers in over 70 countries worldwide from our head office in Lancashire, UK, and bases in Georgia, USA, and Bengaluru, India.
+
+Our products are used in safety critical applications for a wide range of markets. With sectors including oil & gas, civil engineering, aerospace, transport, utilities, marine/offshore and the military – there’s no room for error. That’s why we do everything with the utmost care and precision.
+
+We design and manufacture to the highest specifications and test to destruction. If our products don’t meet and exceed the most stringent national and international standards, they’re not good enough for our customers.
+
+At Slingco, our goal is to create innovative high-quality products that our customers can depend on, whilst providing a positive experience for our customers and our employees. Every aspect of our work, culture and commitment to innovation is driven by our core values.
+
+BENEFITS:
+
+Salary Dependent on Experience
+
+30 days’ annual leave including Bank Holidays, rising to 35 with service
+
+Option to buy 5 additional holidays
+
+Your birthday off
+
+Hybrid working options
+
+Enhanced employer pension contribution
+
+Life assurance cover x4 salary
+
+Gym membership
+
+Cycle to work scheme
+
+Employee loan scheme
+
+Employee Assistance Programme (EAP)
+
+POSITION SUMMARY:
+
+We are looking for an experienced lead data engineer to build our first group data platform on Microsoft Fabric. The aim is to bring together data from our business systems, replace fragmented reporting and give colleagues reliable information they can use to make decisions.
+
+This is a hands-on role and our first senior data hire. There is no dedicated data team in place yet, so you will take responsibility for the architecture and the build. You will work directly with senior leaders and business teams to agree requirements and priorities, establish how data is managed and help plan the future team. The role also includes developing conversational AI tools and a self-service BI layer that let colleagues ask questions of approved business data.
+
+KEY DUTIES & RESPONSIBILITIES:
+
+Own data requirements gathering across the group and prioritize a single visible backlog against capacity
+
+Design, build and run the Microsoft Fabric platform, including pipelines, capacity, running costs and reliability
+
+Integrate Business Central, CRM, HR and all other operational systems across global business entities
+
+Gather business requirements and maintain a single prioritised backlog that reflects delivery capacity
+
+Put source control, CI/CD, automated testing, monitoring and alerting in place. Document the standards and ways of working for the future team
+
+Set pragmatic data governance, security and quality standards — proportionate to a business moving from low data maturity
+
+Agree common KPI definitions with business owners and build certified Power BI semantic models to support executive and operational reporting
+
+Set practical standards for data ownership, quality and security, including access controls, row-level security, classification and masking of sensitive data
+
+Deliver executive and operational reporting from the governed layer, and define the standardized KPI set behind it
+
+Assist key business users in analysing data from approved datasets, with appropriate training, access and support
+
+Prepare semantic models for AI use, with clear definitions, relationships and rules for interpreting the data
+
+Build secure ways for AI agents and conversational tools to retrieve and query approved data, enforcing each user's access permissions
+
+Act as technical counterpart to the AI & Automation Partner, ensuring agents and conversational AI consume governed data
+
+PERSON SPECIFICATION:
+
+Strong analytical, problem-solving and decision-making skills
+
+Excellent communication skills, with the ability to explain complex information clearly to technical and non-technical colleagues
+
+Strong stakeholder management skills, with the ability to build effective relationships with senior leaders and business teams
+
+Highly organised, with the ability to manage competing priorities, gather requirements and work within agreed capacity
+
+Able to work independently, take ownership and use initiative within a developing data environment
+
+Strong attention to detail and commitment to data quality, security, accuracy and continuous improvement
+
+EXPERIENCE & QUALIFICATIONS:
+
+Essential
+
+Experience designing and building a data platform from scratch, with responsibility for architecture and delivery in a business with limited existing data capability
+
+Strong SQL and Python or PySpark skills, with practical experience of ELT pipelines, dimensional modelling, source control and CI/CD
+
+Experience putting data governance and self-service BI into practice, including ownership, quality standards, training and user adoption
+
+Microsoft Fabric experience, or transferable Azure Synapse or Databricks Lakehouse experience, including an understanding of medallion architecture
+
+Strong Power BI semantic modelling and DAX skills, sufficient to take responsibility for shared datasets and business measures
+
+Ability to work as the sole senior data specialist, gather requirements from senior stakeholders, resolve conflicting definitions and explain priorities and technical decisions clearly
+
+Desirable
+
+Experience connecting AI tools to governed business data, such as Copilot, natural-language querying or agent-based retrieval, and testing the accuracy of their answers
+
+Experience with Business Central or a comparable ERP, particularly in manufacturing or distribution
+
+Multi-entity and multi-currency group reporting
+
+Relevant Microsoft Azure or Fabric certifications",medium match
+Tangent Marketing Services,AI Product Designer - London,London W1T,https://uk.indeed.com/viewjob?jk=c8cfcf7c4a5987e0,indeed,2026-09-29,2026-09-29,"Title: AI Product Designer - London
+Company: Tangent Marketing Services
+Location: London W1T
+Date: 2026-09-29
+Link: https://uk.indeed.com/viewjob?from=app-tracker-saved-appcard&hl=en&jk=c8cfcf7c4a5987e0&tk=1k3mpuot7gii5800
+
+---
+
+About Tangent
+
+We’re Tangent, a digital agency partnering with some of the world’s largest enterprises to design future-ready experiences, products and capabilities.
+
+Our multidisciplinary design team spans strategy, UX and UI, with a growing focus on LLM-powered interfaces, generative UI (GenUI) and AI-enabled design workflows. We work closely with engineers and client teams to turn complex challenges into clear, practical direction and deliver work that genuinely scales.
+
+We’re now looking for a mid-weight AI Product Designer who’s excited by how design is evolving and wants to help shape what modern, AI-powered experiences look and feel like.
+
+What you'll be doing
+
+Discovery, Research and Insight
+
+Support qualitative and quantitative research activities, using AI-assisted tools to help synthesise insight, identify patterns and inform product direction.
+Translate research into clear experience opportunities, particularly where LLM-powered interfaces can add meaningful value.
+
+AI-powered UX and Prototyping
+
+Design and prototype user experiences that combine strong design fundamentals with LLM-powered and GenUI approaches.
+
+Explore conversational, adaptive and system-driven interfaces, testing ideas quickly and iterating based on feedback.
+Work across low and high fidelity prototypes, including interactive and conversational concepts.
+
+Conversational, Agentic and LLM-powered Experiences
+
+Support the design of LLM-powered interfaces, including conversational and agent-like experiences.
+
+Help shape prompts, flows, states and interaction patterns that sit on top of language models and feel natural, on-brand and genuinely useful.
+Collaborate with engineers to understand model behaviour and design interfaces that work with its strengths and limitations.
+
+Design Systems and GenUI
+
+Apply and extend design systems to support GenUI and AI-driven interfaces, ensuring consistency, clarity and scalability.
+Explore how structured design foundations such as tokens, components and patterns can power adaptive and generative UI experiences.
+
+Client Collaboration and Workshops
+
+Contribute to collaborative workshops that help clients understand emerging AI-powered and GenUI experiences.
+Work alongside senior designers to turn complex ideas into clear, actionable outcomes.
+
+Communication and Craft
+
+Clearly explain design decisions, connecting user needs, business goals and emerging technology.
+Share work confidently with internal teams and clients through strong storytelling and visual communication.
+
+Innovation and Growth
+
+Stay curious about new tools, workflows and ways of working, including vibe-driven design and coding workflows, no-code tools and AI-assisted prototyping.
+Contribute ideas that help Tangent evolve its AI and design practice.
+
+What we are looking for
+
+We’re looking for a mid-weight designer with strong digital design foundations and a genuine interest in LLM-powered interfaces and GenUI.
+
+You don’t need to be an AI expert, but you should be excited by where design is heading.
+
+You can demonstrate:
+
+Strong UX and UI design fundamentals, with confidence using modern design tools
+
+Experience prototyping and iterating ideas, including interactive or conversational experiences
+
+Interest or hands-on exposure to LLM-powered interfaces, conversational UX or GenUI through client work, internal projects, prototypes or personal exploration
+
+Design systems literacy, with an understanding of how systems enable scale, especially in AI-driven products
+
+Clear communication skills and a collaborative mindset
+
+Comfort working through ambiguity and evolving problems
+
+Curiosity, adaptability and a desire to keep learning
+
+Attention to detail without losing sight of the bigger picture
+Alignment with Tangent’s values and culture
+
+Experience with coding isn’t required, but curiosity around vibe-driven workflows, no-code tools or AI-assisted build approaches is a definite plus.
+
+What we believe
+
+At Tangent we understand people - designing user-centric products and creating high-performing teams.
+
+We are truly committed to protecting our most important asset, the planet. Always seeking to improve our digital footprint and lower carbon emissions.
+
+We make decisions with a purpose in mind. Producing work that is measurable, considered and will drive clients’ businesses forward.
+
+Our strategy is underpinned by our 4 core values:
+
+Always ask questions
+
+Listen more than speak
+
+Own your area
+
+Strive for better
+
+What we offer
+
+We work hard to make sure Tangent is not only a fun place to work but also provides a platform for you to grow.
+
+100% remote working.
+
+We understand life is about balance, which is why we offer a flexible approach to remote working. This role will be aligned to our London office, with the flexibility to work remotely most of the time. There may be occasions where you’ll be required to attend the London office for team or business needs, rather than on a fixed number of days each week.
+
+Global socials and parties
+
+There’s always a social in the works at Tangent - all designed to help you form friendships with your colleagues.
+
+Enhanced holiday
+
+After two years of service, earn an extra day off each subsequent year, accumulating up to a maximum of 3 additional days. Embrace a well-deserved moment of rest or check something off your life bucket list- it’s totally up to you.
+
+Growth and training
+
+We provide continuous opportunities for improvement and career development. From specific training or qualifications to event attendance, we encourage our teams to stay curious, nurture their skills and reach their ambitions.
+
+Private healthcare
+
+After one year of service, employees based in the UK are eligible to private medical insurance. So, when life throws you healthcare curveball, rest assured you can get the professional care you need.
+
+At Tangent our aim is to create a working environment where every single member of the team has the opportunity to be themselves. We are an equal opportunities employer and will welcome and consider all applications regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion, sex and sexual orientation.",low match
+A&O Shearman,Senior AI Engineer,UK,https://www.adzuna.co.uk/jobs/land/ad/5901147821?se=WnjsFxW88RGpps7V-erNsQ&utm_medium=api&utm_source=dc96cb17&v=5B1FD626ACCDDBF566BB61901BDDFCE5D50CF5E3,adzuna-api,2026-09-28,2026-09-29,"We have an exciting opportunity for a Senior AI Engineer (Manager) to join our IT (EA & Technology Platforms) team, based in A&O Shearman's Belfast office.
+
+What you will do
+
+Reporting to the AI Platform Owner, this role will be a senior technical leader responsible for the strategy, design, and implementation of advanced AI and ML use cases across the firm. The role is a member of AI leadership and is responsible for managing and motivating a team of skilled IT professionals and directing external third-party service providers.
+
+The role is accountable for the implementation of the full lifecycle of AI solutions including model development, validation, deployment, and integration into other systems while providing feedback to continue to evolve the AI platform.
+The ideal candidate will have a strong background in machine learning, data analysis, and software development. The role will be responsible for designing, developing, and implementing AI solutions to solve complex problems and enhance our products and services resulting in improved experiences for our fee earners and business teams.
+
+- Maintain strong customer relationships with fee earners and business teams to manage the delivery of driving the technical strategy for AI solutions, ensuring scalable architecture and alignment with best practices.
+- Work as part of the Enterprise Architecture & Technology Platforms leadership team to collectively define, implement and operate the firm’s technical strategy for AI solutions, ensuring scalable architecture and alignment with best practices.
+- Work with senior stakeholders from business teams to understand AI use cases mapping to business outcomes.
+- Act as the focal point for matters related to driving the technical strategy for AI solutions, ensuring scalable architecture and alignment with best practices, providing expert guidance to other teams when required.
+- Performance management of AI Engineering, providing mentorship and ensuring alignment with HR standards and policies.
+- Facilitate regular service provider reviews to assess performance against service targets, drive innovation and ensure any remediation activities are being delivered.
+- Own the technical strategy for AI solutions, ensuring scalable architecture and alignment with best practices budget and benefits delivery, balancing priorities and clearly demonstrating the value that the firm’s AI solutions deliver whilst working with IT Business Operations to ensure alignment.
+- Actively identify and pursue opportunities for continuous improvement in driving the technical strategy for AI solutions, ensuring scalable architecture and alignment with best practices, whilst assessing the viability and business value for the firm.
+
+What you will have
+- Experience in machine learning, deep learning, and AI model development
+- Proficiency in programming languages such as Python, R, or C-Sharp.
+- Experience with AI frameworks and libraries such as TensorFlow, PyTorch, or scikit-learn.
+- Experience with cloud platforms (AWS, GCP, Azure), experience with Azure a plus.
+- Experience leveraging AI code-writing assistants (e.g., GitHub Copilot, Claude Code, Codex) with appropriate engineering controls (code review, testing, security) in professional environments.
+- Knowledge of IT strategic planning, design, and operations processes.
+- Proven project and program management capabilities.
+- Strong knowledge of current IT and data market trends and technology innovations.
+- Proven track record of managing large global teams.
+- Experience within the legal or professional services sector is desirable but not essential.
+- Excellent stakeholder engagement and communication skills.
+- Excellent business acumen and understanding of how the firm is positioned in the market.
+- Ability to lead and develop teams.
+- Promotes the firm's values at all times and fosters collaborative working relationships with a wide range of people and departments.
+
+NO AGENCIES PLEASE - A&O Shearman does not accept unsolicited CVs. For further information, please see our UK Recruitment Agency Policy and our commitment to direct sourcing here.
+
+#LI",medium match
+Hackajob Ltd,Forward Deployed Engineer,"Belfast, Northern Ireland",https://www.adzuna.co.uk/jobs/land/ad/5901355658?se=HAqGGxW88RGQguK4I3PIXQ&utm_medium=api&utm_source=dc96cb17&v=45757448A16D7228A4C9D9681F539674AC40D6BD,adzuna-api,2026-09-28,2026-09-29,"Join Kainos and Shape the Future At Kainos, were problem solvers, innovators, and collaborators - driven by a shared mission to create real impact. Whether were transforming digital services for millions, delivering cutting-edge Workday solutions, or pushing the boundaries of technology, we do it together. We believe in a people-first culture , where your ideas are valued, your growth is supported, and your contributions truly make a difference. Here, youll be part of a diverse, ambitious team …",top match
+Hays Specialist Recruitment Limited,SC Cleared Lead AI Engineer (AI adoption & Governance),London,https://www.reed.co.uk/jobs/sc-cleared-lead-ai-engineer-ai-adoption-governance/57398949,reed-api,2026-09-28,2026-09-29,"We are looking for a Lead AI Engineer, specialising in AI Adoption & Governance with demonstrable hands-on practice in current AI engineering tooling with proven experience setting standards and guardrails across the Software Development Lifecycle (SDLC). Fluent in agentic ways of working including model selection, prompt / harness engineering, agent-tool integration (such as MCP), reusable skill and instruction packaging. The role pairs horizon scanning with practical delivery, spotting emerging capability maps and converting isolated experimentation into reusable, centralised adoption patterns. Initial emphasis on landscape setting, evaluation and standard design, shifting over time towards a forward deployed model. Strong stakeholder management is essential, internally across portfolios, professions and assurance functions, and externally with suppliers and technology providers. This is an influencing role rather than a mandating one, so success depends on evidence, brokering and consensus rather than formal authority over portfolio tooling decisions.*This is a senior technical influence role rather than a conventional people-management position. The person should be capable of leading standards and adoption across multiple teams while remaining sufficiently hands-on to test approaches and work directly with delivery teams.
+Essential
+
+- Hands-on practice with agentic AI engineering: building and running agent workflows, model selection, prompt / harness engineering, agent-tool integration, reusable skills and instructions.
+- Knowledge of applying AI across the SDLC including test generation, code review augmentation, documentation, legacy comprehension, and modernisation.
+- AI coding and agent tooling exposure e.g., Claude Code, GitHub CoPilot, Codex, Kiro, MCP server development
+- Defined standards, guardrails, or engineering practices that were adopted across multiple teams, with evidence of how adoption was achieved.
+- Influenced without formal authority across organisational / team boundaries. Prior engagement with suppliers and technology providers.
+- Provided coaching, targeted training or running champions network, supporting a self-sustaining community of practice.
+
+Desirable
+
+- Software engineering background in large-scale production systems, sufficient to embed within delivery teams and be credible on their stack.
+- Model access and platform routes e.g., AWS Bedrock, Azure OpenAI, AI / MCP Gateways, model routing, authentication, and cost optimisation
+- Structured evaluation of tools or techniques, e.g., defining clear hypotheses, baselines, success criteria, and candid reporting including negative results.
+- Knowledge of AI evaluation and measurement processes e.g., eval harnesses, regression suites for non-deterministic output, LLM-as-judge
+- Awareness of assurance and security context e.g., Secure by Design, DPIA, DPA
+
+Lead-level individual contributor This is a senior technical influence role rather than a conventional people-management position. The person should be capable of leading standards and adoption across multiple teams while remaining sufficiently hands-on to test approaches and work directly with delivery teams.
+
+- Lead horizon scanning across the AI tooling landscape, translating emerging capability into practical, prioritised opportunities for portfolios.
+- Build and sustain the internal practitioner community: run knowledge sharing, drop-in support and champions networks, actively seeking out teams already experimenting so their learning is captured and reused.
+- Build capability through coaching and targeted training so adoption persists without central support.
+- Engage across government and industry to bring proven approaches in, contribute Home Office evidence back, and avoid duplication of work.
+- Engage suppliers and technology providers to identify reusable practice and reduce fragmented, supplier-specific approaches.
+- Surface and broker resolution of reoccurring adoption blockers across governance, tooling, data, security and commercial routes.
+- Run structured proofs of value with defined hypotheses, baselines and exist conditions; reporting candidly on benefit realisation.
+- Embed with delivery teams as a forward deployed engineer, providing hands-on support to prove approaches in real codebases and transitioning ownership to those teams.
+Advise where AI adoption should be constrained, paused, or stopped based on risk to security, quality or maintainability
+Hays Specialist Recruitment Limited acts as an employment agency for permanent recruitment and employment business for the supply of temporary workers. By applying for this job you accept the T&C's, Privacy Policy and Disclaimers which can be found at hays.co.uk",medium match
+Microsoft,Senior Software Engineer - FDE,"United Kingdom, London, London",https://apply.careers.microsoft.com/careers/job/1970393556980510,microsoft-api,2026-09-28,2026-09-29,"Overview In the Microsoft Frontier Company Engineering team, you won’t just build software; you’ll deliver real outcomes for some of the world’s most complex organizations. We are a global team of world-class engineers who have been working in a Forward Deployed Engineering (FDE) model for more than a decade, embedding directly within customer teams to solve their toughest challenges, side-by-side, and shipping production-ready solutions in days, not months. We are hiring a Senior Software Engineer to bring strong software design and engineering expertise, building reliable systems and production-ready services that turn ideas and data-driven insights into scalable solutions. Software engineers bring strong software design and engineering expertise, building reliable systems and production-ready services that turn ideas and data-driven insights into scalable solutions. You will be part of a cross-functional team of software engineers, data scientists, technical program managers, and designers who work side-by-side with high-impact and strategic customers and their engineers to build innovative solutions. Our work is powered by AI, applying the mindset and tooling across the entire development lifecycle to move from idea to production in days while maintaining the highest standards of security, quality, and trust. This role offers the opportunity to: Build reliable, production-ready systems and services that turn ideas into scalable solutions Ship engineering work that directly influences business strategy and customer outcomes Collaborate with leading global organizations across industries Apply the latest advancements in AI and software engineering to solve problems at scale Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees, we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond. Responsibilities Put security first: Build and ship solutions that meet enterprise security standards (threat modeling, secure coding, privacy, and compliance) from design through production. Translate business needs into technical solutions: Partner with stakeholders to define problem statements, success metrics, and architectural approaches that deliver measurable outcomes. Design and lead architecture: Own end-to-end system design for cloud and AI workloads, making sound tradeoffs across reliability, performance, cost, and maintainability. Deliver quickly without sacrificing quality: Use modern engineering practices (CI/CD, automated testing, observability, and progressive delivery) to iterate fast and reduce operational risk. Drive customer success and adoption: Work directly with customer engineering teams to deliver production-ready solutions, unblock delivery, and ensure outcomes are adopted at scale. Build reusable, scalable assets: Create solution accelerators, reference architectures, and code that can be reused across customers and scenarios to maximize impact. Operate effectively in ambiguity: Continuously learn and adapt as technologies and customer priorities evolve; bring clarity, structure, and momentum to complex engagements. Lead and mentor across disciplines: Provide technical direction, coach engineers, and collaborate with product, data, and security partners to deliver as one team. Lead complex delivery end-to-end: Coordinate multiple workstreams, manage dependencies, and raise the bar on reliability and operational excellence for services running in production. Model inclusive, customer-obsessed leadership: Create an environment of trust, accountability, and continuous improvement while representing the company professionally with external stakeholders. Qualifications Required / Minimum Qualifications Bachelor's Degree in Computer Science or related technical field AND 6+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience. Experience partnering directly with customers or internal stakeholders to deliver solutions end-to-end. Additional or Preferred Qualifications (PQs) Experience designing, deploying, and operating AI or LLM-based solutions, including prompt engineering, retrieval-augmented approaches, model tuning, evaluation, data quality, performance monitoring, and use of cloud AI platforms Familiarity with deploying and operating AI systems in production environments Software Engineering IC4 - The typical base pay range for this role across United Kingdom is £ 74,700.00 - £ 122,600.00 per year. Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/v2/global/en/corporate-pay/united-kingdom-corporate-pay.html This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",medium match
+Mistral AI,"Research Engineer, Machine Learning",Paris · Zurich · Switzerland · Warsaw · Poland · London · United Kingdom,https://jobs.ashbyhq.com/mistral.ai/0e578cff-741d-4870-9c2c-aac85f9de266,ashby-api,2026-09-28,2026-09-29,"ABOUT MISTRAL
+
+Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.
+
+We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited.
+
+ABOUT THE RESEARCH ENGINEERING TEAM
+
+The team spans Platform (shared infra & clean code) and Embedded (inside research squads). Engineers can move along the research↔production spectrum as needs or interests evolve.
+
+As a Research Engineer – ML track, you’ll build and optimise the large-scale learning systems that power our open-weight models. Working hand-in-hand with Research Scientists, you’ll either join:
+
+- Platform RE Team: Enhance the shared training framework, data pipelines and cluster tooling used by every team; or
+
+- Embedded RE Team: Sit inside a research squad (Alignment, Pre-training, Multimodal, Safety …) and turn fresh ideas into repeatable, scalable code.
+
+What You Will Do
+
+• Accelerate researchers by taking on the heavy parts of large-scale ML pipelines and building robust tools.
+
+• Interface cutting-edge research with production: integrate checkpoints, streamline evaluation, and expose APIs.
+
+• Design, implement and benchmark ML algorithms; write clear, efficient code in Python.
+
+• Deliver prototypes that become production-grade components for Vibe and our enterprise API.
+
+What We're Looking For
+
+• Master’s or PhD in Computer Science (or equivalent proven track record).
+
+• 4 + years working on large-scale ML codebases.
+
+• Hands-on with PyTorch, JAX or TensorFlow; comfortable with distributed training (DeepSpeed / FSDP / SLURM / K8s).
+
+• Experience in deep learning, NLP or LLMs; bonus for CUDA or data-pipeline chops.
+
+• Strong software-design instincts: testing, code review, CI/CD.
+
+• Self-starter, low-ego, collaborative.
+
+WHAT WE OFFER
+
+We offer a comprehensive benefits package designed to support your well-being, growth, and work-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location-specific perks.
+
+For the most up-to-date details on benefits available in your location, please refer to our Benefits page https://app.notion.com/p/mistralai/Benefits-at-Mistral-36e6ba59a7fe836b93dd01737fcc27ef?source=copy_link.
+
+PRIVACY POLICY
+
+Your privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy https://legal.mistral.ai/terms/applicant-privacy-policy.",medium match
+Opus Recruitment Solutions Ltd,AI Engineer - Semantic Layer & Agentic AI,London,https://www.reed.co.uk/jobs/ai-engineer-semantic-layer-agentic-ai/57400196,reed-api,2026-09-28,2026-09-29,"We're looking for an AI Engineer to help build the data foundations powering the next generation of AI applications, agents and copilots.
+Key Responsibilities:
+
+- Design and develop semantic layers, knowledge graphs and AI-ready data models
+- Build RAG and Agentic AI solutions using modern LLM frameworks
+- Work with Data Engineering teams to create business context across complex datasets
+- Develop scalable retrieval, search and reasoning capabilities for AI applications
+- Contribute to AI governance, data quality and platform architecture
+Required Experience:
+
+- Strong Python and SQL skills
+- Experience with AI/ML, LLMs or GenAI applications
+- Knowledge of semantic modelling, knowledge graphs or metadata-driven architectures
+- Experience with RAG, vector databases and modern AI frameworks
+- Exposure to AWS, Azure or GCP
+Desirable:
+
+- Neo4j or graph database experience
+- LangChain, LangGraph or LlamaIndex
+- Databricks, Snowflake or modern data platforms
+- Agentic AI and AI platform engineering",top match
+SHI International Corp.,Data Scientist,UK,https://www.adzuna.co.uk/jobs/details/5901737874?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-28,2026-09-29,"About Us Since 1989, SHI International Corp. has helped organizations change the world through technology. We've grown every year since, and today we're proud to be a $16 billion global provider of IT solutions and services. Over 17,000 organizations worldwide rely on SHI's concierge approach to help them solve what's next. But the heartbeat of SHI is our employees - all 7,000 of them. If you join our team, you'll enjoy: Our commitment to diversity, as the largest minority- and woman-owned ente…",top match
+WhyHireWrong?,"Lead AI Engineer, Game Generation","London, UK",https://www.adzuna.co.uk/jobs/details/5901707189?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-28,2026-09-29,"About the role This role takes technical ownership of the core product: the end-to-end game generation pipeline. The person in this role will scale the system to drive up the playability pass rate while driving down the cost per generation at volume. Work spans the full AI generation loop: generation, validation, repair, and evaluation. Responsibilities - Own the end-to-end game generation pipeline from prompt to running browser game - Build and maintain automated validation and repair loops fo…",top match
+83zero Limited,Python Developer - GenAI,"Glasgow, Scotland",https://www.adzuna.co.uk/jobs/land/ad/5900055924?se=bGiwGhW88RGsapmCK03uFQ&utm_medium=api&utm_source=dc96cb17&v=150B6BB16664884C4C890D3AB0AD40F97A10F2BD,adzuna-api,2026-09-27,2026-09-29,"Python Developer - GenAI Salary: £45,000 - £55,000 plus benefits, perks and healthcare options Locations: London, Bristol, Manchester, Glasgow or Newcastle Job Type: Permanent | Hybrid / 2 days per week onsite | Occasional travel to client sites Requirements: SC eligibility & full right to work in the UK required (no sponsorship available) The Role: We're looking for hands-on Python Developers at Consultant level who have experience building software and a practical understanding of Generative …",top match
+83zero Limited,Senior AI Engineer,"Glasgow, Scotland",https://www.adzuna.co.uk/jobs/land/ad/5900435607?se=WnjsFxW88RGpps7V-erNsQ&utm_medium=api&utm_source=dc96cb17&v=9E63F4E4FAA4E0B30D1459247BFD82007306A826,adzuna-api,2026-09-27,2026-09-29,"Senior Python Developer - GenAI
+
+- Salary: £60,000 - £70,000 plus benefits, perks and healthcare options
+- Locations: London, Bristol, Manchester, Glasgow or Newcastle
+- Job Type: Permanent | Hybrid / 2 days per week onsite | Occasional travel to client sites
+- Requirements: SC eligibility & full right to work in the UK required (no sponsorship available)
+
+The Role:
+We're looking for hands-on Python Developers at Senior level who have experience building software and a practical understanding of Generative AI, LLMs and RAG.
+This is a coding-focused role for engineers who enjoy building real solutions. You'll use Python as your primary development language, developing APIs, services and AI applications using technologies such as LLMs, RAG, AI agents and vector search.
+You'll work across the development lifecycle, helping take GenAI ideas and POC's through to robust, production-ready applications for enterprise clients.
+
+What you'll be doing:
+
+- Build production applications and APIs using Python and FastAPI
+- Develop LLM, RAG and AI agent solutions
+- Build RAG pipelines covering embeddings, retrieval and generation
+- Work with OpenAI, Anthropic, Mistral, Llama and similar LLMs
+- Use LangChain, LangGraph, CrewAI or similar AI framework
+- Work with vector databases including Pinecone, Qdrant, ChromaDB and PGVector
+- Take GenAI POCs into production and scale them
+- Build APIs, microservices and AI integrations
+- Deploy solutions using AWS/Azure, Docker and Kubernetes
+- Write clean, testable and maintainable Python code
+- Work with PostgreSQL, MongoDB, Git and CI/CD
+- Collaborate with engineers, architects and client stakeholders
+
+What we're looking for:
+
+- Proven leadership and mentoring experience required for Senior Consultant level.
+- Strong commercial Python development experience
+- Experience building APIs, microservices and backend applications
+- Hands-on experience with LLMs, Generative AI and RAG
+- Experience with AI frameworks such as LangChain, LangGraph or CrewAI
+- Experience with vector databases and semantic search
+- Experience with OpenAI, Anthropic, Mistral, Llama or similar
+- Good software engineering, testing and Git practices
+- Experience with AWS or Azure, Docker and ideally Kubernetes
+- Experience with PostgreSQL, MongoDB or similar databases
+- Experience with CI/CD using GitHub, GitLab or Jenkins
+- Agile engineering experience
+- Experience with AI agents, tool calling, embeddings, prompt engineering or LLM observability is beneficial
+- React/TypeScript and Terraform/IaC experience is beneficial
+- Experience taking GenAI POCs into production is highly beneficial
+Why this role?
+You'll work on real-world AI engineering projects, combining strong Python software development with modern GenAI technologies. The focus is on building and engineering, giving you the opportunity to write code, develop AI applications and solve technical problems while working with the latest LLM and RAG technologies.
+You'll also have the opportunity to work directly with enterprise clients and develop your experience across both software engineering and Generative AI.
+
+If you're a strong Python engineer with hands-on GenAI experience and want to build production-level AI applications, we'd like to hear from you.",top match
+Hiscox,Data Scientist,"Manchester, Greater Manchester",https://www.adzuna.co.uk/jobs/details/5900645402?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-27,2026-09-29,"Job Type: Permanent Build a brilliant future with Hiscox The technology team for Hiscox UK is an integral part of the business and is central to the Hiscox strategy, driving the technology agenda that underpins the UK Retail business strategy. We are a team who push the organization to think differently and we are solutions and outcomes focussed. We are therefore look to attract / recruit people who aren’t afraid to challenge how things are done and approach their work with a pioneering mindset…",top match
+Hiscox,Machine Learning Engineer,"Manchester, Greater Manchester",https://www.adzuna.co.uk/jobs/details/5900643933?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-27,2026-09-29,"Job Type: Permanent Build a brilliant future with Hiscox About Hiscox Hiscox UK is a leading brand in the insurance market, recognised as setting the standards others try to emulate. We consistently deliver strong growth and exceptional returns, recruiting only the very best and empowering them to deliver. We are known for insuring the homes of the rich and famous through to the most innovative technology companies. Our customers are diverse and unique and are only united by our ability to prov…",top match
+Moment Energy,Data Scientist,UK,https://www.adzuna.co.uk/jobs/details/5900643346?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-27,2026-09-29,"About Moment Energy Independent energy is here. Help us deploy it. Energy should be free. Free from aging grids, fragile supply chains, and unnecessary extraction. At Moment Energy, we’re building a world where clean power is abundant, affordable, and uninterrupted for everyone. The world doesn’t need another promise about energy; it needs proof that a freer future is possible. Moment Energy is the pragmatic liberator of power, the only company certified to turn the largest untapped energy supp…",low match
+83zero Limited,Python Developer - AI,"Manchester, Greater Manchester",https://www.adzuna.co.uk/jobs/land/ad/5899426938?se=bGiwGhW88RGsapmCK03uFQ&utm_medium=api&utm_source=dc96cb17&v=2CED716F78CAF91BABD057E00015300367425BAB,adzuna-api,2026-09-26,2026-09-29,"Python Developer - GenAI Salary: £45,000 - £55,000 plus benefits, perks and healthcare options Locations: London, Bristol, Manchester, Glasgow or Newcastle Job Type: Permanent | Hybrid / 2 days per week onsite | Occasional travel to client sites Requirements: SC eligibility & full right to work in the UK required (no sponsorship available) The Role: We're looking for hands-on Python Developers at Consultant level who have experience building software and a practical understanding of Generative …",top match
+Blenheim Chalcot,Data Scientist,"London, UK",https://www.adzuna.co.uk/jobs/details/5899752221?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Fospha is the measurement system enterprise retail and ecommerce brands run their business on. We give marketing teams one clear, daily view of what's actually working — across every channel and everywhere they sell, from their website to Amazon and TikTok Shop — down to the level of a single ad or piece of creative. It replaces guesswork and gut feel with a number marketing, finance and agencies can all trust and act on. Brands including Dyson, Gymshark, Adanola and Huel use Fospha up to 25 ti…",top match
+Guidant Global,Data Scientist,"Barbican, Central London",https://www.adzuna.co.uk/jobs/details/5899589385?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Salary: £? - ? per year Requirements: Around 2-3 years experience working as a Data Scientist or in a closely related analytical role Strong Python skills, with experience contributing to shared codebases A solid grounding in statistics, applied mathematics and scientific analysis techniques Experience working with real-world datasets, including cleaning, validation and exploratory analysis Understanding of how data science moves from experimentation into practical use Awareness of ethical cons…",top match
+Hackajob Ltd,Data Scientist,"Spitalfields, East London",https://www.adzuna.co.uk/jobs/details/5899594335?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Salary: £61,000 - 101,000 per year Requirements: Excellent analytical, problem-solving, and critical thinking skills. PhD degree in Computer Science, Statistics, Mathematics, or a related quantitative field. Experience using core machine learning techniques, such as regressions, classification, clustering, and deep learning. Strong programming skills in languages such as Python, R, and SQL. Familiarity with data science libraries and frameworks. Detailed understanding of data mining, data wareh…",medium match
+Halian Technology Limited,AI Engineer,"Reading, Berkshire",https://www.adzuna.co.uk/jobs/details/5899589151?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Salary: £95,000 - 95,000 per year
+Requirements:
+- We are looking for 5+ years of software engineering experience, with strong hands-on experience in Python and/or Java.
+- We need practical experience working with LLMs, including prompt engineering, fine-tuning, embeddings, vector databases, and RAG.
+- We require experience building and deploying applications in cloud environments; Azure is preferred, with AWS or GCP also considered.
+- We are looking for strong knowledge of APIs, microservices, and distributed systems.
+- We need familiarity with Docker, Kubernetes, and CI/CD pipelines.
+- We require experience working with SQL and NoSQL data stores, as well as large datasets.
+- Bonus points if we have experience with AI frameworks such as LangChain or LlamaIndex.
+- A degree in a relevant field would be beneficial, though the role is primarily focused on practical engineering experience.
+Responsibilities:
+- We will design and implement LLM-based applications such as RAG pipelines, agents, and copilots.
+- We will build scalable backend services using Python and Java.
+- We will integrate AI capabilities into our existing cloud-native SaaS platforms.
+- We will own the full lifecycle from experimentation and prototyping through to production deployment.
+- We will optimise model performance, cost, and latency in real-world environments.
+- We will collaborate across engineering, product, and data teams to identify and deliver high-impact AI use cases.
+- We will help define our AI architecture, tooling, and best practices as our first dedicated AI hire.
+Technologies:
+- AI
+- AWS
+- Azure
+- Backend
+- CI/CD
+- Cloud
+- Docker
+- GCP
+- Java
+- Kubernetes
+- LLM
+- NoSQL
+- Python
+- SQL
+- microservices
+More:
+We are a fast-growing healthtech organisation of around 280 people, and we are hiring our first dedicated AI Engineer to help build our AI capability from the ground up. This is a hybrid role based in Reading, offering the chance to make a real-world impact on purpose-driven products. You will join a modern, forward-thinking team with a strong growth trajectory, and you will have genuine ownership and influence over AI strategy, architecture, and delivery. The package includes a salary of up to £95,000 depending on experience, a bonus, and private medical cover.
+last updated 39 week of 2026",medium match
+Huxley Associates,Forward Deployed Engineer,"The City, Central London",https://www.adzuna.co.uk/jobs/details/5899594958?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Salary: £100,000 - 100,000 per year Requirements: Strong software engineering experience with modern development frameworks. Experience building production-grade systems and end-user applications. Excellent problem-solving skills and a bias for action. Ability to work directly with business stakeholders and rapidly deliver solutions. Experience with cloud platforms, data pipelines, APIs, and AI/ML tooling. Strong communication skills and commercial mindset. Nice to have: experience in financial…",top match
+Kryptos Technologies limited,AWS AI Solution Architect ( applications and solution development),"Borough, South East London",https://www.adzuna.co.uk/jobs/details/5898892854?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Tasks Job Description: AWS AI Solutions Architect Base Location: UK Travel: Travel across Europe (Germany, Denmark, Netherlands, France, Spain, Switzerland) Fulltime- Permanent Solution Architecture & AI Innovation Design end-to-end AWS solutions covering AI/ML/GenAI, cloud-native applications, data platforms, and modernization. Lead PoC and demo creation including GenAI, Copilot-style, and agentic AI demonstrations. Define scalable, secure, high-performance architectures aligned with AWS best …",medium match
+Lloyds Bank,Senior Machine Learning Engineer,UK,https://www.adzuna.co.uk/jobs/land/ad/5899756484?se=Yp1AGRW88RGGIMuNWmfObw&utm_medium=api&utm_source=dc96cb17&v=974B7EA717B1BE503312606FBBBF5E8F33451292,adzuna-api,2026-09-26,2026-09-29,"End Date
+Friday 09 October 2026
+Salary Range
+£72,702 - £80,780
+
+We support flexible working – click here for more information on flexible working options
+
+Flexible Working Options
+Job Share
+Job Description Summary
+.
+Job Description
+JOB TITLE: Senior Machine Learning Engineer
+SALARY: £72,702 - £80,780
+LOCATION(S): Bristol, Chester or Manchester
+HOURS: Full time, 35 hours per week
+WORKING PATTERN: Our work style is hybrid, which involves spending at least two days per week, or 40% of our time, at one of our office sites. Colleagues with disabilities can be supported with workplace adjustments including hybrid working expectations in line with our Flexibility Works policy.
+
+What you’ll be doing
+As a Senior Machine Learning Engineer, you’ll play a meaningful role in building and maintaining machine learning solutions in production across the Consumer business within Lloyds Banking Group. You’ll bring strong software engineering experience applied within a machine learning and data environment, using this to make things better for the Group and its customers.
+Being part of the Consumer Data Science team will allow you to gain insight into how the business functions and supports its customers. You will encounter a diverse range of projects, coworkers, and technologies, assisting the team in generating value from machine learning.
+As the team grows, the role will keep changing. We want to hear from applicants who are driven, inquisitive, eager to learn, and open to exploring new work methods. Candidates should have a strong background in large-scale applications and data platforms.
+
+- Develop and maintain machine learning systems in Python alongside data scientists and other machine learning engineers.
+
+- Take projects from experimentation through to production, including design and integration with other systems such as continuous integration and continuous delivery tools, application programming interfaces, and Dynatrace.
+
+- Engage with collaborators across business and technical teams to understand requirements and influence decision-making.
+
+- Propose, evaluate and advocate for technology, platform and architecture choices in line with Lloyds Banking Group guidelines.
+
+- Drive excellent engineering standards, consistency and culture across the team through technical leadership and knowledge sharing.
+
+- Play a leading role in incident management and resolution, working closely with the strategic platform team and business partners.
+
+- Proactively find opportunities to improve solutions and present clear plans to deliver them.
+
+- Provide results aligned with data science, model governance, and risk management policies and procedures, sustaining positive connections with specialized colleagues within these domains.
+
+Why join us?
+You’ll join a diverse, energising and informal environment focused on equal opportunity and career progression. The role offers the opportunity to work flexibly and collaboratively, while contributing to machine learning solutions that support the Consumer business and its customers.
+We take personal and professional development seriously and will support you to make a positive difference to the team and Lloyds Banking Group as a whole.
+
+What we’re looking for
+
+- Advanced understanding of software engineering best practice, programming concepts, automated testing, continuous integration and continuous delivery, and production deployments.
+
+- Commercial experience using key Python libraries for machine learning, such as Pandas, Scikit-learn and XGBoost.
+
+- Proven development experience with cloud services, data stores and architectures, such as Vertex AI, BigQuery and Cloud Run.
+
+- Hands-on experience with machine learning operations tooling and frameworks used with large datasets, such as Kubeflow Pipelines and dbt, including an understanding of production monitoring.
+
+- Experience with Infrastructure as Code, including Terraform, Kubernetes, application programming interface authentication flows and networking.
+
+- Experience collaborating with central platform, architecture and governance teams to move solutions into live production.
+
+- Experience across the full software development lifecycle, from experimentation through to live production.
+
+- A sound understanding of retail banking, or a desire to learn how to apply your technical skills in this area.
+Desirable skills/experience
+
+- Exposure to generative artificial intelligence and agentic tooling, such as Agent Development Kit or LangChain.
+
+- Experience configuring large language models to optimise cost and benefit.
+
+This is a place for you
+Our ambition is to be the leading UK business for diversity, equity and inclusion, supporting our customers, colleagues and communities. We’re committed to creating an environment in which everyone can thrive, learn and develop.
+We offer reasonable workplace adjustments for colleagues with disabilities, including flexibility in office attendance, location and working patterns. As a Disability Confident Leader, we guarantee interviews for a fair and proportionate number of applicants who meet the minimum criteria for the role and have a disability, long-term health condition or neurodivergent condition through the Disability Confident Scheme.
+We provide reasonable adjustments throughout the recruitment process to reduce or remove barriers. Just let us know what you need.
+
+We also offer a wide-ranging benefits package, which includes:
+
+- A generous pension contribution of up to 15%
+
+- An annual performance-related bonus
+
+- Share schemes including free shares
+
+- Benefits you can adapt to your lifestyle, such as discounted shopping
+
+- 30 days’ holiday, with bank holidays on top
+
+- A range of wellbeing initiatives and generous parental leave policies
+
+Ready to apply?
+If you’re motivated by building reliable machine learning solutions, enjoy working across engineering, data and business teams, and want to help deliver better outcomes for customers, we’d love to hear from you.
+
+At Lloyds Banking Group, we're driven by a clear purpose; to help Britain prosper. Across the Group, our colleagues are focused on making a difference to customers, businesses and communities. With us you'll have a key role to play in shaping the financial services of the future, whilst the scale and reach of our Group means you'll have many opportunities to learn, grow and develop.
+
+We keep your data safe. So, we'll only ever ask you to provide confidential or sensitive information once you have formally been invited along to an interview or accepted a verbal offer to join us which is when we run our background checks. We'll always explain what we need and why, with any request coming from a trusted Lloyds Banking Group person.
+
+We're focused on creating a values-led culture and are committed to building a workforce which reflects the diversity of the customers and communities we serve. Together we’re building a truly inclusive workplace where all of our colleagues have the opportunity to make a real difference.",medium match
+Sanderson Government and Defence,GenAI Fullstack Engineer,"Tyndalls Park, Bristol",https://www.adzuna.co.uk/jobs/details/5899594904?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Salary: £70,000 - 70,000 per year Requirements: We require active SC (Security Check) Clearance, or eligibility to obtain and maintain this level of clearance. We are looking for experience building microservices using Python with FastAPI, TypeScript with Express, or equivalent technologies. We are looking for experience developing React applications using TypeScript. We value familiarity with frameworks such as Next.js, Vite, or similar. We require experience with Generative AI frameworks such…",medium match
+Snap Inc.,Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/details/5899016112?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"London, United Kingdom Full time R0046894 Snap Inc (https://www.snap.com/en-US/) is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company operates Snapchat (http://snapchat.com/?lang=en-US) , a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc. (https://www.specs.com/) , a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji (http://bitmoji.com/) , Saturn, and other digital services. Snap Engineering (https://eng.snap.com/) teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We're deeply committed to the well-being of everyone in our global community, which is why our values (https://eng.snap.com/values) are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront. We're looking for a **Machine Learning Engineer** to join Snap Inc! **What you'll do:** + Build and deploy machine learning models for core Snapchat products + Apply established ML techniques to solve well-defined, real-world problems + Contribute to the ML lifecycle, including data analysis, model training, evaluation, and production deployment + Collaborate with cross-functional partners and teammates to implement and launch ML-driven features + Utilize AI tools and high velocity engineering workflows to design and ship scalable services while upholding rigorous standards for code correctness, security, and production ready quality code **Knowledge, Skills & Abilities:** + Strong understanding of machine learning approaches and algorithms + Able to prioritise duties and work well on your own + Ability to work with both internal and external partners + Skilled at solving open ambiguous problems + Strong collaboration and mentorship skills + Adaptability in learning and applying evolving AI systems and tools to remain at the forefront of engineering trends and modern development practices **Minimum Qualifications:** + Bachelor's Degree in a relevant technical field such as computer science or equivalent years of practical work experience + 2+ years of post-Bachelor's machine learning experience; or Master's degree in a relevant technical field + Experience developing machine learning models for ranking, recommendations, search, content understanding, image generation, or other relevant applications of machine learning **Preferred Qualifications:** + Advanced degree in computer science or related field If you have a disability or special need that requires accommodation, please don't be shy and provide us some information (https://docs.google.com/forms/d/e/1FAIpQLScV7t31iR3yYR9ztGDHJpbvL63svWpb6s0afkBkLEjGnDx4Kg/viewform) . ""Default Together"" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a ""default together"" approach and expect our team members to work in an office 4+ days per week. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets. Our Benefits (http://careers.snap.com/benefits) : Snap Inc. is its own community, so we've got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap's long-term success! Curious what it's like to work at Snap? Meet the people behind our products and discover how our values shape the way we create, innovate, and connect. SPECS (https://www.specs.com/) **:** See how Snap is bringing computing into the world around us with SPECS, our next-generation augmented reality glasses built for real life. Snap News (https://newsroom.snap.com/) **:** Explore the latest stories about our products, innovation, and the people shaping what's next at Snap. Applicant and Candidate Privacy Policy (https://careers.snap.com/privacy-policy)",top match
+Unique,Data Scientist,"London, UK",https://www.adzuna.co.uk/jobs/details/5899760616?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-26,2026-09-29,"Description
+
+Defining how AI and finance work together — securely, intelligently, and at scale.
+We at Unique AI are building a generative AI platform that financial institutions trust with high-stakes work: finance-grade in its reliability, auditability, and security. Banks, asset managers, and hedge funds use our platform to put LLM-based agents to work inside real workflows — investment research, client advisory, risk, and compliance. Our mission is to augment financial professionals, not replace them: AI takes on the repetitive and routine so people can spend their time on judgment, clients, and performance. We offer an inclusive environment at Unique and we encourage all genders and all neuro-diversities to apply.
+
+We are now looking for at least 2 Data Scientists to join our London team
+- Data Scientist (Core): 80% internal, 20% client facing
+- Data Scientist (Forward Deployed): 80-100% client facing, 0-20% internal (where appropriate)
+In both cases, we are looking for data scientists who are passionate about developing AI agents using Unique AI's SDK for the Financial Services Industry.
+Requirements
+
+- Experience: 4+ years of experience as a data scientist
+- Hands-on experience with LLMs: including tool calling and low-level experimentation beyond frameworks, as well as prompt engineering for customer use cases
+- Production GenAI delivery: demonstrated experience designing, deploying, operating and evaluating LLM-based applications in production environments, including agentic systems with tool calling and orchestration
+- Solid understanding of AI systems and their functionalities , such as deep research and other applied AI techniques, combined with strong Python coding skills to translate these concepts into production-ready workflows and maintain robust AI pipelines - ideally with experience deploying multi-agent systems
+- History of successfully delivering projects for clients: translating customer requirements into tailored solutions
+- Industry expertise: expertise in financial services environments (private banking, wealth/ asset management, insurance) is a plus
+- Languages: English (French and/ or German is a plus)
+- Education: Master’s or Ph.D. degree in Data Science, Computer Science, Mathematics, Engineering, Statistics, or a related field",top match
+83zero Ltd,Senior AI Engineer,"Langbank, Port Glasgow",https://www.adzuna.co.uk/jobs/details/5898221557?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Salary: £60,000 - 70,000 per year Requirements: Strong commercial Python development experience Proven leadership and mentoring experience required for Senior Consultant level Experience building APIs, microservices and backend applications Hands-on experience with LLMs, Generative AI and RAG Experience with AI frameworks such as LangChain, LangGraph or CrewAI Experience with vector databases and semantic search Experience with OpenAI, Anthropic, Mistral, Llama or similar Good software engineer…",top match
+83zero Ltd,Senior Python Developer - AI,"Bankside, South East London",https://www.adzuna.co.uk/jobs/details/5898221643?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Salary: £60,000 - 70,000 per year Requirements: Senior-level hands-on Python development experience Strong commercial experience building APIs, microservices and backend applications Practical experience with Generative AI, LLMs and RAG Experience with AI frameworks such as LangChain, LangGraph or CrewAI Experience with vector databases and semantic search Experience with OpenAI, Anthropic, Mistral, Llama or similar models Strong software engineering, testing and Git practices Experience with A…",top match
+ASOS,Principal Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/details/5898717954?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Job Description
+
+We're looking for a Principal Machine Learning Engineer to join our Search & Discovery team and help define the technical direction of AI-powered fashion discovery at ASOS.
+Our mission is to help millions of customers discover outfits that reflect their personal style, preferences and current fashion trends. As part of the Search & Discovery organisation, we bring together recommendation systems, personalisation, deep learning and large language model (LLM) technologies to create new ways for customers to explore fashion beyond traditional ecommerce experiences.
+As a Principal Machine Learning Engineer, you'll shape the technical architecture behind large-scale machine learning systems spanning personalized product & outfit recommendations, conversational agent experiences like AI Stylist, search relevance, style discovery and intelligent product experiences across the customer journey.
+You'll work closely with Machine Learning Scientists, Software Engineers, Engineering Leaders and Product Managers, providing technical leadership across Search & Discovery while remaining hands-on with architecture, system design and engineering decisions.
+This is a highly influential role where you'll help shape the future of machine learning engineering at ASOS while mentoring others and driving engineering excellence across the organisation.
+
+Technical Architecture & System Design
+
+- Own the end-to-end technical architecture for machine learning systems powering personalised fashion experiences, including outfit discovery, homepage ranking and AI Stylist experiences.
+- Lead the design and evolution of large-scale batch and real-time machine learning systems serving millions of customers.
+- Drive cross-team architectural decisions to ensure consistency, scalability, reliability and maintainability.
+- Establish long-term technical direction for recommendation, retrieval and AI-powered discovery platforms.
+ML Product Engineering & Production Delivery
+
+- Set technical direction and best practices across recommendation systems, retrieval, personalisation, search relevance, deep learning and generative AI applications.
+- Partner with Machine Learning Scientists and Engineering Leaders to translate research and experimentation into robust production systems.
+- Identify and resolve architectural, scalability, reliability and performance challenges throughout the machine learning lifecycle.
+- Support the delivery of production-grade customer-facing ML products that generate measurable business and customer value.
+Technical Leadership & Engineering Excellence
+
+- Provide technical leadership on strategic initiatives, including platform investment decisions and build-versus-buy evaluations.
+- Mentor and support Senior, Staff level engineers, helping develop engineering capability across the organisation.
+- Promote engineering excellence, modern software engineering practices and responsible adoption of AI-assisted development tools.
+- Contribute to technical standards, architectural principles and engineering best practices across multiple teams.
+Stakeholder Influence
+
+- Drive the development of shared machine learning capabilities, tools and frameworks used across Search & Discovery and wider engineering teams.
+- Represent Search & Discovery engineering in discussions with senior stakeholders, technology partners and business leaders.
+- Communicate technical strategy, trade-offs and outcomes clearly to both technical and non-technical audiences.",low match
+ASOS,Senior Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/details/5898077350?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Job Description
+
+At ASOS, machine learning is a core part of how millions of customers discover products, engage with our brand and shop every day.
+We're looking for a Senior Machine Learning Engineer to join our Customer & Martech team. In this role, you'll help build and scale machine learning products that support customer growth, marketing effectiveness, pricing and personalisation.
+You will work with some of ASOS's richest datasets, including customer behaviour, transactions, marketing interactions and product data, turning these into production-grade machine learning systems that deliver measurable value for customers and the business.
+Working alongside Applied Scientists, Data Engineers and Machine Learning Engineers, you'll contribute across the full lifecycle of machine learning products, from ideation and experimentation through to deployment, monitoring and optimisation.
+Whether improving customer retention, optimising marketing investment, supporting intelligent pricing decisions or helping build the next generation of customer experiences, you'll work on complex challenges at significant scale.
+What you'll be doing:
+
+- Design, build and operate machine learning systems that support customer engagement, marketing effectiveness, pricing and commercial decision-making.
+- Own the end-to-end engineering lifecycle of machine learning products, including data ingestion, feature engineering, deployment, monitoring and optimisation.
+- Productionise advanced machine learning solutions and ensure they operate reliably at ASOS scale.
+- Partner closely with Applied Scientists to translate research and experimentation into scalable production systems.
+- Help shape the future of our MLOps platform by contributing to engineering best practices, operational excellence and platform capabilities.
+- Build reusable tooling, frameworks and infrastructure that accelerate machine learning delivery and reduce operational overhead.
+- Influence technical direction and architectural decisions across machine learning products and platforms.
+- Mentor colleagues and support high standards of engineering quality, reliability and scalability.
+This is an opportunity to work on machine learning products used by millions of customers, leveraging rich datasets across customer behaviour, marketing, pricing and ecommerce. You'll collaborate with Applied Scientists, Machine Learning Engineers and Data Engineers to solve complex challenges at the intersection of machine learning, software engineering and large-scale data systems, while seeing the direct impact of your work on customer experience and commercial outcomes. You'll also help shape the future of ASOS's machine learning platform and engineering standards in an environment where machine learning is a core business capability.",top match
+Circle Group,Forward Deployed AI Engineer - Cardiff,"Cardiff County, Wales",https://www.adzuna.co.uk/jobs/land/ad/5898044747?se=WnjsFxW88RGpps7V-erNsQ&utm_medium=api&utm_source=dc96cb17&v=E8949A109B2C9CF996A945F99CEF9756812D08D0,adzuna-api,2026-09-25,2026-09-29,"Forward Deployed AI Engineer - Cardiff Our client is looking to hire a couple of experienced Forward Deployed AI Engineers to join their Growing AI & Software team. In this position, you will lead on the design, development, and deployment of advanced AI solutions that enhance operational efficiency and support business growth. You will work closely with senior stakeholders, guide technical direction, and mentor a growing team of engineers. Key Responsibilities * Lead the development and deploy…",top match
+Datatech,Data Scientist,"Berkshire, South East England",https://www.adzuna.co.uk/jobs/details/5898544878?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Data Scientist Berkshire - Hybrid 2 days office attendance Are you ready to shape the future of predictive analytics in financial services? We are looking for a versatile Data Scientist to help to build and scale our clients data science practice. Sitting at the heart of the Data team, you will apply machine learning, predictive modelling, and statistical rigor to tackle real world business challenges across customer behaviour, risk, and pricing. What You'll Do
+·Build End-to-End Solutions: Scope, design, train, and deploy production-ready ML models and statistical experiments. ·Shape the Platform: Collaborate with Data Engineering and Analytics to build reproducible pipelines and integrate workloads into a Unified, AI-powered analytics platform. ·Drive Business Impact: Translate raw, complex transactional data into actionable predictions and partner with cross-functional teams (Product, Marketing, Finance) to unlock competitive advantage. ·Ensure Model Excellence: Monitor live model performance, guard against data drift, and champion best practices in MLOps. What You Bring
+·Proven experience building and iterating on ML models in a commercial setting. ·Expert-level Python skills (pandas, NumPy, scikit-learn, etc.) and strong statistical grounding. ·Experience working within cloud or modern data environments (Microsoft Fabric, Azure, or Databricks). ·Clear, impactful communication skills to bridge technical models and business outcomes. This is an exceptional opportunity for a candidate who wishes to help shape DS within an established business that has embraced new data platforms through smart business decisions and a collaborative data function.
+(url removed) #DataScience #DataScientist #MachineLearning #MLOps #Python #MicrosoftFabric #PredictiveAnalytics #FinancialServices #TechJobs #BerkshireJobs #DataEngineering #Fintech",medium match
+Faculty AI,Senior Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/details/5898369254?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here . We don’t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thing or two about doing it well. We bring an unparalleled depth of technical, product and delivery exp…",top match
+Hackajob Ltd,Lead Data Scientist - Causal Inference,"Charing Cross, Central London",https://www.adzuna.co.uk/jobs/land/ad/5898050403?se=DnjmGRW88RGsapmCK03uFQ&utm_medium=api&utm_source=dc96cb17&v=9E841DBFFF24DB6D5777A65F6D7E16603AEE7AFF,adzuna-api,2026-09-25,2026-09-29,"Company Description Wise is a global technology company, building the best way to move and manage the worlds money.
+Min fees. Max ease. Full speed.
+Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money.
+As part of our team, you will be helping us create an entirely new network for the world's money.
+For everyone, everywhere.
+More about our mission and what we offer .
+Job Description About the role
+Were looking for an experienced Data Scientist to join our Customer Support team in London, working as part of a team based across London and Budapest.
+Youll help us understand how well our customer support experience is working, identify the biggest opportunities for improvement, and shape the path towards greater automation.
+This is an analytical Data Science role with a strong product focus. Youll use customer, conversational and operational data to measure service quality, diagnose issues, propose solutions and evaluate whether they improve outcomes. A key part of the role is simplifying complex customer journeys and operational systems into clear, tractable problems the team can act on.
+Youll work closely with Product, Design, Operations and Engineering to build a shared understanding of how the system works and turn insight into action.no
+What youll do
+Measure and diagnose
+
+- Build a clear, data-driven understanding of customer support quality across human and automated channels.
+
+- Design metrics that reflect meaningful customer outcomes, including resolution quality, customer effort, process adherence, consistency, fairness, durability of resolution and cost effectiveness.
+
+- Identify the root causes of issues by combining machine learning, statistical methods and domain expertise from colleagues to understand what genuinely drives customer outcomes.
+
+Identify and test solutions
+
+- Turn analytical insight into concrete proposals to improve the customer experience, including product changes, process improvements, automation and better human support.
+
+- Quantify the potential impact and value of opportunities to help the team prioritise where to invest.
+
+- Design and analyse experiments to determine whether proposed changes genuinely improve customer and business outcomes.
+
+- Use statistical modelling and causal inference where controlled experiments are not practical.
+
+Shape the automation strategy
+
+- Determine the right intervention for different customer problems whether they should be automated, augmented by AI, handled by people or prevented altogether.
+
+- Test and evaluate interventions to understand their impact on customer outcomes, operational effectiveness and cost.
+
+- Shape the long-term automation capability roadmap, identifying what we should build next to maximise the value delivered over time.
+
+What were looking for
+Essential
+
+- An ability to simplify complex systems and ambiguous problems into clear hypotheses, useful abstractions and tractable analytical questions.
+
+- Strong analytical judgement, with the ability to get to a useful answer quickly, refine it iteratively, and know when the evidence is sufficient to support a decision.
+
+- Strong SQL and Python skills, with experience working with large, complex and imperfect datasets.
+
+- Strong grounding in statistical analysis (e.g., classical ANOVA, non-parametric uncertainty quantification, Bayesian estimation) and causal inference, with experience designing both controlled experiments and observational studies.
+
+- Experience applying machine learning, statistical modelling, NLP and LLM-based techniques to analyse customer behaviour and conversational data, diagnose root causes and identify the drivers of outcomes.
+
+- Experience designing measurement frameworks for complex customer journeys and evaluating the impact of interventions.
+
+- Strong product and business judgement, with a track record of using Data Science to influence important business decisions and drive measurable impact.
+
+Preferred
+
+- Experience working on customer-facing products, ideally in customer support, customer operations or another high-volume service environment.
+
+- Experience evaluating the impact of automation or AI-powered customer experiences.
+
+- Experience applying predictive or behavioural modelling to support product or operational decision-making.
+
+- Experience working with sensitive customer data in environments with strong security, privacy or compliance requirements.
+
+- Experience combining quantitative analysis with qualitative or expert insight to solve complex problems.
+
+- Familiarity with modern analytics and machine learning tooling in a cloud environment such as AWS.
+
+What success looks like
+Success in this role means making a complex customer support system understandable enough that the team can make better decisions about it.
+Youll create clear ways of thinking about customer support quality, identify the biggest opportunities to improve outcomes, and turn those insights into concrete interventions that can be tested and measured.
+Over time, youll help us make better decisions about where to automate, where to invest in human support, and which new capabilities to build creating a support model that delivers more value to customers while becoming increasingly effective and scalable.
+Additional Information For everyone, everywhere. We're people building money without borders without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive.
+We're proud to have a truly international team, and we celebrate our differences.
+Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to contribute towards our mission and able to progress in their careers.
+If you want to find out more about what it's like to work at Wise visitWise.Jobs.
+Keep up to date with life at Wise by following us onLinkedInandInstagram.",top match
+Intellias,Principal AI Engineer,"Barn Hill, North West London",https://www.adzuna.co.uk/jobs/details/5898220406?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Salary: £46,000 - 50,000 per year Requirements: Proven experience building production agentic and LLM systems, including multi-agent or orchestrated workflows that reason across heterogeneous sources and surface confidence, gaps, and provenance back to end users. Hands-on experience engineering document ingestion and extraction pipelines, including parsing, chunking, and automated quality controls for empty or truncated content, incorrect document sections, duplication, encoding, and OCR defect…",top match
+Just Eat,Forward Deployed Engineer,UK,https://www.adzuna.co.uk/jobs/details/5898371226?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Position: Forward Deployed Engineer Location: London or Amsterdam, 3 days a week in office The Role: We're looking for a technically sharp, product-minded engineer to help push the frontier of AI across Just Eat Takeaway. You'll work with some of our most ambitious internal teams and technology partners - helping them get the most out of advanced AI, and turning those learnings into durable improvements across our organisation. This is a builder role. You'll dig into complex workflows, identify…",top match
+loveholidays,Data Scientist,"London, UK",https://www.adzuna.co.uk/jobs/details/5898376603?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Why loveholidays? We’re on a mission to open the world to everyone, giving our customers unlimited choice, unmatched ease and unmissable value for their next getaway. Our trailblaze together culture is what drives our success, powered by our people and the way they work. Using progressive technology, we drive cutting-edge innovation and improve how our customers discover, book and experience their holidays. You’ll have the opportunity to accelerate your growth through meaningful challenges, new…",top match
+Pacific Life,Senior Machine Learning Engineer,"Tower Bridge, East London",https://www.adzuna.co.uk/jobs/details/5898221594?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Salary: £35,000 - 43,000 per year
+Requirements:
+- 6+ years in ML/AI, with deep hands-on expertise in NLP, LLMs/SLMs, and agentic systems.
+- Hands-on experience building with OpenAI and Anthropic models/APIs; strong knowledge of LLMs and agent architectures.
+- Practical experience with LiteLLM, vLLM, and Langfuse or equivalent LLM observability tooling; experience with Claude Code/Codex and associated coding-agent workflows is a plus.
+- Proven ability to design, build, and own evaluation harnesses for LLM/agent outputs.
+- Proven ability to design and optimise prompts and context, including techniques like few-shot, chain-of-thought, and prompt tuning, grounded in measurable evaluation rather than guesswork; prior experience with DSPy, GEPA, or similar is a plus.
+- Strong Python skills, with FastAPI for service development, Postgres or similar for data persistence, and comfort with event-driven, async architectures.
+- Working knowledge of ML frameworks such as PyTorch or TensorFlow, containerisation with Docker and Kubernetes, and cloud platforms, with AWS preferred.
+- Entrepreneurial, ownership-driven, and biased to action, with a Build Fast, Fail Fast approach, thriving in agile, iterative environments.
+Responsibilities:
+- Design, experiment, and deploy production LLM and agentic systems.
+- Quickly test hypotheses, optimise, and iterate based on real-world feedback and evaluation results.
+- Build and maintain the evaluation harness that tells us whether a model or prompt change made things better or worse.
+- Architect multi-step, tool-using pipelines with explicit state, guardrails, and human-in-the-loop review where required.
+- Push the envelope with cutting-edge LLM and agentic techniques to solve hard problems in language understanding, extraction, and reasoning.
+- Collaborate with Product, Design, and Underwriting SMEs to align ML capabilities with product goals and real domain constraints.
+- Take systems from prototype to production, optimising for latency, cost per run, and reliability at scale.
+- Own features from idea through to production impact and focus on whether the system actually solves the underwriters problem.
+Technologies:
+- AI
+- AWS
+- Architect
+- Claude Code
+- Cloud
+- Docker
+- FastAPI
+- Support
+- Kubernetes
+- LLM
+- Langfuse
+- PyTorch
+- Python
+- TensorFlow
+- vLLM
+- Backend
+- Machine Learning
+More:
+We are UnderwriteMe, an insurtech software business and subsidiary of Pacific Life Re, a global life and pensions reinsurance firm. Our vision is to help everyone purchase protection insurance by using data and disruptive technology to transform underwriting processes, and our core products include Decision Platform, an enterprise underwriting rules engine used by over 30 insurers, and Protection Platform, a B2B2C marketplace used by over 15,000 advisors in the UK. We offer a dynamic, highly technical environment with colleagues from software, fintech, and insurance, and we value continuous learning, collaboration, wellbeing, and community impact. Benefits for permanent and fixed term employees include 25 days of annual leave with the option to buy or sell more days, adoption and fertility leave, enhanced parental leave, comprehensive private insurance coverage for employees and dependents, group life insurance and income protection, optical benefits, 15% combined employee/employer pension contributions, subsidized gym membership, access to an Employee Assistance Program, cycle to work and electric car salary sacrifice schemes, time off for volunteering, and charitable matching of employee donations. We also support a hybrid working approach and are committed to diversity, inclusion, accessibility, and helping our people thrive.
+last updated 39 week of 2026",medium match
+Sagacity,Data Scientist,"London, UK",https://www.adzuna.co.uk/jobs/details/5898791149?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"As a Data Scientist within the Analytics Team, you will contribute to data-driven strategies for our clients. Working closely with the Data & Analytics Manager and senior colleagues, you will deliver data science projects and collaborate with stakeholders across data strategy, sales, account management, delivery and marketing. You will bring solid technical skills and commercial awareness to deliver data solutions that drive measurable operational performance. This is a hands-on role - ideal fo…",top match
+SailPoint,Forward Deployed Engineer,UK,https://www.adzuna.co.uk/jobs/details/5898374648?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Forward Deployed Engineer About SailPoint SailPoint is defining the next era of identity security. Our unified, AI-powered platform seamlessly secures both the Human Fabric of your workforce and the Agentic Fabric of AI and non-human identities, completely eliminating organizational blind spots. Built on core principles like zero-standing privilege and contextualized risk, our platform transforms identity from a vulnerability into a strategic business advantage. Today, we are trusted by some of…",top match
+SHI International,Data Scientist,"London, UK",https://www.adzuna.co.uk/jobs/details/5898365164?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"About Us Since 1989, SHI International Corp. has helped organizations change the world through technology. We’ve grown every year since, and today we’re proud to be a $16 billion global provider of IT solutions and services. Over 17,000 organizations worldwide rely on SHI’s concierge approach to help them solve what’s next. But the heartbeat of SHI is our employees – all 7,000 of them. If you join our team, you’ll enjoy: Our commitment to diversity, as the largest minority- and woman-owned ente…",top match
+Snap,Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/details/5898367821?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
+
+The Company operates Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world, and Specs Inc., a wholly-owned subsidiary dedicated to making computing more human, in addition to Bitmoji, Saturn, and other digital services.
+
+Snap Engineering teams build fun and technically sophisticated products that reach hundreds of millions of Snapchatters around the world, every day. We’re deeply committed to the well-being of everyone in our global community, which is why our values are at the root of everything we do. We move fast, with precision, and always execute with privacy at the forefront.
+
+We’re looking for a Machine Learning Engineer to join Snap Inc!
+
+What you’ll do:
+
+- Build and deploy machine learning models for core Snapchat products
+- Apply established ML techniques to solve well-defined, real-world problems
+- Contribute to the ML lifecycle, including data analysis, model training, evaluation, and production deployment
+- Collaborate with cross-functional partners and teammates to implement and launch ML-driven features
+- Utilize AI tools and high velocity engineering workflows to design and ship scalable services while upholding rigorous standards for code correctness, security, and production ready quality code
+
+Knowledge, Skills & Abilities:
+
+- Strong understanding of machine learning approaches and algorithms
+- Able to prioritise duties and work well on your own
+- Ability to work with both internal and external partners
+- Skilled at solving open ambiguous problems
+- Strong collaboration and mentorship skills
+- Adaptability in learning and applying evolving AI systems and tools to remain at the forefront of engineering trends and modern development practices
+
+Minimum Qualifications:
+
+- Bachelor's Degree in a relevant technical field such as computer science or equivalent years of practical work experience
+- 2+ years of post-Bachelor’s machine learning experience; or Master’s degree in a relevant technical field
+- Experience developing machine learning models for ranking, recommendations, search, content understanding, image generation, or other relevant applications of machine learning
+
+Preferred Qualifications:
+
+- Advanced degree in computer science or related field
+
+If you have a disability or special need that requires accommodation, please don’t be shy and provide us some information.
+
+""Default Together"" Policy at Snap: At Snap Inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. To reflect this, we practice a “default together” approach and expect our team members to work in an office 4+ days per week.
+
+At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. EOE, including disability/vets.
+
+Our Benefits: Snap Inc. is its own community, so we’ve got your back! We do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. Our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in Snap’s long-term success!",top match
+Tavily,"Forward Deployed Engineer, Enterprise","London, UK",https://www.adzuna.co.uk/jobs/details/5898366952?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"The Team Forward Deployed Engineering owns how Tavily shows up technically in the field. The team sits at the intersection of customers, Product, Engineering, Sales, Partnerships, and Customer Success. The Enterprise FDE motion focuses on Tavily’s highest-value customers and strategic enterprise opportunities — from technical discovery and solution design through proof of concept, production rollout, adoption, and expansion. The role This is a full-time, on-site role based in our New York offic…",top match
+Tripledot Studios,Senior Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/details/5898376497?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-25,2026-09-29,"Who are we?
+
+Tripledot Studios is one of the largest independent mobile games companies in the world.
+
+We are a multi-award-winning organisation, with a global 2,500+ strong team across 12 studios.
+
+Our expanded portfolio includes some of the biggest titles in mobile gaming, collectively reaching top chart positions around the world and engaging over 25 million daily active users.
+
+Tripledot’s guiding principle is that when people love what they do, what they do will be loved by others.
+
+We’re building a company we’re proud of. One filled with driven, incredibly smart and detail-orientated people, who LOVE making games.
+
+Our ambition is to be the most successful games company in the world, and we’re just getting started.
+Role Overview
+
+Join Tripledot Studios as a Senior Machine Learning Engineer working on dynamic pricing and recommender systems use cases in our games. The work involves tabular machine learning, including neural networks and approaches such as gradient-boosted decision trees. You'll focus on understanding the data, developing features and improving the models, rather than primarily owning production deployment.
+
+You'll work toward defined near-term ML targetds, collaborating with the monetization team and game product teams to plan A/B tests. Over the longer term, you'll work with those teams to translate product and monetization requirements into ML objectives.
+
+You'll start by learning the project and its business goals. Within the first three months, we'd expect you to contribute to the training pipeline and investigate features and model issues. By around six months, the aim is for you to take a more proactive role in setting the model's direction.
+
+Key Responsibilities
+
+- Build and improve training pipelines for dynamic pricing and recommender system models, from feature and label design through training, tuning and offline evaluation of tabular models such as neural networks and gradient-boosted trees.
+
+- Monitor model performance once models are live across games and products. Investigate data and concept drift, including shifts tied to new titles, client versions or user behaviour, and make models easier to extend to another product.
+
+- Diagnose missed model outcomes across the training pipeline, business logic and underlying data, then work through the improvements needed to restore model quality.
+
+- Work with monetization and product colleagues to connect model decisions to revenue and player outcomes, and help plan the A/B tests that inform what ships.
+
+- As you get up to speed, identify gaps in the team's understanding of the models and propose improvements to their direction.
+
+Required Skills, Knowledge and Expertise
+
+- Hands-on training and evaluation of tabular models, using neural networks or gradient-boosted trees. Experience with PyTorch, PyTorch Lightning, TensorFlow, XGBoost, CatBoost or scikit-learn could all be relevant; no single framework is required.
+
+- Experience designing features and labels, choosing metrics for the decision a model makes and judging when offline results warrant an A/B test.
+
+- Proficiency in SQL and the ability to write efficient queries to extract, manipulate and aggregate data from relational databases.
+
+- An investigative approach to incomplete data and longer-term requirements that need clarification.
+
+- The ability to explain model results to monetization and product partners in terms of revenue and player outcomes.
+
+- Experience in ad tech, recommender systems or online marketplaces would be useful, as would experience with production APIs or deploying ML models. Experience with the Ray framework would also be a plus. None of these is required for the role.
+
+- Uses AI-assisted development tools, including code assistants and LLM-based copilots, to accelerate implementation, debugging and iteration of machine learning systems while maintaining production-quality standards.
+
+- Critically reviews and validates AI-generated code, model implementations and infrastructure configurations for reliability, correctness and maintainability, and explores AI-powered approaches to improve developer productivity or ML platform capability.
+
+Working for Tripledot
+
+-
+25 days paid holiday in addition to bank holidays to relax and refresh throughout the year
+
+-
+Hybrid Working
+
+-
+20 days remote working: Work from anywhere in the world, or use the time to cover mandatory office days to WFH, 20 days of the year.
+
+-
+Daily Free Lunch: when in the office you get £12 every day to order from JustEat.
+
+-
+Regular company events and rewards: quarterly on-site and off-site events that celebrate cultural events, our achievements and our team spirit.
+
+-
+Employee Assistance Program: Anytime you need it, tap into confidential, caring support with our Employee Assistance Program, always here to lend an ear and a helping hand.
+
+-
+Family Forming Support: Receive vital support on your family forming/ fertility journey with our support program [subject to policy]
+
+-
+Life Assurance & Group Income Cover: Financial protection for you and your loved ones.
+
+-
+Continuous Professional Development: Propel your career with continuous opportunities for professional development.
+
+-
+Private Medical Cover & Health Cash Plan: Opt-in (P11d benefit) comprehensive private medical cover with Bupa and cash plan with Medicash.
+
+-
+Dental Cover: Opt-in (P11d benefit).
+
+-
+Cycle to Work Scheme: Salary sacrifice bike purchase scheme.
+
+-
+Pension Plan: Qualifying earnings or opt-in 4% contributory match schemes offered.",medium match
+83zero Ltd,Python Developer - AI,"Rusholme, Manchester",https://www.adzuna.co.uk/jobs/details/5896616868?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Python Developer - GenAI Salary: £45,000 - £55,000 plus benefits, perks and healthcare options Locations: London, Bristol, Manchester, Glasgow or Newcastle Job Type: Permanent | Hybrid / 2 days per week onsite | Occasional travel to client sites Requirements: SC eligibility & full right to work in the UK required (no sponsorship available) The Role: We're looking for hands-on Python Developers at Consultant level who have experience building software and a practical understanding of Generative …",top match
+Hackajob Ltd,Forward Deployed Engineer - Specialist,"Hyde Park, Leeds",https://www.adzuna.co.uk/jobs/details/5896693969?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Salary: £61,000 - 101,000 per year Requirements: Fluency in core languages including Python, SQL, TypeScript and/or REACT, with the ability to pick up others quickly Understanding of data engineering principles, ETL pipelines, and application development Familiarity with Palantir Foundry, Gotham, or similar is preferred, but not mandatory if you have a strong willingness to learn High emotional intelligence, curiosity, and a proactive self-starting approach Ability to manage client expectations…",top match
+Hackajob Ltd,Lead Software Engineer - LLM Ops Platform Reliability,"Broadgate, Central London",https://www.adzuna.co.uk/jobs/details/5896691972?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Salary: £100,000 - 100,000 per year Requirements: Formal training, certification, or equivalent practical experience in software engineering concepts Hands-on experience with system design, application development, testing, and operational stability in production environments Advanced proficiency in Python for building production-grade services and tooling Proficiency with automation and continuous delivery methods Hands-on experience with AWS and Terraform for infrastructure delivery and lifec…",top match
+Hackajob Ltd,Machine Learning Engineering Lead,"Farringdon, Central London",https://www.adzuna.co.uk/jobs/details/5896692565?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Salary: £100,000 - 100,000 per year
+Requirements:
+- Significant hands-on experience in machine learning engineering, software engineering, data engineering, or a related technical discipline.
+- Experience designing, building, deploying, and operating ML, AI, LLM, or data-driven systems in production.
+- Experience integrating AI/ML services with enterprise systems, APIs, databases, data platforms, legacy applications, or internal services.
+- Experience working with cross-functional teams to understand business processes, data flows, content repositories, integration points, and operational constraints.
+- Experience working with AWS or cloud-hosted production environments.
+- Equivalent technical experience or education considered.
+- Strong Python development skills for machine learning engineering, data processing, automation, service development, and production AI/ML workflows.
+- Strong software engineering background, including system design, APIs, distributed systems, automated testing, code review, maintainability, reliability, and production support.
+- Strong understanding of ML engineering and MLOps practices, including model lifecycle management, CI/CD, testing, monitoring, release management, observability, and operational support.
+- Practical experience with LLM-based capabilities, including retrieval-augmented generation, semantic search, embeddings, prompt design, evaluation, guardrails, and observability.
+- Experience with agentic workflows, tool orchestration, and multi-step AI processes.
+- Strong AWS knowledge, including cloud-hosted applications, data services, security controls, logging, monitoring, and production support.
+- Strong understanding of SDLC practices, including requirements analysis, design, implementation, automated testing, code review, secure coding, deployment, and production support.
+- Strong understanding of responsible AI practices, including evaluation, traceability, secure data handling, model governance, human oversight, and risk management.
+- Ability to work with structured, semi-structured, and unstructured data sources.
+- Ability to understand legacy systems, domain processes, data flows, and integration constraints.
+- Practical experience using AI-assisted development tools such as GitHub Copilot, Codex, Claude, or similar tools to improve software delivery.
+- Strong problem-solving skills, including identifying, researching, troubleshooting, and resolving complex technical, data, and integration issues.
+- Strong communication and technical writing skills, including the ability to explain ML and engineering concepts clearly to technical and non-technical stakeholders.
+- Desirable experience with Docker, Kubernetes/K8s, AWS EKS or ECS, Terraform, or similar cloud deployment technologies.
+- Desirable working knowledge of C#/.NET and SQL Server, particularly for integration with enterprise or legacy systems.
+- Desirable experience with event-driven architecture, messaging, queues, asynchronous processing, retries, idempotency, and failure handling.
+- Desirable experience with legal content systems, LegalTech, publishing platforms, case law, citation systems, legal research workflows, XML/XSLT, structured content processing, search, ranking, indexing pipelines, or content enrichment.
+Responsibilities:
+- Serve as the initial point of escalation for AI/ML engineering issues within the area of responsibility.
+- Interface with software engineers, data engineers, product stakeholders, domain experts, platform teams, and other technical personnel to finalise requirements and clarify integration needs.
+- Write and review portions of detailed specifications for the development of complex AI/ML, LLM, RAG, and agentic workflow components.
+- Design, build, integrate, deploy, and operate production AI/ML and LLM-based services for legal research, analytics, and content use cases.
+- Implement RAG, semantic search, embeddings-based retrieval, ranking, summarisation, classification, content enrichment, and citation-aware AI capabilities where appropriate.
+- Design and implement agentic workflows, tool orchestration, and multi-step AI processes that are reliable, traceable, and governed.
+- Integrate AI/ML capabilities with enterprise systems, APIs, databases, data platforms, content repositories, legacy applications, internal services, and AWS-hosted services.
+- Establish evaluation and quality controls for accuracy, groundedness, citation quality, hallucination risk, agent task success, latency, cost, reliability, and business value.
+- Successfully implement development processes, coding best practices, code reviews, MLOps practices, and responsible AI controls.
+- Apply AI-assisted development tools to reduce software development cycle time and support code explanation, test generation, refactoring, debugging, documentation, code review, migration planning, and legacy system analysis.
+- Resolve complex technical issues related to AI/ML services, data flows, system integration, model behaviour, production support, and operational reliability.
+- Mentor and/or train engineers as directed by department management, ensuring they are knowledgeable in critical aspects of AI/ML engineering, MLOps, SDLC practices, and responsible use of AI-assisted development tools.
+- Keep abreast of relevant technology developments in machine learning engineering, LLMs, agentic workflows, AWS cloud services, responsible AI, and software engineering practices.
+- Ensure AI/ML solutions align with enterprise data governance, security, privacy, responsible AI, and operational standards.
+- Perform all other duties as assigned.
+Technologies:
+- AI
+- AWS
+- C#
+- ChatGPT
+- CI/CD
+- Cloud
+- Copilot
+- Docker
+- GitHub
+- Support
+- Kubernetes
+- LLM
+- Machine Learning
+- MLOps
+- Python
+- RAG
+- SQL
+- Security
+- Terraform
+- Web
+- XML
+- ASP.NET
+More:
+We are partnering directly with LexisNexis to hire for this Machine Learning Engineering Lead role. Our software engineering team develops and supports business-critical platforms used to create, manage, publish, and analyse legal and regulatory content. Our work spans modern web applications, cloud services, content migration programmes, publishing platforms, reporting solutions, and operational tooling, and we partner with editorial, product, and technology stakeholders to deliver high-quality solutions that drive business value. We support the UK business and collaborate closely with engineering teams across multiple regions to share expertise, promote reuse, and deliver scalable solutions. At LexisNexis GTO, you will work on business-critical products while using the latest AI and software engineering technologies. We invest in developer productivity tools such as GitHub Copilot, ChatGPT, and Codex, and we offer training, workshops, office hours, and communities of practice. You will also benefit from flexible working, a strong culture of learning and collaboration, and a range of benefits including generous holiday allowance, health screening, private medical benefits, wellbeing programmes, life assurance, pension, leave options, employee assistance, learning and development resources, discounts, and more. We are committed to a fair and accessible hiring process and an inclusive workplace.
+last updated 39 week of 2026",top match
+Hackajob Ltd,Senior Data Scientist,"Charing Cross, Central London",https://www.adzuna.co.uk/jobs/land/ad/5896518977?se=DnjmGRW88RGsapmCK03uFQ&utm_medium=api&utm_source=dc96cb17&v=8B2852C84E555522E7124179971ADEC916BF748F,adzuna-api,2026-09-24,2026-09-29,"About Us: Solirius Reply, part of the Reply Group, delivers technical consultancy and application delivery to our clients in order to solve real world problems and allow our clients to respond to an ever-changing technical landscape. We partner closely with our clients, embedding our consultants into their businesses in order to provide a bespoke service, allowing us to truly understand our clients needs. It is this close collaboration with our clients that has enabled us to grow rapidly in rec…",top match
+Hackajob Ltd,Senior Lead Software Engineer LLM Ops Platform,"Broadgate, Central London",https://www.adzuna.co.uk/jobs/details/5896692043?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Salary: £100,000 - 100,000 per year Requirements: Hands-on experience with system design, application development, testing, and operational stability in production environments Advanced proficiency in Python for building production-grade services and tooling Proficiency with automation and continuous delivery methods Hands-on experience with cloud infrastructure platforms and infrastructure-as-code tooling for delivery and lifecycle management Strong understanding of site reliability engineerin…",top match
+Hexwired Recruitment Limited,Machine Learning Engineer,"Broadgate, Central London",https://www.adzuna.co.uk/jobs/details/5896693946?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Salary: £80,000 - 120,000 per year Requirements: MSc or PhD in Maths, Physics, or a similar high-maths field 3 years of commercial or academic experience working on machine learning modelling and simulation projects Good experience working on ML-assisted hardware or accelerator platforms like GPUs and the associated tools, such as CUDA and TensorFlow Solid experience using C++, Python, or Rust for development and algorithm design Previous experience working on low-latency distributed systems us…",top match
+Ocho,Lead Forward Deployed Engineer,"Belfast, Northern Ireland",https://www.adzuna.co.uk/jobs/details/5896924869?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Lead Forward Deployed Engineer Belfast (hybrid) If you're an engineer who would rather be solving a customer's real problem than working through a backlog of tickets, this one is worth a read. To be upfront on location: this is hybrid from a Belfast office, so you'll need to be within commuting distance of Belfast. My client builds a secure AI platform used by government and highly regulated organisations across the UK. Their applications are already running in live environments for some very d…",top match
+Ocho,Machine Learning Engineer (LLM),"Belfast, Northern Ireland",https://www.adzuna.co.uk/jobs/details/5896924922?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Machine Learning Engineer (LLM & Agent Evaluation) Mid to senior ML Engineering role at a fast-scaling, AI-first software business Build scalable evaluation infrastructure and multi-agent architectures at the core of the product Belfast based, hybrid with async-friendly global team Salary: competitive, reflecting experience, with equity UK work authorisation required About the Company Our client is a fast-scaling AI software business powering enterprise automation for Fortune 500 clients including major names across financial services and healthcare technology. Their small, elite Data Science and AI team builds and deploys cutting-edge ML and agentic AI systems at scale, with a culture built around intellectual curiosity, hands-on leadership and pragmatic startup thinking. Leaders stay close to the code, debate ideas openly and move fast without corporate inertia. This is a team where exceptional engineers thrive. The Role A newly created individual contributor position for an ML Engineer who wants to own evaluation end to end. You will design robust evaluation frameworks, build automated scoring and regression testing pipelines, and track quality across model, prompt and agent behaviour changes over time. A core part of this role involves building the infrastructure that converts expensive frontier agent tokens into optimised internal neural inference, a genuine and proprietary competitive advantage. Working closely with engineering teams and data scientists, you will analyse edge-case failure modes, build real-time quality dashboards and ensure high-confidence deployment workflows as the system scales. Key Responsibilities Design evaluation frameworks and metrics covering accuracy, safety, latency and cost across agent and LLM systems Build automated scoring pipelines, rubric-based grading and LLM-as-judge systems that scale beyond manual review Design and build chained multi-agent architectures that underpin the core product capability Stand up automated regression suites that catch quality drops from model, prompt or agent-logic changes before they reach production Bridge high-cost frontier models into low-cost, optimised internal inference systems Build dashboards and reporting that track model and agent quality over time and across releases Identify failure modes and edge cases across diverse scenarios, working with the team to prioritise fixes Partner closely with engineers building agent capabilities and with the senior data scientist for deeper analytical support What You'll Need Essential: Bachelor's degree in Computer Science, Machine Learning, Statistics or a related field, or equivalent practical experience 3 or more years of experience in ML engineering, NLP or applied data science with hands-on exposure to LLM or agent-based systems Deep practical experience building, chaining and evaluating autonomous agent workflows and frontier LLMs Practical experience building or operating evaluation frameworks, automated scoring or benchmark systems for ML and LLM outputs Strong Python skills and comfort building data pipelines for evaluation datasets Solid understanding of NLP and modern LLM capabilities including prompting techniques, agentic workflows and retrieval Working experience with Google Cloud Platform including Vertex AI and BigQuery, or equivalent AWS or Azure experience Experience with inference optimisation and bridging frontier models into lower-cost internal systems Desirable: Experience with LLM-as-judge techniques, rubric design or human-in-the-loop evaluation programmes Familiarity with agent architectures and the specific failure modes of multi-step and agentic systems Experience operating evaluation systems at scale in a production environment Why Apply? Competitive salary plus equity, with package tailored to UK, NI or European candidates Work on genuinely novel evaluation and agent infrastructure at the competitive core of a scaling AI product Hands-on, intellectually driven team that debates ideas openly and challenges assumptions constructively Async-friendly culture with approximately three syncs per week, designed to protect deep focus and work-life balance Fast-moving startup environment with full operational autonomy and no corporate inertia Belfast based with a globally distributed, elite AI engineering team behind you Interested? For a confidential conversation about this opportunity, connect with Justin Donaldson on LinkedIn or submit your CV via the link below. Skills: ML NLP Python Cloud ML Ops Benefits: Equity
+ADZN1_NI",top match
+Sanderson Recruitment,Machine Learning Engineer,"London, UK",https://www.adzuna.co.uk/jobs/details/5897334860?utm_medium=api&utm_source=dc96cb17,adzuna-api,2026-09-24,2026-09-29,"Machine Learning Engineer
+£700-750/day overall assignment rate to umbrella
+Fully remote
+6 month initial
+Working with a FTSE 100 retail client who looking for 2x Machine Learning Engineers to expand their existing engineering team - this will be to support the delivery of advanced AI solutions.
+The requirement is for talented Machine Learning Engineers with excellent Python development skills and the ability to take ownership of the entire machine learning lifecycle. The successful candidate will be responsible for building, training and deploying machine learning models for end users, while also investigating, preparing and transforming data independently to ensure successful implementation.
+
+Machine Learning Engineer, key skills:
+
+- Experience: Proven background as a Machine Learning Engineer
+- Programming skills: Strong in SQL and Python (Pandas, Scikit-learn, Jupyter, Matplotlib)
+- Data transformation & manipulation : experience with Airflow, DBT and Kubeflow
+- Cloud: Experience with GCP and Vertex AI (developing ML services)
+- Expertise: Solid understanding of computer science fundamentals and time-series forecasting
+- Machine Learning: Strong grasp of ML and deep learning algorithms (e.g. Logistic Regression, Random Forest, XGBoost, BERT, LSTM, NLP, Transfer Learning)
+Machine Learning Engineer, XGBoost, GCP, Python, SQL, time-series forecasting
+Reasonable Adjustments:
+Respect and equality are core values to us. We are proud of the diverse and inclusive community we have built, and we welcome applications from people of all backgrounds and perspectives. Our success is driven by our people, united by the spirit of partnership to deliver the best resourcing solutions for our clients.
+If you need any help or adjustments during the recruitment process for any reason , please let us know when you apply or talk to the recruiters directly so we can support you.",medium match
+Synergize Consulting Limited,Machine Learning Engineer,"Isleworth, West London",https://www.adzuna.co.uk/jobs/land/ad/5895867889?se=Yp1AGRW88RGGIMuNWmfObw&utm_medium=api&utm_source=dc96cb17&v=083DFB2863C30D82809E9966176C59E25A5C8EE1,adzuna-api,2026-09-24,2026-09-29,"We are currently hiring for a Machine Learning Engineer - for an initial 3-6 months contract assignment. (Duration is very likely to extend). This is a hybrid working role with 2 days on site in Osterley, West London. Inside IR35 Description and Location Machine learning engineers act as critical members of the data science team. Their tasks involve researching, building, and designing the artificial intelligence responsible for machine learning and maintaining and improving existing artificial…",top match
